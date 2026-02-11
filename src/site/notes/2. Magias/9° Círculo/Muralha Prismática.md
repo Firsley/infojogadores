@@ -1,0 +1,38 @@
+---
+{"dg-publish":true,"permalink":"/2-magias/9-circulo/muralha-prismatica/","title":"Muralha Prismática","tags":["Vocal","Somático"],"created":"2026-02-10T23:28:30.794-03:00","updated":"2026-02-11T01:13:29.849-03:00"}
+---
+
+*Prismatic Wall*
+
+Tags: #Vocal #Somático 
+
+Classes: [[1. Classes/Bardo\|Bardo]], [[1. Classes/Mago\|Mago]]
+
+9° Círculo, [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]
+
+**Tempo de Conjuração:** Ação\
+**Alcance:** 18 m (60 ft.)\
+**Componentes**: V, S\
+**Duração:** 10 minutos
+
+Uma superfície cintilante e multicolorida forma uma parede vertical opaca de até 27 m (90 ft.) de comprimento, 9 m (30 ft.) de altura e 2,5 cm de espessura centrada em um ponto no alcance da magia. Como alternativa, você molda a parede em um globo de até 9 m (30 ft.) de diâmetro centrado em um ponto no alcance da magia. A parede permanece pela duração. Se você posicionar a parede em um espaço ocupado por uma criatura, a magia encerra instantaneamente sem efeito. 
+
+A parede emite Luz Plena por 30 m (100 ft.) e Meia-luz por mais 30 m (100 ft.). Você e as criaturas que você escolher ao conjurar a magia podem passar e ficar perto da muralha sem sofrer dano. Se outra criatura que possa ver a parede se mover a até 6 m (20 ft.) dela ou começar o turno nela, a criatura deve ser bem-sucedida em uma salvaguarda de Constituição ou tem a condição [[8. Geral/Condições/Cego\|Cego]] por 1 min.
+
+A parede possui sete camadas, cada uma de uma cor diferente. Uma criatura que atravessa ou entra na parede passa uma camada por vez e deve realizar uma salvaguarda de Destreza ou é afetada pelas propriedades da camada, conforme descrito na tabela Camadas Prismáticas.
+
+A parede tem CA 10 e pode ser destruída uma camada por vez, em ordem do vermelho ao violeta, por meios específicos para cada camada. Se uma camada for destruída, ela desaparece pela duração da magia. [[2. Magias/8° Círculo/Campo Antimagia\|Campo Antimagia]] não tem efeito na parede, e [[2. Magias/3° Círculo/Dissipar Magia\|Dissipar Magia]] pode afetar apenas a camada violeta.
+
+**Camadas Prismáticas**
+
+| Ordem | Efeitos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| :---: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1   | **Vermelho**. *Se falhar*: 12d6 pontos de dano Ígneo. *Em caso de sucesso*: metade do dano. *Efeitos Adicionais*: Ataques à distância não mágicos não podem atravessar esta camada, que é destruída se sofrer ao menos 25 pontos de dano Gélido.                                                                                                                                                                                                                                                                                                                                   |
+|   2   | **Laranja**. *Se falhar*: 12d6 pontos de dano Ácido. *Em caso de sucesso*: metade do dano. *Efeitos Adicionais*: Ataques mágicos à distância não podem passar por esta camada, que é destruída por um vento forte (como o criado por [[2. Magias/2° Círculo/Lufada de Vento\|Lufada de Vento]]).                                                                                                                                                                                                                                                                                                                         |
+|   3   | **Amarelo**. *Se falhar*: 12d6 pontos de dano Elétrico. *Em caso de sucesso*: metade do dano. *Efeitos Adicionais*: A camada é destruída se sofrer ao menos 60 pontos de dano Energético.                                                                                                                                                                                                                                                                                                                                                                                          |
+|   4   | **Verde**. *Se falhar*: 12d6 pontos de dano Venenoso. *Em caso de sucesso*: metade do dano. *Efeitos Adicionais*: Uma magia [[2. Magias/5° Círculo/Criar Passagem\|Criar Passagem]] ou outra magia de círculo igual ou superior, que possa abrir um portal em uma superfície sólida, destrói esta camada.                                                                                                                                                                                                                                                                                                               |
+|   5   | **Azul**. *Se falhar*: 12d6 pontos de dano Gélido. *Em caso de sucesso*: metade do dano. *Efeitos Adicionais*: A camada é destruída se sofrer ao menos 25 pontos de dano Ígneo.                                                                                                                                                                                                                                                                                                                                                                                                    |
+|   6   | **Anil**. *Se falhar*: O alvo tem a condição [[8. Geral/Condições/Contido\|Contido]] e realiza uma salvaguarda de Constituição no final de cada um dos turnos dele. Se bem-sucedido três vezes, a condição encerra. Se falhar três vezes, ele tem a condição [[8. Geral/Condições/Petrificado\|Petrificado]] até ser liberado por um efeito como a magia [[2. Magias/5° Círculo/Restauração Maior\|Restauração Maior]]. Os sucessos e fracassos não precisam ser consecutivos; acompanhe ambos até que o alvo alcance três de um tipo. *Efeitos Adicionais*: Magias não podem ser conjuradas através desta camada, que é destruída pela Luz Plena conjurada pela magia [[2. Magias/3° Círculo/Luz do Dia\|Luz do Dia]]. |
+|   7   | **Violeta**. *Se falhar*: O alvo tem a condição Cego e realiza uma salvaguarda de Sabedoria no início do seu próximo turno. Em caso de sucesso a condição encerra. Se falhar, a condição encerra e a criatura se teleporta para outro plano de existência (à escolha do Mestre). *Efeitos Adicionais*: Esta camada é destruída por [[2. Magias/3° Círculo/Dissipar Magia\|Dissipar Magia]].                                                                                                                                                                                                                             |
+
+Fonte: Livro do Jogador (PHB), p. 310
