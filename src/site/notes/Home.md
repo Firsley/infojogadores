@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Informações para Jogadores","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","title":"Informações para Jogadores","tags":["gardenEntry"],"created":"2026-02-10T23:56:57.121-03:00","updated":"2026-02-11T00:08:04.586-03:00"}
 ---
 
 Olá! Esse site contém informações essenciais para jogadores do maior sistema de RPG (*role-playing game*) do mundo, atualmente na sua 5ª edição, versão 2024.
