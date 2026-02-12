@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/bardo/colegio-do-glamour/","title":"Colégio do Glamour","created":"2026-02-10T23:28:29.436-03:00","updated":"2026-02-11T00:35:56.599-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/bardo/colegio-do-glamour/","title":"Colégio do Glamour"}
 ---
 
 *Teça Magia Feérica Fascinante*

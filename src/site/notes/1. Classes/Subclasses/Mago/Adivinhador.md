@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/mago/adivinhador/","title":"Adivinhador","created":"2026-02-10T23:28:29.582-03:00","updated":"2026-02-11T00:37:54.093-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/mago/adivinhador/","title":"Adivinhador"}
 ---
 
 *Conheça os Segredos do Multiverso*

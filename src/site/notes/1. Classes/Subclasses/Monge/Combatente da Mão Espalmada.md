@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/monge/combatente-da-mao-espalmada/","title":"Combatente da Mão Espalmada","created":"2026-02-10T23:28:29.597-03:00","updated":"2026-02-11T00:38:07.646-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/monge/combatente-da-mao-espalmada/","title":"Combatente da Mão Espalmada"}
 ---
 
 *Domine as Técnicas de Combate Desarmado*

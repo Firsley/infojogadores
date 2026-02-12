@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/barbaro/trilha-do-coracao-selvagem/","title":"Trilha do Coração Selvagem","created":"2026-02-10T23:28:29.467-03:00","updated":"2026-02-11T00:35:37.046-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/barbaro/trilha-do-coracao-selvagem/","title":"Trilha do Coração Selvagem"}
 ---
 
 *Ande em Comunhão com o Mundo Animal*

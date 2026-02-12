@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/bruxo/patrono-celestial/","title":"Patrono Celestial","created":"2026-02-10T23:28:29.447-03:00","updated":"2026-02-11T00:36:12.922-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/bruxo/patrono-celestial/","title":"Patrono Celestial"}
 ---
 
 *Invoque o Poder dos Céus*

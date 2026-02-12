@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/golpe-certeiro/","title":"Golpe Certeiro","tags":["Somático","Material"],"created":"2026-02-10T23:28:30.902-03:00","updated":"2026-02-11T01:14:34.491-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/golpe-certeiro/","title":"Golpe Certeiro","tags":["Somático","Material"]}
 ---
 
 *True Strike*

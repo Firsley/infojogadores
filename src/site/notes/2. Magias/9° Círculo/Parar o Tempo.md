@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/9-circulo/parar-o-tempo/","title":"Parar o Tempo","tags":["Vocal"],"created":"2026-02-10T23:28:30.807-03:00","updated":"2026-02-11T01:13:37.937-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/9-circulo/parar-o-tempo/","title":"Parar o Tempo","tags":["Vocal"]}
 ---
 
 *Time Stop*

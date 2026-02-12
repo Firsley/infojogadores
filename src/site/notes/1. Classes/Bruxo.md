@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/bruxo/","title":"Bruxo","created":"2026-02-10T23:28:29.232-03:00","updated":"2026-02-11T00:34:08.575-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/bruxo/","title":"Bruxo"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/invocacoes-misticas/olhar-de-duas-mentes/","created":"2026-02-10T23:28:29.295-03:00","updated":"2026-02-11T00:56:06.524-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/invocacoes-misticas/olhar-de-duas-mentes/"}
 ---
 
 *Pré-requisito: Bruxo Nível 5 ou superior*

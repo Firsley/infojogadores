@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/invocacoes-misticas/presente-dos-protetores/","created":"2026-02-10T23:28:29.310-03:00","updated":"2026-02-11T00:57:20.175-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/invocacoes-misticas/presente-dos-protetores/"}
 ---
 
 *Pré-requisito: Bruxo Nível 9 ou superior, [[1. Classes/Listas de Características de Classes/Invocações Místicas/Pacto do Tomo\|Pacto do Tomo]]*

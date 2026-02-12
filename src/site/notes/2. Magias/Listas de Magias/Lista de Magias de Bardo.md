@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/listas-de-magias/lista-de-magias-de-bardo/","created":"2026-02-10T23:28:30.832-03:00","updated":"2026-02-11T01:12:07.881-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/listas-de-magias/lista-de-magias-de-bardo/"}
 ---
 
 Esta seção apresenta a lista de magias de [[1. Classes/Bardo\|Bardo]], organizadas por círculo de magia e em ordem alfabética, com suas respectivas escolas. Na coluna Especial, C indica que a magia requer Concentração, R que é um #Ritual e M que necessita de um componente Material específico.
@@ -50,8 +50,8 @@ Esta seção apresenta a lista de magias de [[1. Classes/Bardo\|Bardo]], organiz
 | [[2. Magias/1° Círculo/Perdição\|Perdição]]                                       | Bane                     | [[8. Geral/Escolas de Magia/Encantamento\|Encantamento]] | C        |
 | [[2. Magias/1° Círculo/Queda Suave\|Queda Suave]]                                 | Feather Fall             | [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] | \-       |
 | [[2. Magias/1° Círculo/Servo Invisível\|Servo Invisível]]                         | Unseen Servant           | [[8. Geral/Escolas de Magia/Invocação\|Invocação]]       | R        |
-| [[2. Magias/1° Círculo/Sussurros Dissonantes\|Sussurros Dissonantes]]             | Dissonant Whispers       | [[8. Geral/Escolas de Magia/Encantamento\|Encantamento]] | \-       |
 | [[2. Magias/1° Círculo/Sono\|Sono]]                                               | Sleep                    | [[8. Geral/Escolas de Magia/Encantamento\|Encantamento]] | C        |
+| [[2. Magias/1° Círculo/Sussurros Dissonantes\|Sussurros Dissonantes]]             | Dissonant Whispers       | [[8. Geral/Escolas de Magia/Encantamento\|Encantamento]] | \-       |
 
 { .block-language-dataview}
 

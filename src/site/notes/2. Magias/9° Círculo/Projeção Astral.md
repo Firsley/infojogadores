@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/9-circulo/projecao-astral/","title":"Projeção Astral","tags":["Vocal","Somático","Material"],"created":"2026-02-10T23:28:30.815-03:00","updated":"2026-02-11T01:13:47.947-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/9-circulo/projecao-astral/","title":"Projeção Astral","tags":["Vocal","Somático","Material"]}
 ---
 
 *Astral Projection*

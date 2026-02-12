@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/toque-necrotico/","title":"Toque Necrótico","tags":["Vocal","Somático"],"created":"2026-02-10T23:28:30.971-03:00","updated":"2026-02-11T01:15:32.608-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/toque-necrotico/","title":"Toque Necrótico","tags":["Vocal","Somático"]}
 ---
 
 *Chill Touch*

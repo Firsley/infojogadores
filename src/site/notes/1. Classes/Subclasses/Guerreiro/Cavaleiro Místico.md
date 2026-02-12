@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/guerreiro/cavaleiro-mistico/","title":"Cavaleiro Místico","created":"2026-02-10T23:28:29.550-03:00","updated":"2026-02-11T00:37:29.388-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/guerreiro/cavaleiro-mistico/","title":"Cavaleiro Místico"}
 ---
 
 *Fortaleça suas Habilidades de Combate com Magia Arcana*

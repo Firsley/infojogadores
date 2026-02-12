@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/criar-chamas/","title":"Criar Chamas","tags":["Vocal","Somático"],"created":"2026-02-10T23:28:30.887-03:00","updated":"2026-02-11T01:14:21.946-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/criar-chamas/","title":"Criar Chamas","tags":["Vocal","Somático"]}
 ---
 
 *Produce Flame*

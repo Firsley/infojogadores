@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/barbaro/","title":"Bárbaro","created":"2026-02-10T23:28:29.234-03:00","updated":"2026-02-11T00:33:59.326-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/barbaro/","title":"Bárbaro"}
 ---
 
 

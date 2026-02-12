@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/paladino/juramento-da-gloria/","title":"Juramento da Glória","created":"2026-02-10T23:28:29.612-03:00","updated":"2026-02-11T00:38:23.858-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/paladino/juramento-da-gloria/","title":"Juramento da Glória"}
 ---
 
 *Aspire às Alturas do Heroísmo*

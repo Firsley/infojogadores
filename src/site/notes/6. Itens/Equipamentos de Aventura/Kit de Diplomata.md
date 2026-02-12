@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/6-itens/equipamentos-de-aventura/kit-de-diplomata/"}
+---
+
+Um Kit de Diplomata contém os seguintes itens: [[6. Itens/Equipamentos de Aventura/Baú\|Baú]], [[6. Itens/Equipamentos de Aventura/Caixa para Fogo\|Caixa para Fogo]], 5 [[6. Itens/Equipamentos de Aventura/Caneta Tinteiro\|Canetas Tinteiro]], 2 [[6. Itens/Equipamentos de Aventura/Estojo de Mapa ou Pergaminho\|Estojos de Mapa ou Pergaminho]], [[6. Itens/Equipamentos de Aventura/Lâmpada\|Lâmpada]], 4 potes de [[6. Itens/Equipamentos de Aventura/Óleo\|Óleo]], [[6. Itens/Equipamentos de Aventura/Perfume\|Perfume]], 5 folhas de [[6. Itens/Equipamentos de Aventura/Papel\|Papel]], 5 folhas de [[6. Itens/Equipamentos de Aventura/Pergaminho\|Pergaminho]], [[6. Itens/Equipamentos de Aventura/Roupas Finas\|Roupas Finas]], [[6. Itens/Equipamentos de Aventura/Tinta\|Tinta]].

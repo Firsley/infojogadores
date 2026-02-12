@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/paladino/juramento-da-vinganca/","title":"Juramento da Vingança","created":"2026-02-10T23:28:29.612-03:00","updated":"2026-02-11T00:38:26.397-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/paladino/juramento-da-vinganca/","title":"Juramento da Vingança"}
 ---
 
 *Puna os Malfeitores a Qualquer Custo*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/resistencia/","title":"Resistência","tags":["Vocal","Somático","Concentração"],"created":"2026-02-10T23:28:30.951-03:00","updated":"2026-02-11T01:15:18.495-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/resistencia/","title":"Resistência","tags":["Vocal","Somático","Concentração"]}
 ---
 
 *Resistance*

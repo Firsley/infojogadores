@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/invocacoes-misticas/pacto-da-corrente/","created":"2026-02-10T23:28:29.300-03:00","updated":"2026-02-11T00:56:16.943-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/invocacoes-misticas/pacto-da-corrente/"}
 ---
 
 Você aprende a magia [[2. Magias/1° Círculo/Convocar Familiar\|Convocar Familiar]] e pode conjurá-la como uma ação [[8. Geral/Ações em Combate/Usar Magia\|Usar Magia]] sem gastar um espaço de magia.

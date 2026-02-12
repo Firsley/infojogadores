@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/fagulha-estelar/","title":"Fagulha Estelar","tags":["Vocal","Somático"],"created":"2026-02-10T23:28:30.899-03:00","updated":"2026-02-11T01:14:30.671-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/fagulha-estelar/","title":"Fagulha Estelar","tags":["Vocal","Somático"]}
 ---
 
 *Starry Whisp*

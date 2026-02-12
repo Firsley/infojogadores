@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/selvageria-primitiva/","title":"Selvageria Primitiva","tags":["Somático"],"created":"2026-02-10T23:28:30.955-03:00","updated":"2026-02-11T01:15:21.299-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/selvageria-primitiva/","title":"Selvageria Primitiva","tags":["Somático"]}
 ---
 
 *Primal Savagery*

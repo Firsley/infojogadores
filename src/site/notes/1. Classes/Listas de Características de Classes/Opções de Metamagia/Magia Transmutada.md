@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/opcoes-de-metamagia/magia-transmutada/","created":"2026-02-10T23:28:29.415-03:00","updated":"2026-02-11T01:05:38.111-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/opcoes-de-metamagia/magia-transmutada/"}
 ---
 
 *Custo: 1 Ponto de Feitiçaria*

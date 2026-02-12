@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/arte-druidica/","title":"Arte Druídica","tags":["Vocal","Somático"],"created":"2026-02-10T23:28:30.869-03:00","updated":"2026-02-11T01:14:07.832-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/arte-druidica/","title":"Arte Druídica","tags":["Vocal","Somático"]}
 ---
 
 *Druidcraft*

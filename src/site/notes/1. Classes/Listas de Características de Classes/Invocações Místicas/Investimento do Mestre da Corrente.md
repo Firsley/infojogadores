@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/invocacoes-misticas/investimento-do-mestre-da-corrente/","created":"2026-02-10T23:28:29.273-03:00","updated":"2026-02-11T00:55:22.780-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/invocacoes-misticas/investimento-do-mestre-da-corrente/"}
 ---
 
 *Pré-requisito: Bruxo Nível 5 ou superior, [[1. Classes/Listas de Características de Classes/Invocações Místicas/Pacto da Corrente\|Pacto da Corrente]]*

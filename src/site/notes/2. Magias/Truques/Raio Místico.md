@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/raio-mistico/","title":"Raio Místico","tags":["Vocal","Somático"],"created":"2026-02-10T23:28:30.938-03:00","updated":"2026-02-11T01:15:10.819-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/raio-mistico/","title":"Raio Místico","tags":["Vocal","Somático"]}
 ---
 
 *Eldritch Blast*

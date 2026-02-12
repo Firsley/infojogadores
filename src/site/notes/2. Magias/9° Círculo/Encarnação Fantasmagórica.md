@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/9-circulo/encarnacao-fantasmagorica/","title":"Encarnação Fantasmagórica","tags":["Vocal","Somático","Concentração"],"created":"2026-02-10T23:28:30.792-03:00","updated":"2026-02-11T01:13:21.138-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/9-circulo/encarnacao-fantasmagorica/","title":"Encarnação Fantasmagórica","tags":["Vocal","Somático","Concentração"]}
 ---
 
 *Weird*

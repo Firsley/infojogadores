@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/druida/circulo-das-estrelas/","title":"Círculo das Estrelas","created":"2026-02-10T23:28:29.502-03:00","updated":"2026-02-11T00:36:47.818-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/druida/circulo-das-estrelas/","title":"Círculo das Estrelas"}
 ---
 
 *Domine os Segredos Ocultos nas Constelações*

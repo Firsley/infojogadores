@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/9-circulo/chuva-de-meteoros/","title":"Chuva de Meteoros","tags":["Vocal","Somático"],"created":"2026-02-10T23:28:30.785-03:00","updated":"2026-02-11T01:13:13.167-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/9-circulo/chuva-de-meteoros/","title":"Chuva de Meteoros","tags":["Vocal","Somático"]}
 ---
 
 *Meteor Swarm*

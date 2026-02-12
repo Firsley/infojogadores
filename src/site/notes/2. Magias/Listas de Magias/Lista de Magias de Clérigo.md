@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/listas-de-magias/lista-de-magias-de-clerigo/","created":"2026-02-10T23:28:30.838-03:00","updated":"2026-02-11T01:12:29.379-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/listas-de-magias/lista-de-magias-de-clerigo/"}
 ---
 
 Esta seção apresenta a lista de magias de [[1. Classes/Clérigo\|Clérigo]], organizadas por círculo de magia e em ordem alfabética, com suas respectivas escolas. Na coluna Especial, C indica que a magia requer Concentração, R que é um #Ritual e M que necessita de um componente Material específico.

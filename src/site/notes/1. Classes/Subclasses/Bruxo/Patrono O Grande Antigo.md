@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/bruxo/patrono-o-grande-antigo/","title":"Patrono O Grande Antigo","created":"2026-02-10T23:28:29.449-03:00","updated":"2026-02-11T00:36:18.218-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/bruxo/patrono-o-grande-antigo/","title":"Patrono O Grande Antigo"}
 ---
 
 *Descubra o Conhecimento Proibido de Seres Inefáveis*

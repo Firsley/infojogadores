@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/opcoes-de-manobra/golpe-do-comandante/","created":"2026-02-10T23:28:29.372-03:00","updated":"2026-02-11T01:00:21.385-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/opcoes-de-manobra/golpe-do-comandante/"}
 ---
 
 Ao executar a ação [[8. Geral/Ações em Combate/Atacar\|Atacar]] no seu turno, você pode substituir um de seus ataques para instruir um de seus companheiros a atacar. Ao fazer isso, escolha uma criatura voluntária que possa vê-lo ou ouvi-lo e gaste um [[1. Classes/Subclasses/Guerreiro/Mestre da Batalha#Nível 3 Superioridade em Combate\|Dado de Superioridade]]. Essa criatura pode usar imediatamente a [[8. Geral/Combate/Reação\|Reação]] dela para realizar um ataque com uma arma ou um Ataque Desarmado, adicionando o resultado do [[1. Classes/Subclasses/Guerreiro/Mestre da Batalha#Nível 3 Superioridade em Combate\|Dado de Superioridade]] à jogada de dano do ataque em caso de acerto.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/feiticeiro/feiticaria-aberrante/","title":"Feitiçaria Aberrante","created":"2026-02-10T23:28:29.510-03:00","updated":"2026-02-11T00:36:56.216-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/feiticeiro/feiticaria-aberrante/","title":"Feitiçaria Aberrante"}
 ---
 
 *Exerça o Sobrenatural Poder Psiônico*

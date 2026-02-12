@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/explosao-elemental/","title":"Explosão Elemental","tags":["Vocal","Somático"],"created":"2026-02-10T23:28:30.894-03:00","updated":"2026-02-11T01:14:27.869-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/explosao-elemental/","title":"Explosão Elemental","tags":["Vocal","Somático"]}
 ---
 
 *Sorcerous Burst*

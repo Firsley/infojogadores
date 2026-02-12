@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/9-circulo/desejo/","title":"Desejo","tags":["Vocal"],"created":"2026-02-10T23:28:30.787-03:00","updated":"2026-02-11T01:13:18.613-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/9-circulo/desejo/","title":"Desejo","tags":["Vocal"]}
 ---
 
 *Wish*

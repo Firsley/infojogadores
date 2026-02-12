@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/invocacoes-misticas/explosao-repulsiva/","created":"2026-02-10T23:28:29.270-03:00","updated":"2026-02-11T00:55:06.441-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/invocacoes-misticas/explosao-repulsiva/"}
 ---
 
 *Pré-requisito: Bruxo Nível 2 ou superior, um Truque de Bruxo que Cause Dano com uma Jogada de Ataque*

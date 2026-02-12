@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/paladino/juramento-dos-ancioes/","title":"Juramento dos Anciões","created":"2026-02-10T23:28:29.621-03:00","updated":"2026-02-11T00:38:29.052-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/paladino/juramento-dos-ancioes/","title":"Juramento dos Anciões"}
 ---
 
 *Preserve a Vida e a Luz no Mundo*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/paladino/juramento-da-devocao/","title":"Juramento da Devoção","created":"2026-02-10T23:28:29.605-03:00","updated":"2026-02-11T00:38:21.024-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/paladino/juramento-da-devocao/","title":"Juramento da Devoção"}
 ---
 
 *Defenda os Ideais da Justiça e da Ordem*

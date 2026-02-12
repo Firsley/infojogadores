@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/clerigo/dominio-da-guerra/","title":"Domínio da Guerra","created":"2026-02-10T23:28:29.480-03:00","updated":"2026-02-11T00:36:24.088-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/clerigo/dominio-da-guerra/","title":"Domínio da Guerra"}
 ---
 
 *Inspire Bravura e Derrote Inimigos*

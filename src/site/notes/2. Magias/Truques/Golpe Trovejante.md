@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/golpe-trovejante/","title":"Golpe Trovejante","tags":["Somático"],"created":"2026-02-10T23:28:30.905-03:00","updated":"2026-02-11T01:14:36.841-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/golpe-trovejante/","title":"Golpe Trovejante","tags":["Somático"]}
 ---
 
 *Thunderclap*

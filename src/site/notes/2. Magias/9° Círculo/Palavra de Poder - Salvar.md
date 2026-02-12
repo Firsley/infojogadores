@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/9-circulo/palavra-de-poder-salvar/","title":"Palavra de Poder - Salvar","tags":["Vocal"],"created":"2026-02-10T23:28:30.803-03:00","updated":"2026-02-11T01:13:35.063-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/9-circulo/palavra-de-poder-salvar/","title":"Palavra de Poder - Salvar","tags":["Vocal"]}
 ---
 
 *Power Word Heal*

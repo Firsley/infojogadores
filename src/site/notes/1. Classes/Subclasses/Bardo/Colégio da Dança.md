@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/bardo/colegio-da-danca/","title":"Colégio da Dança","created":"2026-02-10T23:28:29.430-03:00","updated":"2026-02-11T00:35:50.303-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/bardo/colegio-da-danca/","title":"Colégio da Dança"}
 ---
 
 *Mova-se em Harmonia com o Cosmos*

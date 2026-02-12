@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/bordao-mistico/","title":"Bordão Místico","tags":["Vocal","Somático","Material"],"created":"2026-02-10T23:28:30.871-03:00","updated":"2026-02-11T01:14:14.471-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/bordao-mistico/","title":"Bordão Místico","tags":["Vocal","Somático","Material"]}
 ---
 
 *Shillelagh*

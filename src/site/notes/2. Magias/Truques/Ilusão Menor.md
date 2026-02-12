@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/ilusao-menor/","title":"Ilusão Menor","tags":["Somático","Material"],"created":"2026-02-10T23:28:30.907-03:00","updated":"2026-02-11T01:14:40.117-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/ilusao-menor/","title":"Ilusão Menor","tags":["Somático","Material"]}
 ---
 
 *Minor Illusion*

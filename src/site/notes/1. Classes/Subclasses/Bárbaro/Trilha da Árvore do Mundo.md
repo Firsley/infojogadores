@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/barbaro/trilha-da-arvore-do-mundo/","title":"Trilha da Árvore do Mundo","created":"2026-02-10T23:28:29.460-03:00","updated":"2026-02-11T00:35:30.054-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/barbaro/trilha-da-arvore-do-mundo/","title":"Trilha da Árvore do Mundo"}
 ---
 
 *Entrelace as Raízes e Ramos do Multiverso*

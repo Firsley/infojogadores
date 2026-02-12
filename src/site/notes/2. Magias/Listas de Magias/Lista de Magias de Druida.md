@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/listas-de-magias/lista-de-magias-de-druida/","created":"2026-02-10T23:28:30.841-03:00","updated":"2026-02-11T01:12:33.340-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/listas-de-magias/lista-de-magias-de-druida/"}
 ---
 
 Esta seção apresenta a lista de magias de [[1. Classes/Druida\|Druida]]. As magias estão organizadas por círculo de magia, ordem alfabética e suas respectivas escolas de magia. Na coluna Especial, C indica que a magia requer Concentração, R que é um #Ritual e M que necessita de um componente Material específico.

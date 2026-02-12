@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/invocacoes-misticas/licoes-dos-grandes-antigos/","created":"2026-02-10T23:28:29.282-03:00","updated":"2026-02-11T00:54:11.769-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/invocacoes-misticas/licoes-dos-grandes-antigos/"}
 ---
 
 *Pré-requisito: Bruxo Nível 2 ou superior*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/feiticeiro/feiticaria-draconica/","title":"Feitiçaria Dracônica","created":"2026-02-10T23:28:29.514-03:00","updated":"2026-02-11T00:36:59.020-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/feiticeiro/feiticaria-draconica/","title":"Feitiçaria Dracônica"}
 ---
 
 *Respire a Magia dos Dragões*

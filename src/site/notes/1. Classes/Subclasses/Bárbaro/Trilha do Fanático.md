@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/barbaro/trilha-do-fanatico/","title":"Trilha do Fanático","created":"2026-02-10T23:28:29.469-03:00","updated":"2026-02-11T00:35:39.913-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/barbaro/trilha-do-fanatico/","title":"Trilha do Fanático"}
 ---
 
 Fúria em Êxtase com um Deus

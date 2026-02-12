@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/ladino/trapaceiro-arcano/","title":"Trapaceiro Arcano","created":"2026-02-10T23:28:29.571-03:00","updated":"2026-02-11T00:37:47.205-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/ladino/trapaceiro-arcano/","title":"Trapaceiro Arcano"}
 ---
 
 *Aprimore a Furtividade com Magias Arcanas*

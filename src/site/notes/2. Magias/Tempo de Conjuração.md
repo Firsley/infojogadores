@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/tempo-de-conjuracao/","created":"2026-02-10T23:28:29.636-03:00","updated":"2026-02-11T01:08:16.547-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/tempo-de-conjuracao/"}
 ---
 
 A maioria das magias requer a ação [[8. Geral/Ações em Combate/Usar Magia\|Usar Magia]] para ser conjurada, mas algumas necessitam de uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], Reação ou 1 minuto ou mais. O Tempo de Conjuração é especificado na descrição da magia.

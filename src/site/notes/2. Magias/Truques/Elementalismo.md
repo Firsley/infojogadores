@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/elementalismo/","title":"Elementalismo","tags":["Vocal","Somático"],"created":"2026-02-10T23:28:30.891-03:00","updated":"2026-02-11T01:14:24.132-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/elementalismo/","title":"Elementalismo","tags":["Vocal","Somático"]}
 ---
 
 *Elementalism*

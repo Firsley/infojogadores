@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/invocacoes-misticas/visoes-de-reinos-distantes/","created":"2026-02-10T23:28:29.328-03:00","updated":"2026-02-11T00:54:43.429-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/invocacoes-misticas/visoes-de-reinos-distantes/"}
 ---
 
 *Pré-requisito: Bruxo Nível 9 ou superior*

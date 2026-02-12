@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/toque-chocante/","title":"Toque Chocante","tags":["Vocal","Somático"],"created":"2026-02-10T23:28:30.968-03:00","updated":"2026-02-11T01:15:30.124-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/toque-chocante/","title":"Toque Chocante","tags":["Vocal","Somático"]}
 ---
 
 *Shocking Grasp*

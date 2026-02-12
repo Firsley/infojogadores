@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/rajada-de-veneno/","title":"Rajada de Veneno","tags":["Vocal","Somático"],"created":"2026-02-10T23:28:30.945-03:00","updated":"2026-02-11T01:15:13.274-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/rajada-de-veneno/","title":"Rajada de Veneno","tags":["Vocal","Somático"]}
 ---
 
 *Poison Spray*

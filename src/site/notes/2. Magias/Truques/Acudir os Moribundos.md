@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/acudir-os-moribundos/","title":"Acudir os Moribundos","tags":["Vocal","Somático"],"created":"2026-02-10T23:28:30.862-03:00","updated":"2026-02-11T01:14:03.193-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/acudir-os-moribundos/","title":"Acudir os Moribundos","tags":["Vocal","Somático"]}
 ---
 
 *Spare the Dying*

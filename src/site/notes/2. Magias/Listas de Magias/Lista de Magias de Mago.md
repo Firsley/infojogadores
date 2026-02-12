@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/listas-de-magias/lista-de-magias-de-mago/","created":"2026-02-10T23:28:30.851-03:00","updated":"2026-02-11T01:12:47.484-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/listas-de-magias/lista-de-magias-de-mago/"}
 ---
 
 Esta seção apresenta a lista de magias de [[1. Classes/Mago\|Mago]]. As magias estão organizadas por círculo de magia, ordem alfabética e suas respectivas escolas de magia. Na coluna Especial, C indica que a magia requer Concentração, R que é um #Ritual e M que necessita de um componente Material específico.
@@ -136,7 +136,7 @@ Esta seção apresenta a lista de magias de [[1. Classes/Mago\|Mago]]. As magias
 | [[2. Magias/3° Círculo/Lentidão\|Lentidão]]                                     | Slow                   | [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] | C        |
 | [[2. Magias/3° Círculo/Línguas\|Línguas]]                                       | Tongues                | [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]]   | \-       |
 | [[2. Magias/3° Círculo/Medo\|Medo]]                                             | Fear                   | [[8. Geral/Escolas de Magia/Ilusão\|Ilusão]]             | C        |
-| [[2. Magias/3° Círculo/Montaria Fantasmagórica\|Montaria Fantasmagórica]]       | Phantom Steed          | [[8. Geral/Escolas de Magia/Ilusão\|Ilusão]]             | Rd       |
+| [[2. Magias/3° Círculo/Montaria Fantasmagórica\|Montaria Fantasmagórica]]       | Phantom Steed          | [[8. Geral/Escolas de Magia/Ilusão\|Ilusão]]             | R        |
 | [[2. Magias/3° Círculo/Nevasca\|Nevasca]]                                       | Sleet Storm            | [[8. Geral/Escolas de Magia/Invocação\|Invocação]]       | C        |
 | [[2. Magias/3° Círculo/Nuvem Fétida\|Nuvem Fétida]]                             | Stinking Cloud         | [[8. Geral/Escolas de Magia/Invocação\|Invocação]]       | C        |
 | [[2. Magias/3° Círculo/Padrão Hipnótico\|Padrão Hipnótico]]                     | Hypnotic Pattern       | [[8. Geral/Escolas de Magia/Ilusão\|Ilusão]]             | C        |

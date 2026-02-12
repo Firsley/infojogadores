@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/bruxo/patrono-arquifada/","title":"Patrono Arquifada","created":"2026-02-10T23:28:29.443-03:00","updated":"2026-02-11T00:36:09.880-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/bruxo/patrono-arquifada/","title":"Patrono Arquifada"}
 ---
 
 *Faça Acordos com Feéricos Excêntricos*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/feiticeiro/feiticaria-mecanica/","title":"Feitiçaria Mecânica","created":"2026-02-10T23:28:29.518-03:00","updated":"2026-02-11T00:37:02.161-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/feiticeiro/feiticaria-mecanica/","title":"Feitiçaria Mecânica"}
 ---
 
 *Canalize as Forças Cósmicas da Ordem*

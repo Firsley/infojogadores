@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/invocacoes-misticas/lanca-mistica/","created":"2026-02-10T23:28:29.277-03:00","updated":"2026-02-11T00:55:42.930-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/invocacoes-misticas/lanca-mistica/"}
 ---
 
 *Pré-requisito: Bruxo Nível 2 ou superior, um Truque de Bruxo que Cause Dano*

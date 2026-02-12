@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/badalar-funebre/","title":"Badalar Fúnebre","tags":["Vocal","Somático"],"created":"2026-02-10T23:28:30.871-03:00","updated":"2026-02-11T01:14:10.061-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/badalar-funebre/","title":"Badalar Fúnebre","tags":["Vocal","Somático"]}
 ---
 
 *Toll the Dead*

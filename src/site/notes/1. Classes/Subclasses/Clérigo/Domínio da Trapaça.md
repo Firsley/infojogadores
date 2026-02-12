@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/clerigo/dominio-da-trapaca/","title":"Domínio da Trapaça","created":"2026-02-10T23:28:29.484-03:00","updated":"2026-02-11T00:36:29.960-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/clerigo/dominio-da-trapaca/","title":"Domínio da Trapaça"}
 ---
 
 *Pregue Peças e Desafie as Autoridades*

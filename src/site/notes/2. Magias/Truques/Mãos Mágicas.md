@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/maos-magicas/","title":"Mãos Mágicas","tags":["Vocal","Somático"],"created":"2026-02-10T23:28:30.922-03:00","updated":"2026-02-11T01:14:49.725-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/maos-magicas/","title":"Mãos Mágicas","tags":["Vocal","Somático"]}
 ---
 
 *Mage Hand*

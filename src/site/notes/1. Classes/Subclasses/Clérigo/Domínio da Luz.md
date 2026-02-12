@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/clerigo/dominio-da-luz/","title":"Domínio da Luz","created":"2026-02-10T23:28:29.482-03:00","updated":"2026-02-11T00:36:27.120-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/clerigo/dominio-da-luz/","title":"Domínio da Luz"}
 ---
 
 *Traga a Luz para Banir a Escuridão*

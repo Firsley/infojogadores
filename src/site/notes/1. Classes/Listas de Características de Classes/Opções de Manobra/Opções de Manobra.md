@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/opcoes-de-manobra/opcoes-de-manobra/","created":"2026-02-10T23:28:29.378-03:00","updated":"2026-02-11T01:01:52.386-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/opcoes-de-manobra/opcoes-de-manobra/"}
 ---
 
 As manobras são apresentadas em ordem alfabética.
@@ -16,8 +16,8 @@ As manobras são apresentadas em ordem alfabética.
 | [[1. Classes/Listas de Características de Classes/Opções de Manobra/Avaliação Tática\|Avaliação Tática]]             |
 | [[1. Classes/Listas de Características de Classes/Opções de Manobra/Contra-ataque\|Contra-ataque]]                   |
 | [[1. Classes/Listas de Características de Classes/Opções de Manobra/Desarme\|Desarme]]                               |
-| [[1. Classes/Listas de Características de Classes/Opções de Manobra/Emboscada\|Emboscada]]                           |
 | [[1. Classes/Listas de Características de Classes/Opções de Manobra/Encontrão\|Encontrão]]                           |
+| [[1. Classes/Listas de Características de Classes/Opções de Manobra/Emboscada\|Emboscada]]                           |
 | [[1. Classes/Listas de Características de Classes/Opções de Manobra/Finta\|Finta]]                                   |
 | [[1. Classes/Listas de Características de Classes/Opções de Manobra/Gato por Lebre\|Gato por Lebre]]                 |
 | [[1. Classes/Listas de Características de Classes/Opções de Manobra/Golpe do Comandante\|Golpe do Comandante]]       |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/opcoes-de-metamagia/opcoes-de-metamagia/","created":"2026-02-10T23:28:29.415-03:00","updated":"2026-02-11T01:06:52.098-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/opcoes-de-metamagia/opcoes-de-metamagia/"}
 ---
 
 As seguintes opções estão disponíveis para sua característica [[1. Classes/Feiticeiro#Nível 2 Metamagia\|Metamagia]]. As opções são apresentadas em ordem alfabética.

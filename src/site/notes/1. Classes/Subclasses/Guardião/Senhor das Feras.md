@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/guardiao/senhor-das-feras/","title":"Senhor das Feras","created":"2026-02-10T23:28:29.532-03:00","updated":"2026-02-11T00:37:19.540-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/guardiao/senhor-das-feras/","title":"Senhor das Feras"}
 ---
 
 *Vincule-se a uma Fera Primal*

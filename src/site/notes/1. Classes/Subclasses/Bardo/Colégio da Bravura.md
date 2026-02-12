@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/bardo/colegio-da-bravura/","title":"Colégio da Bravura","created":"2026-02-10T23:28:29.423-03:00","updated":"2026-02-11T00:35:46.638-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/bardo/colegio-da-bravura/","title":"Colégio da Bravura"}
 ---
 
 *Cante os Feitos dos Heróis Antigos*

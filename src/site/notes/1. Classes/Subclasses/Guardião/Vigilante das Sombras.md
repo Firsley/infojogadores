@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/guardiao/vigilante-das-sombras/","title":"Vigilante das Sombras","created":"2026-02-10T23:28:29.537-03:00","updated":"2026-02-11T00:37:22.343-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/guardiao/vigilante-das-sombras/","title":"Vigilante das Sombras"}
 ---
 
 *Aproveite a Magia das Sombras para Lutar contra Seus Inimigos*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/monge/combatente-dos-elementos/","title":"Combatente dos Elementos","created":"2026-02-10T23:28:29.604-03:00","updated":"2026-02-11T00:38:16.611-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/monge/combatente-dos-elementos/","title":"Combatente dos Elementos"}
 ---
 
 *Manipule Golpes e Explosões de Poder Elemental*

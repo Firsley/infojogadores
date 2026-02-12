@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/clerigo/","title":"Clérigo","created":"2026-02-10T23:28:29.238-03:00","updated":"2026-02-11T00:34:18.586-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/clerigo/","title":"Clérigo"}
 ---
 
 

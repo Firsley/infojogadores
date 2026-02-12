@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/invocacoes-misticas/mascara-das-muitas-faces/","created":"2026-02-10T23:28:29.294-03:00","updated":"2026-02-11T00:54:13.197-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/listas-de-caracteristicas-de-classes/invocacoes-misticas/mascara-das-muitas-faces/"}
 ---
 
 *Pré-requisito: Bruxo Nível 2 ou superior*

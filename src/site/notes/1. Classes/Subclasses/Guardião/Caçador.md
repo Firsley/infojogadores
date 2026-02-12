@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/guardiao/cacador/","title":"Caçador","created":"2026-02-10T23:28:29.532-03:00","updated":"2026-02-11T00:37:16.662-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/guardiao/cacador/","title":"Caçador"}
 ---
 
 *Proteja a Natureza e as Pessoas da Destruição*

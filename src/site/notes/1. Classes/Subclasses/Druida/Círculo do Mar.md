@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/druida/circulo-do-mar/","title":"Círculo do Mar","created":"2026-02-10T23:28:29.504-03:00","updated":"2026-02-11T00:36:50.678-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/druida/circulo-do-mar/","title":"Círculo do Mar"}
 ---
 
 *Torne-se Um com as Marés e Tempestades*

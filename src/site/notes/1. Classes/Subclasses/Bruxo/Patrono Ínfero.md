@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/bruxo/patrono-infero/","title":"Patrono Ínfero","created":"2026-02-10T23:28:29.452-03:00","updated":"2026-02-11T00:36:15.429-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/bruxo/patrono-infero/","title":"Patrono Ínfero"}
 ---
 
 *Realize um Pacto com os Planos Inferiores*
