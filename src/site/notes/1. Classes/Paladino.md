@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/paladino/","title":"Paladino","created":"2026-02-10T23:28:29.257-03:00","updated":"2026-02-11T00:35:06.840-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/paladino/","title":"Paladino"}
 ---
 
 

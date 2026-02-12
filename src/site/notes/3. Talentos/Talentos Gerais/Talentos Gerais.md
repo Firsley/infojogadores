@@ -44,8 +44,8 @@ Esses talentos estão na categoria Geral.
 | [[3. Talentos/Talentos Gerais/Sentinela\|Sentinela]]                                                 | <ul><li>FOR</li><li>DES</li></ul>             | FOR ou DES > 12                 |
 | [[3. Talentos/Talentos Gerais/Sorrateiro\|Sorrateiro]]                                               | DES                                           | DES > 12                        |
 | [[3. Talentos/Talentos Gerais/Talhador\|Talhador]]                                                   | <ul><li>FOR</li><li>DES</li></ul>             | \-                              |
-| [[3. Talentos/Talentos Gerais/Telecinético\|Telecinético]]                                           | <ul><li>INT</li><li>SAB</li><li>CHA</li></ul> | \-                              |
 | [[3. Talentos/Talentos Gerais/Telepático\|Telepático]]                                               | <ul><li>INT</li><li>SAB</li><li>CHA</li></ul> | \-                              |
+| [[3. Talentos/Talentos Gerais/Telecinético\|Telecinético]]                                           | <ul><li>INT</li><li>SAB</li><li>CHA</li></ul> | \-                              |
 | [[3. Talentos/Talentos Gerais/Tocado Pelas Fadas\|Tocado Pelas Fadas]]                               | <ul><li>INT</li><li>SAB</li><li>CHA</li></ul> | \-                              |
 | [[3. Talentos/Talentos Gerais/Tocado Pelas Sombras\|Tocado Pelas Sombras]]                           | <ul><li>INT</li><li>SAB</li><li>CHA</li></ul> | \-                              |
 | [[3. Talentos/Talentos Gerais/Treinamento com Armas Marciais\|Treinamento com Armas Marciais]]       | <ul><li>FOR</li><li>DES</li></ul>             | \-                              |

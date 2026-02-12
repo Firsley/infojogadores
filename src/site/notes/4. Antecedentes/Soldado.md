@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/4-antecedentes/soldado/","title":"Andarilho"}
 ---
 
-
 **Valores de Atributo:** Força (FOR), Destreza (DES), Constituição (CON)\
 **Talento:** [[3. Talentos/Talentos de Origem/Atacante Selvagem\|Atacante Selvagem]]\
 **Proficiências em Perícias:** Atletismo, Intimidação\

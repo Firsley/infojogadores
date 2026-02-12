@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/9-circulo/sexto-sentido/","title":"Sexto Sentido","tags":["Vocal","Somático","Material"],"created":"2026-02-10T23:28:30.821-03:00","updated":"2026-02-11T01:13:53.528-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/9-circulo/sexto-sentido/","title":"Sexto Sentido","tags":["Vocal","Somático","Material"]}
 ---
 
 *Foresight*

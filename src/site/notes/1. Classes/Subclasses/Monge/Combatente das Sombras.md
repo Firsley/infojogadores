@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/monge/combatente-das-sombras/","title":"Combatente das Sombras","created":"2026-02-10T23:28:29.601-03:00","updated":"2026-02-11T00:38:13.767-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/monge/combatente-das-sombras/","title":"Combatente das Sombras"}
 ---
 
 *Utilize o Poder das Sombras para Furtividade e Fuga*

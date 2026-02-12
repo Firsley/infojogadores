@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/4-antecedentes/escriba/","title":"Escriba"}
 ---
 
-
 **Valores de Atributo:** Destreza (DES), Inteligência (INT), Sabedoria (SAB)\
 **Talento:** [[3. Talentos/Talentos de Origem/Habilidoso\|Habilidoso]]\
 **Proficiências em Perícias:** Investigação, Percepção\

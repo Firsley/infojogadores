@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/4-antecedentes/eremita/","title":"Eremita"}
 ---
 
-
 **Valores de Atributo:** Constituição (CON), Sabedoria (SAB), Carisma (CAR)\
 **Talento:** [[3. Talentos/Talentos de Origem/Curandeiro\|Curandeiro]]\
 **Proficiências em Perícias:** Medicina, Religião\

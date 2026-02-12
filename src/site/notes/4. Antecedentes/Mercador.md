@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/4-antecedentes/mercador/","title":"Mercador"}
 ---
 
-
 **Valores de Atributo:** Constituição (CON), Inteligência (INT), Carisma (CAR)\
 **Talento:** [[3. Talentos/Talentos de Origem/Sortudo\|Sortudo]]\
 **Proficiências em Perícias:** Lidar com Animais, Persuasão\

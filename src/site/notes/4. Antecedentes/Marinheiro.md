@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/4-antecedentes/marinheiro/","title":"Marinheiro"}
 ---
 
-
 **Valores de Atributo:** Força (FOR), Destreza (DES), Sabedoria (SAB)\
 **Talento:** [[3. Talentos/Talentos de Origem/Valentão da Taverna\|Valentão da Taverna]]\
 **Proficiências em Perícias:** Acrobacia, Percepção\

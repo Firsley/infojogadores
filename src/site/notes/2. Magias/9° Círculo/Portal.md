@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/9-circulo/portal/","title":"Portal","tags":["Vocal","Somático","Material","Concentração"],"created":"2026-02-10T23:28:30.807-03:00","updated":"2026-02-11T01:13:44.868-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/9-circulo/portal/","title":"Portal","tags":["Vocal","Somático","Material","Concentração"]}
 ---
 
 *Gate*

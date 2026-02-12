@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/4-antecedentes/acolito/","title":"Acólito"}
 ---
 
-
 **Valores de Atributo:** Inteligência (INT), Sabedoria (SAB), Carisma (CAR)\
 **Talento:** [[3. Talentos/Talentos de Origem/Iniciado em Magia\|Iniciado em Magia]] (Clérigo)\
 **Proficiências em Perícias:** Intuição, Religião\

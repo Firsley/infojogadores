@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-classes/subclasses/monge/combatente-da-misericordia/","title":"Combatente da Misericórdia","created":"2026-02-10T23:28:29.594-03:00","updated":"2026-02-11T00:38:10.999-03:00"}
+{"dg-publish":true,"permalink":"/1-classes/subclasses/monge/combatente-da-misericordia/","title":"Combatente da Misericórdia"}
 ---
 
 *Manipule as Forças de Vida e da Morte*

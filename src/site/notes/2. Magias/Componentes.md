@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/componentes/","created":"2026-02-10T23:28:29.632-03:00","updated":"2026-02-11T01:09:15.767-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/componentes/"}
 ---
 
 Os componentes de uma magia são requisitos físicos que o conjurador deve atender para conjurá-la. A descrição de cada magia indica se ela exige componente Verbal (V), Somático (S) ou Material (M). Se o conjurador não puder fornecer um ou mais componentes de uma magia, ele não consegue conjurá-la.

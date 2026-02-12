@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/palavra-de-radiancia/","title":"Palavra de Radiância","tags":["Vocal","Material"],"created":"2026-02-10T23:28:30.927-03:00","updated":"2026-02-11T01:14:58.812-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/palavra-de-radiancia/","title":"Palavra de Radiância","tags":["Vocal","Material"]}
 ---
 
 *Word of Radiance*

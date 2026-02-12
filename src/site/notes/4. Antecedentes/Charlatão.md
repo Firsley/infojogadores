@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/4-antecedentes/charlatao/","title":"Charlatão"}
 ---
 
-
 **Valores de Atributo:** Destreza (DES), Constituição (CON), Carisma (CAR)\
 **Talento:** [[3. Talentos/Talentos de Origem/Habilidoso\|Habilidoso]]\
 **Proficiências em Perícias:** Enganação, Prestidigitação\

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/9-circulo/palavra-de-poder-matar/","title":"Palavra de Poder - Matar","tags":["Vocal"],"created":"2026-02-10T23:28:30.801-03:00","updated":"2026-02-11T01:13:32.574-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/9-circulo/palavra-de-poder-matar/","title":"Palavra de Poder - Matar","tags":["Vocal"]}
 ---
 
 *Power Word Kill*

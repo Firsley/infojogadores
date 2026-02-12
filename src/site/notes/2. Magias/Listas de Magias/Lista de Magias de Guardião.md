@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/listas-de-magias/lista-de-magias-de-guardiao/","created":"2026-02-10T23:28:30.847-03:00","updated":"2026-02-11T01:12:39.775-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/listas-de-magias/lista-de-magias-de-guardiao/"}
 ---
 
 Esta seção apresenta a lista de magias de [[1. Classes/Guardião\|Guardião]]. As magias estão organizadas por círculo de magia, ordem alfabética e suas respectivas escolas de magia. Na coluna Especial, C indica que a magia requer Concentração, R que é um #Ritual e M que necessita de um componente Material específico.
@@ -60,8 +60,8 @@ Esta seção apresenta a lista de magias de [[1. Classes/Guardião\|Guardião]].
 | [[2. Magias/3° Círculo/Crescimento de Plantas\|Crescimento de Plantas]]   | Plant Growth           | [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] | \-       |
 | [[2. Magias/3° Círculo/Falar com Plantas\|Falar com Plantas]]             | Speak with Plants      | [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] | \-       |
 | [[2. Magias/3° Círculo/Flecha Relâmpago\|Flecha Relâmpago]]               | Lightning Arrow        | [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] | \-       |
-| [[2. Magias/3° Círculo/Invocar Animais\|Invocar Animais]]                 | Conjure Animals        | [[8. Geral/Escolas de Magia/Invocação\|Invocação]]       | C        |
 | [[2. Magias/3° Círculo/Indetectável\|Indetectável]]                       | Nondetection           | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | M        |
+| [[2. Magias/3° Círculo/Invocar Animais\|Invocar Animais]]                 | Conjure Animals        | [[8. Geral/Escolas de Magia/Invocação\|Invocação]]       | C        |
 | [[2. Magias/3° Círculo/Invocar Barragem\|Invocar Barragem]]               | Conjure Barrage        | [[8. Geral/Escolas de Magia/Invocação\|Invocação]]       | M        |
 | [[2. Magias/3° Círculo/Luz do Dia\|Luz do Dia]]                           | Daylight               | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]         | \-       |
 | [[2. Magias/3° Círculo/Mesclar-se às Rochas\|Mesclar-se às Rochas]]       | Meld into Stone        | [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] | R        |

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/4-antecedentes/antecedentes/","title":"Antecedentes"}
 ---
 
-
 O antecedente do seu personagem consiste em um conjunto de características que refletem o lugar e a ocupação que mais o moldaram antes de começar sua vida de aventura.
 
 Cada antecedente contém uma breve narrativa sobre o passado do personagem, permitindo que você altere os detalhes conforme desejar.
@@ -34,8 +33,8 @@ Dezesseis antecedentes são apresentados nesta seção em ordem alfabética:
 | [[4. Antecedentes/Eremita\|Eremita]]       | <ul><li>CON</li><li>SAB</li><li>CAR</li></ul> | <ul><li>Medicina</li><li>Religião</li></ul>           |
 | [[4. Antecedentes/Escriba\|Escriba]]       | <ul><li>DES</li><li>INT</li><li>SAB</li></ul> | <ul><li>Investigação</li><li>Percepção</li></ul>      |
 | [[4. Antecedentes/Fazendeiro\|Fazendeiro]] | <ul><li>FOR</li><li>CON</li><li>SAB</li></ul> | <ul><li>Lidar com Animais</li><li>Natureza</li></ul>  |
-| [[4. Antecedentes/Guarda\|Guarda]]         | <ul><li>FOR</li><li>INT</li><li>SAB</li></ul> | <ul><li>Atletismo</li><li>Percepção</li></ul>         |
 | [[4. Antecedentes/Guia\|Guia]]             | <ul><li>DES</li><li>CON</li><li>SAB</li></ul> | <ul><li>Furtividade</li><li>Sobrevivência</li></ul>   |
+| [[4. Antecedentes/Guarda\|Guarda]]         | <ul><li>FOR</li><li>INT</li><li>SAB</li></ul> | <ul><li>Atletismo</li><li>Percepção</li></ul>         |
 | [[4. Antecedentes/Marinheiro\|Marinheiro]] | <ul><li>FOR</li><li>DES</li><li>SAB</li></ul> | <ul><li>Acrobacia</li><li>Percepção</li></ul>         |
 | [[4. Antecedentes/Mercador\|Mercador]]     | <ul><li>CON</li><li>INT</li><li>CAR</li></ul> | <ul><li>Lidar com Animais</li><li>Persuasão</li></ul> |
 | [[4. Antecedentes/Nobre\|Nobre]]           | <ul><li>FOR</li><li>INT</li><li>CAR</li></ul> | <ul><li>História</li><li>Persuasão</li></ul>          |

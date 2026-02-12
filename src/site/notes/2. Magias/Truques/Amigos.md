@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/amigos/","title":"Amigos","tags":["Somático","Material","Concentração"],"created":"2026-02-10T23:28:30.867-03:00","updated":"2026-02-11T01:14:05.375-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/amigos/","title":"Amigos","tags":["Somático","Material","Concentração"]}
 ---
 
 *Friends*

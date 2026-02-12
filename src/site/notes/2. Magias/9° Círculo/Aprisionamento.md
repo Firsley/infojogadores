@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/9-circulo/aprisionamento/","title":"Aprisionamento","tags":["Vocal","Somático","Material"],"created":"2026-02-10T23:28:30.776-03:00","updated":"2026-02-11T01:13:09.305-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/9-circulo/aprisionamento/","title":"Aprisionamento","tags":["Vocal","Somático","Material"]}
 ---
 
 *Imprisonment*

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/4-antecedentes/sabio/","title":"Sábio"}
 ---
 
-
 **Valores de Atributo:** Constituição (CON), Inteligência (INT), Sabedoria (SAB)\
 **Talento:** [[3. Talentos/Talentos de Origem/Iniciado em Magia\|Iniciado em Magia]] (Mago)\
 **Proficiências em Perícias:** Arcanismo, História\

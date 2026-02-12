@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-magias/truques/chicote-de-espinhos/","title":"Chicote de Espinhos","tags":["Vocal","Somático","Material"],"created":"2026-02-10T23:28:30.885-03:00","updated":"2026-02-11T01:14:18.792-03:00"}
+{"dg-publish":true,"permalink":"/2-magias/truques/chicote-de-espinhos/","title":"Chicote de Espinhos","tags":["Vocal","Somático","Material"]}
 ---
 
 *Thorn Whip*

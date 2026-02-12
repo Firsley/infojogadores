@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/4-antecedentes/fazendeiro/","title":"Fazendeiro"}
 ---
 
-
 **Valores de Atributo:** Força (FOR), Constituição (CON), Sabedoria (SAB)\
 **Talento:** [[3. Talentos/Talentos de Origem/Vigoroso\|Vigoroso]]\
 **Proficiências em Perícias:** Lidar com Animais, Natureza\
