@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-classes/mago/","title":"Mago"}
 ---
 
-
 **Traços Básicos de Mago**
 
 | Característica               | Descrição                                                                                                                    |
@@ -62,7 +61,7 @@ Entretanto, a busca pelo conhecimento leva até os magos mais cautelosos a aband
 Como Mago, você recebe as seguintes características de classe ao alcançar os níveis especificados de Mago. Essas características são apresentadas na tabela Características de Mago.
 
 ## Nível 1: Adepto de Ritual
-Você pode conjurar qualquer magia como um Ritual se essa magia tiver o marcador Ritual e a magia estiver em seu livro de magias. Você não precisa ter a magia preparada, mas deve ler o livro para conjurar uma magia deste modo.
+Você pode conjurar qualquer magia como um [[2. Magias/Ritual\|Ritual]] se essa magia tiver o marcador #Ritual e a magia estiver em seu livro de magias. Você não precisa ter a magia preparada, mas deve ler o livro para conjurar uma magia deste modo.
 
 ## Nível 1: Conjuração
 Como estudante de magia arcana, você aprendeu a conjurar magias. As informações abaixo detalham como você usa essas regras com magias de Mago, que aparecem na [[2. Magias/Listas de Magias/Lista de Magias de Mago\|Lista de Magias de Mago]] mais adiante na descrição da classe.
@@ -89,14 +88,14 @@ Se outra característica de Mago lhe conceder magias que você sempre tem prepar
 
 ***Atributo de Conjuração***. Inteligência é seu atributo de conjuração para suas magias de Mago.
 
-- CD para evitar magia = 8 + seu modificador de Inteligência + seu Bônus de Proficiência
+- [[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] para evitar magia = 8 + seu modificador de Inteligência + seu Bônus de Proficiência
 
 - Modificador de ataque mágico = seu modificador de Inteligência + seu Bônus de Proficiência
 
-***Foco de Conjuração***. Você pode usar um Foco Arcano ou seu livro de magias como um Foco de Conjuração para suas magias de Mago.
+***Foco de Conjuração***. Você pode usar um [[6. Itens/Equipamentos de Aventura/Foco Arcano\|Foco Arcano]] ou seu livro de magias como um Foco de Conjuração para suas magias de Mago.
 
 >[!info]- Expandindo e Substituindo um Livro de Magias
-> As magias que você adiciona ao seu livro de magias à medida que avança de nível refletem sua pesquisa mágica em andamento. Durante suas aventuras, você pode encontrar outras magias que podem ser incorporadas ao livro, como uma magia de Mago em um Pergaminho Mágico, que você pode copiar para o livro de magias.
+> As magias que você adiciona ao seu livro de magias à medida que avança de nível refletem sua pesquisa mágica em andamento. Durante suas aventuras, você pode encontrar outras magias que podem ser incorporadas ao livro, como uma magia de Mago em um [[6. Itens/Equipamentos de Aventura/Pergaminho Mágico\|Pergaminho Mágico]], que você pode copiar para o livro de magias.
 > ***Copiando uma Magia para o Livro***. Ao encontrar uma magia de Mago de 1° círculo ou superior, você pode copiá-la para o seu livro de magias se for de um círculo que você possa preparar e se tiver tempo para copiá-la. Para cada círculo de magia, a transcrição leva 2 h e custa 50 po. Depois disso, você pode preparar a magia como as outras magias em seu livro de magias.
 > ***Copiando o Livro***. Você pode copiar uma magia do seu livro de magias para outro livro. Isso é como copiar uma nova magia em seu livro de magias, mas mais rápido, já que você já sabe como conjurá-la. Você precisa gastar apenas 1 h e 10 po para cada círculo de magia copiada.
 > Se você perder seu livro de magias, você pode usar o mesmo procedimento para transcrever as magias de Mago que preparou em um novo livro de magias. Preencher o restante do novo livro exige que você encontre novas magias para fazê-lo. Por esse motivo, muitos magos mantêm um livro de magias reserva.
@@ -112,7 +111,16 @@ Enquanto estudava magia, você também se especializou em outro campo de estudo.
 ## Nível 3: Subclasse de Mago
 Você adquire uma subclasse de Mago à sua escolha. 
 
-As subclasses [[1. Classes/Subclasses/Mago/Abjurador\|Abjurador]], [[1. Classes/Subclasses/Mago/Adivinhador\|Adivinhador]], [[1. Classes/Subclasses/Mago/Evocador\|Evocador]] e [[1. Classes/Subclasses/Mago/Ilusionista\|Ilusionista]] estão disponíveis. Uma subclasse é uma especialidade que concede a você características em determinados níveis de Mago. Durante toda sua jornada, você adquire cada uma das características de sua subclasse de seu nível de Mago ou menor.
+| Subclasse                                                  | Fonte            |
+| ---------------------------------------------------------- | ---------------- |
+| [[1. Classes/Subclasses/Mago/Abjurador\|Abjurador]]     | Livro do Jogador |
+| [[1. Classes/Subclasses/Mago/Adivinhador\|Adivinhador]] | Livro do Jogador |
+| [[1. Classes/Subclasses/Mago/Evocador\|Evocador]]       | Livro do Jogador |
+| [[1. Classes/Subclasses/Mago/Ilusionista\|Ilusionista]] | Livro do Jogador |
+
+{ .block-language-dataview}
+
+Uma subclasse é uma especialidade que concede a você características em determinados níveis de Mago. Durante toda sua jornada, você adquire cada uma das características de sua subclasse de seu nível de Mago ou menor.
 
 ## Nível 4: Aumento no Valor de Atributo
 Você adquire o talento [[3. Talentos/Talentos Gerais/Aumento no Valor de Atributo\|Aumento no Valor de Atributo]] ou outro [[3. Talentos/Talento\|Talento]] à sua escolha para o qual atenda os pré-requisitos. Você adquire essa característica novamente nos níveis 8, 12 e 16 de Mago.

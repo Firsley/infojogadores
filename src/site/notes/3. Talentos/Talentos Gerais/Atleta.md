@@ -12,4 +12,4 @@ Você adquire os seguintes benefícios.
 
 ***Levantar***. Quando você tem a condição [[8. Geral/Condições/Caído\|Caído]], pode se reerguer com apenas 1,5 m (5 ft.) de movimento.
 
-***Saltar***. Você pode realizar um Salto em Distância ou Salto em Altura correndo após mover-se apenas 1,5 m (5 ft.).
+***Saltar***. Você pode realizar um [[8. Geral/Movimento/Salto em Distância\|Salto em Distância]] ou [[8. Geral/Movimento/Salto em Altura\|Salto em Altura]] correndo após mover-se apenas 1,5 m (5 ft.).

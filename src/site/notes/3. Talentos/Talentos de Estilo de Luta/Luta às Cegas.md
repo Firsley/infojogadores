@@ -4,4 +4,4 @@
 
 *Talento de Estilo de Luta (Pré-requisito: Característica de Estilo de Luta)*
 
-Você tem Visão às Cegas com um alcance de 3 m (10 ft.).
+Você tem [[8. Geral/Condições/Visão às Cegas\|Visão às Cegas]] com um alcance de 3 m (10 ft.).

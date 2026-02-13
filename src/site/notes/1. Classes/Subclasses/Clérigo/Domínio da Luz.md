@@ -24,7 +24,7 @@ Sua conexão com este domínio divino garante que você sempre tenha certas magi
 Como uma ação [[8. Geral/Ações em Combate/Usar Magia\|Usar Magia]], você ergue seu [[6. Itens/Equipamentos de Aventura/Símbolo Sagrado\|Símbolo Sagrado]] e gasta o uso de seu [[1. Classes/Clérigo#Nível 2 Canalizar Divindade\|Canalizar Divindade]] para emitir um feixe de luz em uma Emanação de 9 m (30 ft.) originada em você. Qualquer Escuridão mágica, como a criada pela magia [[2. Magias/2° Círculo/Escuridão\|Escuridão]], nessa área é dissipada. Além disso, cada criatura à sua escolha nessa área deve realizar uma salvaguarda de Constituição, sofrendo dano Radiante igual a 2d10 mais seu nível de [[1. Classes/Clérigo\|Clérigo]] se falhar ou metade desse dano em caso de sucesso.
 
 ### Nível 3: Labareda Protetora
-Quando uma criatura à sua vista a até 9 m (30 ft.) de você realiza uma jogada de ataque, você pode executar uma [[8. Geral/Combate/Reação\|Reação]] para impor Desvantagem na jogada de ataque, fazendo com que a luz brilhe antes de acertar ou errar.
+Quando uma criatura à sua vista a até 9 m (30 ft.) de você realiza uma jogada de ataque, você pode executar uma [[8. Geral/Combate/Reação\|Reação]] para impor [[8. Geral/Termos Diversos/Desvantagem\|Desvantagem]] na jogada de ataque, fazendo com que a luz brilhe antes de acertar ou errar.
 
 Você pode usar essa característica um número de vezes igual ao seu modificador de Sabedoria (mínimo de uma vez) e restaura todos os usos gastos ao completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].
 
@@ -34,7 +34,7 @@ Você restaura todos os usos gastos da sua [[1. Classes/Subclasses/Clérigo/Dom�
 Além disso, sempre que usar [[1. Classes/Subclasses/Clérigo/Domínio da Luz#Nível 3 Labareda Protetora\|Labareda Protetora]], você pode conceder ao alvo do ataque desencadeado um número de Pontos de Vida Temporários igual a 2d6 mais seu modificador de Sabedoria.
 
 ### Nível 17: Coroa de Luz
-Como uma ação [[8. Geral/Ações em Combate/Usar Magia\|Usar Magia]], você emite uma aura de luz solar que dura 1 min ou até que você a encerre (nenhuma ação é necessária). Você emite Luz Plena em um raio de 18 m (60 ft.) e Meia-luz por mais 9 m (30 ft.). Seus inimigos na Luz Plena têm Desvantagem em salvaguardas contra seu [[1. Classes/Subclasses/Clérigo/Domínio da Luz#Nível 3 Brilho do Amanhecer\|Brilho do Amanhecer]] e qualquer magia que cause dano Ígneo ou Radiante.
+Como uma ação [[8. Geral/Ações em Combate/Usar Magia\|Usar Magia]], você emite uma aura de luz solar que dura 1 min ou até que você a encerre (nenhuma ação é necessária). Você emite Luz Plena em um raio de 18 m (60 ft.) e Meia-luz por mais 9 m (30 ft.). Seus inimigos na Luz Plena têm [[8. Geral/Termos Diversos/Desvantagem\|Desvantagem]] em salvaguardas contra seu [[1. Classes/Subclasses/Clérigo/Domínio da Luz#Nível 3 Brilho do Amanhecer\|Brilho do Amanhecer]] e qualquer magia que cause dano Ígneo ou Radiante.
 
 Você pode usar esta característica um número de vezes igual ao seu modificador de Sabedoria (mínimo de uma vez) e restaura todos os usos gastos ao completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].
 

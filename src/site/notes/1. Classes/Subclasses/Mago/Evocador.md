@@ -15,7 +15,7 @@ Escolha duas magias de [[1. Classes/Mago\|Mago]] da escola de [[8. Geral/Escolas
 Além disso, ao adquirir acesso a um novo círculo de espaços de magia nesta classe, você pode adicionar gratuitamente uma magia de [[1. Classes/Mago\|Mago]] da escola de [[8. Geral/Escolas de Magia/Evocação\|Evocação]] ao seu livro de magias. A magia escolhida deve ser de um círculo para o qual você tenha espaços de magia.
 
 ### Nível 6: Esculpir Magias
-Você pode criar zonas de segurança nos efeitos das suas evocações. Ao conjurar uma magia de Evocação que afeta criaturas à sua vista, você pode escolher um número delas igual a 1 mais o círculo da magia. Criaturas escolhidas são bem-sucedidas automaticamente em suas salvaguardas e não sofrem dano se normalmente sofreriam metade do dano em caso de sucesso.
+Você pode criar zonas de segurança nos efeitos das suas evocações. Ao conjurar uma magia de [[8. Geral/Escolas de Magia/Evocação\|Evocação]] que afeta criaturas à sua vista, você pode escolher um número delas igual a 1 mais o círculo da magia. Criaturas escolhidas são bem-sucedidas automaticamente em suas salvaguardas e não sofrem dano se normalmente sofreriam metade do dano em caso de sucesso.
 
 ### Nível 10: Evocação Potencializada
 Ao conjurar uma magia de [[1. Classes/Mago\|Mago]] da escola de [[8. Geral/Escolas de Magia/Evocação\|Evocação]], você pode adicionar seu modificador de Inteligência a uma jogada de dano dessa magia.
@@ -23,7 +23,7 @@ Ao conjurar uma magia de [[1. Classes/Mago\|Mago]] da escola de [[8. Geral/Escol
 ### Nível 14: Sobrecarga
 Você pode aumentar o poder de suas magias. Ao conjurar uma magia de [[1. Classes/Mago\|Mago]] que cause dano com um espaço de magia de 1° a 5° círculo, você pode causar dano máximo com essa magia no turno no qual a conjurar.
 
-Ao fazer isso pela primeira vez, você não sofre nenhum efeito adverso. Se usar esta característica novamente antes de completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]], você sofre 2d12 pontos de dano Necrótico para cada círculo do espaço de magia imediatamente após conjurá-la. Esse dano ignora [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] e Imunidade.
+Ao fazer isso pela primeira vez, você não sofre nenhum efeito adverso. Se usar esta característica novamente antes de completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]], você sofre 2d12 pontos de dano Necrótico para cada círculo do espaço de magia imediatamente após conjurá-la. Esse dano ignora [[8. Geral/Cura, Dano e Morte/Resistência\|Resistência]] e Imunidade.
 
 Toda vez que você usa esta característica novamente antes de completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]], o dano Necrótico por círculo de magia aumenta em 1d12.
 

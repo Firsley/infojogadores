@@ -21,14 +21,14 @@ Sua conexão com este domínio divino garante que você sempre tenha certas magi
 |        9         | [[2. Magias/5° Círculo/Dominar Pessoa\|Dominar Pessoa]], [[2. Magias/5° Círculo/Modificar Memória\|Modificar Memória]]                                         |
 
 ### Nível 3: Bênção do Trapaceiro
-Com uma ação [[8. Geral/Ações em Combate/Usar Magia\|Usar Magia]], você pode escolher a si ou a uma criatura voluntária a até 9 m (30 ft.) de você para ter Vantagem em testes de Destreza (Furtividade). Essa bênção permanece até você completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]] ou usar esta característica novamente.
+Com uma ação [[8. Geral/Ações em Combate/Usar Magia\|Usar Magia]], você pode escolher a si ou a uma criatura voluntária a até 9 m (30 ft.) de você para ter [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] em testes de Destreza (Furtividade). Essa bênção permanece até você completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]] ou usar esta característica novamente.
 
 ### Nível 3: Invocar Duplicidade
 Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você pode gastar um uso de seu [[1. Classes/Clérigo#Nível 2 Canalizar Divindade\|Canalizar Divindade]] para criar uma ilusão visual perfeita de si em um espaço desocupado à sua vista a até 9 m (30 ft.) de si. A ilusão é intangível e não ocupa seu espaço. Ela permanece por 1 min e acaba se você tiver a condição [[8. Geral/Condições/Incapacitado\|Incapacitado]] ou a encerrar (nenhuma ação é necessária). A ilusão é animada e imita suas expressões e gestos. Enquanto ela persistir, você adquire os seguintes benefícios.
 
 ***Conjurar Magias***. Você pode conjurar magias como se estivesse no espaço da ilusão, mas deve usar seus próprios sentidos.
 
-***Distração***. Quando você e sua ilusão estão a até 1,5 m (5 ft.) de uma criatura que pode ver a ilusão, você tem Vantagem em jogadas de ataque contra essa criatura, considerando quão perturbadora a ilusão é para o alvo.
+***Distração***. Quando você e sua ilusão estão a até 1,5 m (5 ft.) de uma criatura que pode ver a ilusão, você tem [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] em jogadas de ataque contra essa criatura, considerando quão perturbadora a ilusão é para o alvo.
 
 ***Mover***. Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você pode mover a ilusão até 9 m (30 ft.) para um espaço desocupado que esteja a até 36 m (120 ft.) de você.
 
@@ -38,7 +38,7 @@ Ao executar a [[8. Geral/Combate/Ação Bônus\|Ação Bônus]] para criar ou mo
 ### Nível 17: Duplicidade Aprimorada
 A ilusão de seu [[1. Classes/Subclasses/Clérigo/Domínio da Trapaça#Nível 3 Invocar Duplicidade\|Invocar Duplicidade]] ficou mais poderosa das seguintes maneiras.
 
-***Distração Compartilhada***. Quando você e seus aliados realizam jogadas de ataque contra uma criatura a até 1,5 m (5 ft.) da ilusão, as jogadas de ataque têm Vantagem.
+***Distração Compartilhada***. Quando você e seus aliados realizam jogadas de ataque contra uma criatura a até 1,5 m (5 ft.) da ilusão, as jogadas de ataque têm [[8. Geral/Termos Diversos/Vantagem\|Vantagem]].
 
 ***Ilusão de Cura***. Quando a ilusão termina, você ou uma criatura à sua escolha a até 1,5 m (5 ft.) dela recupera um número de Pontos de Vida igual ao seu nível de [[1. Classes/Clérigo\|Clérigo]].
 

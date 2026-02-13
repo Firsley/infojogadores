@@ -8,6 +8,6 @@ Você adquire os seguintes benefícios.
 
 ***Aumento no Valor de Atributo***. Aumente um valor de atributo à sua escolha em 1, até no máximo 30.
 
-***Assecla Completo***. Você adquire proficiência em todas as perícias.
+***Assecla Completo***. Você adquire proficiência em todas as [[8. Geral/Atributos/Perícias\|perícias]].
 
 ***Especialização***. Escolha uma perícia na qual você tenha proficiência, mas não tenha [[8. Geral/Termos Diversos/Especialização\|Especialização]]. Você obtém [[8. Geral/Termos Diversos/Especialização\|Especialização]] nessa perícia.

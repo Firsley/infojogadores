@@ -10,4 +10,4 @@ Você adquire os seguintes benefícios.
 
 ***Empurrar***. Uma vez por turno, quando você atinge uma criatura com um ataque que causa dano Contundente, você pode movê-la 1,5 m (5 ft.) para um espaço desocupado se o alvo não for um tamanho maior que você.
 
-***Crítico Melhorado***. Ao obter um Acerto Crítico que causa dano Contundente a uma criatura, jogadas de ataque contra essa criatura tem Vantagem até o início do seu próximo turno.
+***Crítico Melhorado***. Ao obter um [[8. Geral/Combate/Acerto Crítico\|Acerto Crítico]] que causa dano Contundente a uma criatura, jogadas de ataque contra essa criatura tem [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] até o início do seu próximo turno.

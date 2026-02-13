@@ -14,21 +14,21 @@ Sua [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]] se conecta ao poder primiti
 
 ***Águia***. Ao ativar sua [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]], você pode executar as ações [[8. Geral/Ações em Combate/Correr\|Correr]] e [[8. Geral/Ações em Combate/Desengajar\|Desengajar]] como parte dessa [[8. Geral/Combate/Ação Bônus\|Ação Bônus]]. Enquanto sua [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]] estiver ativa, você pode executar uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]] para realizar ambas as ações.
 
-***Lobo***. Enquanto sua [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]] estiver ativa, seus aliados têm Vantagem em jogadas de ataque contra qualquer inimigo seu a até 1,5 m (5 ft.) de você. 
+***Lobo***. Enquanto sua [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]] estiver ativa, seus aliados têm [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] em jogadas de ataque contra qualquer inimigo seu a até 1,5 m (5 ft.) de você. 
 
 ***Urso***. Enquanto em [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]], você tem [[8. Geral/Cura, Dano e Morte/Resistência\|8. Geral/Cura, Dano e Morte/Resistência]] a todos os tipos de dano, exceto Energético, Necrótico, Psíquico e Radiante.
 
 ### Nível 6: Aspecto dos Selvagens
 Você recebe uma das seguintes opções à sua escolha. Sempre que completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]], você pode alterar sua escolha.
 
-***Coruja***. Você tem Visão no Escuro com um alcance de 18 m (60 ft.). Se você já tem Visão no Escuro, seu alcance aumenta em 18 m (60 ft).
+***Coruja***. Você tem [[8. Geral/Condições/Visão no Escuro\|Visão no Escuro]] com um alcance de 18 m (60 ft.). Se você já tem [[8. Geral/Condições/Visão no Escuro\|Visão no Escuro]], seu alcance aumenta em 18 m (60 ft).
 
 ***Pantera***. Você tem um Deslocamento de Escalada igual ao seu Deslocamento.
 
 ***Salmão***. Você tem um Deslocamento de Natação igual ao seu Deslocamento.
 
 ### Nível 10: Arauto da Natureza
-Você pode conjurar a magia [[2. Magias/5° Círculo/Comunhão com a Natureza\|Comunhão com a Natureza]], mas apenas como um Ritual. Sabedoria é seu atributo de conjuração para isso.
+Você pode conjurar a magia [[2. Magias/5° Círculo/Comunhão com a Natureza\|Comunhão com a Natureza]], mas apenas como um [[2. Magias/Ritual\|Ritual]]. Sabedoria é seu atributo de conjuração para isso.
 
 ### Nível 14: Poder dos Selvagens
 Sempre que você ativar sua [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]], recebe uma das seguintes opções à sua escolha. 
@@ -37,5 +37,5 @@ Sempre que você ativar sua [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]], re
 
 ***Falcão***. Enquanto sua [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]] estiver ativa, você tem um Deslocamento de Voo igual ao seu Deslocamento se não estiver usando nenhuma armadura. 
 
-***Leão***. Enquanto sua [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]] estiver ativa, qualquer um de seus inimigos a até 1,5 m (5 ft.) de você tem Desvantagem em jogadas de ataque contra alvos que não sejam você ou outro Bárbaro que tenha essa opção ativa.
+***Leão***. Enquanto sua [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]] estiver ativa, qualquer um de seus inimigos a até 1,5 m (5 ft.) de você tem [[8. Geral/Termos Diversos/Desvantagem\|Desvantagem]] em jogadas de ataque contra alvos que não sejam você ou outro [[1. Classes/Bárbaro\|Bárbaro]] que tenha essa opção ativa.
 

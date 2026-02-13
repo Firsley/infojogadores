@@ -26,7 +26,7 @@ Você pode ampliar seus poderes de percepção. Como uma [[8. Geral/Combate/Aç�
 
 ***Ver o Invisível***. Você pode conjurar [[2. Magias/2° Círculo/Ver o Invisível\|Ver o Invisível]] sem gastar um espaço de magia.
 
-***Visão no Escuro***. Você adquire Visão no Escuro com um alcance de 36 m (120 ft.).
+***Visão no Escuro***. Você adquire [[8. Geral/Condições/Visão no Escuro\|Visão no Escuro]] com um alcance de 36 m (120 ft.).
 
 ### Nível 14: Prodígio Maior
 As visões em seus sonhos se intensificam e formam uma imagem mais precisa em sua mente do que está por vir. Jogue três d20s para sua característica [[1. Classes/Subclasses/Mago/Adivinhador#Nível 3 Prodígio\|Prodígio]] em vez de dois.

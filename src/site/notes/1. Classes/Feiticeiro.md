@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-classes/feiticeiro/","title":"Feiticeiro"}
 ---
 
-
 **Traços Básicos Feiticeiro**
 
 | Característica               | Descrição                                                                                                                |
@@ -70,7 +69,7 @@ Ao atingir os níveis 4 e 10 de Feiticeiro, você aprende mais um truque de Feit
 
 ***Magias Preparadas de 1° Círculo ou Superior***. Você prepara a lista de magias de 1° círculo ou superior que estão disponíveis para você conjurar com essa característica. Para começar, escolha duas magias de Feiticeiro de 1° círculo. [[2. Magias/1° Círculo/Detectar Magia\|Detectar Magia]] e [[2. Magias/1° Círculo/Mãos Flamejantes\|Mãos Flamejantes]] são recomendadas.
 
-O número de magias em sua lista aumenta à medida que você atinge níveis de Feiticeiro, conforme mostrado na coluna Magias Preparadas da tabela Características de Feiticeiro. Sempre que esse número aumentar, escolha magias adicionais da lista de magias de Feiticeiro até que o número de magias em sua lista corresponda ao número da tabela. As magias escolhidas devem ser de um círculo para o qual você possui espaços de magia. Por exemplo, se você é um Feiticeiro de nível 3, sua lista de magias preparadas pode incluir seis magias de Feiticeiro de 1° ou 2° círculo em qualquer combinação.
+O número de magias em sua lista aumenta à medida que você atinge níveis de Feiticeiro, conforme mostrado na coluna Magias Preparadas da tabela Características de Feiticeiro. Sempre que esse número aumentar, escolha magias adicionais da [[2. Magias/Listas de Magias/Lista de Magias de Feiticeiro\|lista de magias de Feiticeiro]] até que o número de magias em sua lista corresponda ao número da tabela. As magias escolhidas devem ser de um círculo para o qual você possui espaços de magia. Por exemplo, se você é um Feiticeiro de nível 3, sua lista de magias preparadas pode incluir seis magias de Feiticeiro de 1° ou 2° círculo em qualquer combinação.
 
 Se outra característica de Feiticeiro lhe concede magias sempre preparadas, elas não contam para o número de magias que você pode preparar com essa característica, mas ainda são consideradas magias de Feiticeiro para você.
 
@@ -78,17 +77,17 @@ Se outra característica de Feiticeiro lhe concede magias sempre preparadas, ela
 
 ***Atributo de Conjuração***. Carisma é seu atributo de conjuração para suas magias de Feiticeiro.
 
-- CD para evitar magia = 8 + seu modificador de Carisma + seu Bônus de Proficiência
+- [[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] para evitar magia = 8 + seu modificador de Carisma + seu Bônus de Proficiência
 
 - Modificador de ataque mágico = seu modificador de Carisma + seu Bônus de Proficiência
 
-***Foco de Conjuração***. Você pode usar um Foco Arcano como um Foco de Conjuração para suas magias de Feiticeiro.
+***Foco de Conjuração***. Você pode usar um [[6. Itens/Equipamentos de Aventura/Foco Arcano\|Foco Arcano]] como um Foco de Conjuração para suas magias de Feiticeiro.
 
 ## Nível 1: Feitiçaria Inata
-Um evento em seu passado deixou uma marca permanente em você, lhe infundindo magia latente. Como uma Ação Bônus, você pode liberar essa magia por 1 min, durante o qual você adquire os seguintes benefícios:
+Um evento em seu passado deixou uma marca permanente em você, lhe infundindo magia latente. Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você pode liberar essa magia por 1 min, durante o qual você adquire os seguintes benefícios:
 
-- A CD para evitar suas magias de Feiticeiro aumenta em 1; e
-- Você tem Vantagem nas jogadas de ataque das magias de Feiticeiro que conjurar.
+- A [[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] para evitar suas magias de Feiticeiro aumenta em 1; e
+- Você tem [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] nas jogadas de ataque das magias de Feiticeiro que conjurar.
 
 Você pode usar essa característica duas vezes e restaura todos os usos gastos ao completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].
 
@@ -101,7 +100,7 @@ Você pode usar seus Pontos de Feitiçaria para abastecer as opções abaixo, ju
 
 ***Convertendo Espaços de Magia em Pontos de Feitiçaria***. Você pode gastar um espaço de magia para receber um número de Pontos de Feitiçaria igual ao círculo do espaço (nenhuma ação é necessária).
 
-***Criando Espaços de Magia***. Como uma Ação Bônus, você pode transformar Pontos de Feitiçaria não gastos em um espaço de magia. A tabela Criando Espaços de Magia mostra o custo de criar um espaço de magia de um determinado círculo e lista o nível mínimo de Feiticeiro que você deve ter para criar um espaço. Você pode criar um espaço de magia não superior ao 5° círculo.
+***Criando Espaços de Magia***. Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você pode transformar Pontos de Feitiçaria não gastos em um espaço de magia. A tabela Criando Espaços de Magia mostra o custo de criar um espaço de magia de um determinado círculo e lista o nível mínimo de Feiticeiro que você deve ter para criar um espaço. Você pode criar um espaço de magia não superior ao 5° círculo.
 
 Qualquer espaço de magia que você criar com essa característica desaparece ao completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].
 
@@ -119,12 +118,21 @@ Sua magia flui de dentro para fora, permitindo que você ajuste suas magias conf
 
 Você pode usar apenas uma opção de Metamagia em uma magia ao conjurá-la, a menos que indicado de outra forma em uma dessas opções.
 
-Ao atingir um nível de Feiticeiro, você pode substituir uma de suas opções de Metamagia por uma que não conhece. Você adquire mais duas opções no nível 10 de Feiticeiro e mais duas opções no nível 17 de Feiticeiro.
+Ao atingir um nível de Feiticeiro, você pode substituir uma de suas [[1. Classes/Listas de Características de Classes/Opções de Metamagia/Opções de Metamagia\|opções de Metamagia]] por uma que não conhece. Você adquire mais duas opções no nível 10 de Feiticeiro e mais duas opções no nível 17 de Feiticeiro.
 
 ## Nível 3: Subclasse de Feiticeiro
 Você adquire uma subclasse de Feiticeiro à sua escolha.
 
-As subclasses [[1. Classes/Subclasses/Feiticeiro/Feitiçaria Aberrante\|Feitiçaria Aberrante]], [[1. Classes/Subclasses/Feiticeiro/Feitiçaria Dracônica\|Feitiçaria Dracônica]], [[1. Classes/Subclasses/Feiticeiro/Feitiçaria Mecânica\|Feitiçaria Mecânica]], [[1. Classes/Subclasses/Feiticeiro/Feitiçaria Selvagem\|Feitiçaria Selvagem]] estão disponíveis. Uma subclasse é uma especialidade que concede a você características em determinados níveis de Feiticeiro. Durante toda sua jornada, você adquire cada uma das características de sua subclasse de seu nível de Feiticeiro ou menor.
+| Subclasse                                                                          | Fonte            |
+| ---------------------------------------------------------------------------------- | ---------------- |
+| [[1. Classes/Subclasses/Feiticeiro/Feitiçaria Aberrante\|Feitiçaria Aberrante]] | Livro do Jogador |
+| [[1. Classes/Subclasses/Feiticeiro/Feitiçaria Dracônica\|Feitiçaria Dracônica]] | Livro do Jogador |
+| [[1. Classes/Subclasses/Feiticeiro/Feitiçaria Mecânica\|Feitiçaria Mecânica]]   | Livro do Jogador |
+| [[1. Classes/Subclasses/Feiticeiro/Feitiçaria Selvagem\|Feitiçaria Selvagem]]   | Livro do Jogador |
+
+{ .block-language-dataview} 
+
+Uma subclasse é uma especialidade que concede a você características em determinados níveis de Feiticeiro. Durante toda sua jornada, você adquire cada uma das características de sua subclasse de seu nível de Feiticeiro ou menor.
 
 ## Nível 4: Aumento no Valor de Atributo
 Você adquire o talento [[3. Talentos/Talentos Gerais/Aumento no Valor de Atributo\|Aumento no Valor de Atributo]] ou outro [[3. Talentos/Talento\|Talento]] à sua escolha para o qual atenda os pré-requisitos. Você adquire essa característica novamente nos níveis 8, 12 e 16 de Feiticeiro.
@@ -133,7 +141,7 @@ Você adquire o talento [[3. Talentos/Talentos Gerais/Aumento no Valor de Atribu
 Ao completar um [[8. Geral/Descanso/Descanso Curto\|Descanso Curto]], você pode recuperar os Pontos de Feitiçaria gastos, mas não mais do que um número igual à metade do seu nível de Feiticeiro (arredondado para baixo). Você só pode usar esta característica novamente após completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].
 
 ## Nível 7: Feitiçaria Encarnada
-Quando não houver mais usos de [[1. Classes/Feiticeiro#Nível 1 Feitiçaria Inata\|Feitiçaria Inata]], você pode usá-la se gastar 2 Pontos de Feitiçaria ao executar a Ação Bônus para ativá-la.
+Quando não houver mais usos de [[1. Classes/Feiticeiro#Nível 1 Feitiçaria Inata\|Feitiçaria Inata]], você pode usá-la se gastar 2 Pontos de Feitiçaria ao executar a [[8. Geral/Combate/Ação Bônus\|Ação Bônus]] para ativá-la.
 
 Além disso, enquanto sua característica [[1. Classes/Feiticeiro#Nível 1 Feitiçaria Inata\|Feitiçaria Inata]] estiver ativa, você pode usar até duas de suas opções de [[1. Classes/Feiticeiro#Nível 2 Metamagia\|Metamagia]] em cada magia conjurada.
 

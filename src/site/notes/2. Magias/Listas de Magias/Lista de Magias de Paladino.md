@@ -8,12 +8,12 @@ Esta seção apresenta a lista de magias de [[1. Classes/Paladino\|Paladino]]. A
 
 | Magia                                                                                    | Nome em Inglês                | Escola                                                      | Especial |
 | ---------------------------------------------------------------------------------------- | ----------------------------- | ----------------------------------------------------------- | -------- |
-| [[2. Magias/1° Círculo/Comando\|Comando]]                                             | Command                       | [[8. Geral/Escolas de Magia/Encantamento\|Encantamento]] | \-       |
 | [[2. Magias/1° Círculo/Bênção\|Bênção]]                                               | Bless                         | [[8. Geral/Escolas de Magia/Encantamento\|Encantamento]] | C, M     |
+| [[2. Magias/1° Círculo/Comando\|Comando]]                                             | Command                       | [[8. Geral/Escolas de Magia/Encantamento\|Encantamento]] | \-       |
 | [[2. Magias/1° Círculo/Curar Ferimentos\|Curar Ferimentos]]                           | Cure Wounds                   | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | \-       |
 | [[2. Magias/1° Círculo/Destruição Cauterizante\|Destruição Cauterizante]]             | Searing Smite                 | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]         | \-       |
-| [[2. Magias/1° Círculo/Destruição Divina\|Destruição Divina]]                         | Divine Smite                  | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]         | \-       |
 | [[2. Magias/1° Círculo/Destruição Colérica\|Destruição Colérica]]                     | Wrathful Smite                | [[8. Geral/Escolas de Magia/Necromancia\|Necromancia]]   | \-       |
+| [[2. Magias/1° Círculo/Destruição Divina\|Destruição Divina]]                         | Divine Smite                  | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]         | \-       |
 | [[2. Magias/1° Círculo/Destruição Estrondosa\|Destruição Estrondosa]]                 | Thunderous Smite              | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]         | \-       |
 | [[2. Magias/1° Círculo/Detectar Magia\|Detectar Magia]]                               | Detect Magic                  | [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]]   | C, R     |
 | [[2. Magias/1° Círculo/Detectar o Bem e o Mal\|Detectar o Bem e o Mal]]               | Detect Evil and Good          | [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]]   | C        |
@@ -22,8 +22,8 @@ Esta seção apresenta a lista de magias de [[1. Classes/Paladino\|Paladino]]. A
 | [[2. Magias/1° Círculo/Escudo da Fé\|Escudo da Fé]]                                   | Shield of Faith               | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | C        |
 | [[2. Magias/1° Círculo/Favor Divino\|Favor Divino]]                                   | Divine Favor                  | [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] | \-       |
 | [[2. Magias/1° Círculo/Heroísmo\|Heroísmo]]                                           | Heroism                       | [[8. Geral/Escolas de Magia/Encantamento\|Encantamento]] | C        |
-| [[2. Magias/1° Círculo/Purificar Alimentos e Bebidas\|Purificar Alimentos e Bebidas]] | Purify Food and Drink         | [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] | R        |
 | [[2. Magias/1° Círculo/Proteção Contra o Bem e o Mal\|Proteção Contra o Bem e o Mal]] | Protection From Evil and Good | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | C, M     |
+| [[2. Magias/1° Círculo/Purificar Alimentos e Bebidas\|Purificar Alimentos e Bebidas]] | Purify Food and Drink         | [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] | R        |
 
 { .block-language-dataview}
 
@@ -51,10 +51,10 @@ Esta seção apresenta a lista de magias de [[1. Classes/Paladino\|Paladino]]. A
 | -------------------------------------------------------------------- | --------------------- | ----------------------------------------------------------- | -------- |
 | [[2. Magias/3° Círculo/Arma Elemental\|Arma Elemental]]           | Elemental Weapon      | [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] | C        |
 | [[2. Magias/3° Círculo/Aura de Vitalidade\|Aura de Vitalidade]]   | Aura of Vitality      | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | C        |
-| [[2. Magias/3° Círculo/Criar Comida e Água\|Criar Comida e Água]] | Create Food and Water | [[8. Geral/Escolas de Magia/Invocação\|Invocação]]       | \-       |
 | [[2. Magias/3° Círculo/Destruição Cegante\|Destruição Cegante]]   | Blinding Smite        | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]         | \-       |
-| [[2. Magias/3° Círculo/Círculo Mágico\|Círculo Mágico]]           | Magic Circle          | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | M        |
 | [[2. Magias/3° Círculo/Dissipar Magia\|Dissipar Magia]]           | Dispel Magic          | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | \-       |
+| [[2. Magias/3° Círculo/Círculo Mágico\|Círculo Mágico]]           | Magic Circle          | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | M        |
+| [[2. Magias/3° Círculo/Criar Comida e Água\|Criar Comida e Água]] | Create Food and Water | [[8. Geral/Escolas de Magia/Invocação\|Invocação]]       | \-       |
 | [[2. Magias/3° Círculo/Luz do Dia\|Luz do Dia]]                   | Daylight              | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]         | \-       |
 | [[2. Magias/3° Círculo/Manto do Cruzado\|Manto do Cruzado]]       | Crusader's Mantle     | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]         | C        |
 | [[2. Magias/3° Círculo/Remover Maldição\|Remover Maldição]]       | Remove Curse          | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | \-       |

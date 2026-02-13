@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-classes/guerreiro/","title":"Guerreiro"}
 ---
 
-
 **Traços Básicos de Guerreiro**
 
 | Característica               | Descrição                                                                                                                                                                                                                                                                 |
@@ -60,15 +59,15 @@ Como Guerreiro, você recebe as seguintes características de classe ao alcança
 ## Nível 1: Estilo de Luta
 Você aprimorou suas proezas marciais e tem um talento de [[3. Talentos/Talentos de Estilo de Luta/Talentos de Estilo de Luta\|Estilo de Luta]] à sua escolha.
 
-Sempre que atinge um nível de Guerreiro, você pode substituir o talento que escolheu por um talento diferente de Estilo de Luta.
+Sempre que atinge um nível de Guerreiro, você pode substituir o talento que escolheu por um talento diferente de [[3. Talentos/Talentos de Estilo de Luta/Talentos de Estilo de Luta\|Estilo de Luta]].
 
 ## Nível 1: Maestria em Arma
-Seu treinamento com armas permite que você utilize as propriedades de maestria com três tipos de armas Simples ou Marciais à sua escolha. Sempre que completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]], você pode praticar movimentos com armas e alterar uma dessas escolhas de armas.
+Seu treinamento com armas permite que você utilize as [[8. Geral/Armas e Armaduras/Propriedades de Maestria\|propriedades de maestria]] com três tipos de armas Simples ou Marciais à sua escolha. Sempre que completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]], você pode praticar movimentos com armas e alterar uma dessas escolhas de armas.
 
-Ao alcançar certos níveis de Guerreiro, você adquire a habilidade de usar as propriedades de maestria de mais tipos de armas, conforme mostrado na coluna Maestria em Armas da tabela Características de Guerreiro.
+Ao alcançar certos níveis de Guerreiro, você adquire a habilidade de usar as [[8. Geral/Armas e Armaduras/Propriedades de Maestria\|propriedades de maestria]] de mais tipos de armas, conforme mostrado na coluna Maestria em Armas da tabela Características de Guerreiro.
 
 ## Nível 1: Recuperar Fôlego
-Você tem uma reserva limitada de resistência física e mental que pode usar. Como uma Ação Bônus, você pode usá-la para recuperar Pontos de Vida iguais a 1d10 mais seu nível de Guerreiro.
+Você tem uma reserva limitada de resistência física e mental que pode usar. Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você pode usá-la para recuperar Pontos de Vida iguais a 1d10 mais seu nível de Guerreiro.
 
 Você pode usar essa característica duas vezes. Você recupera um uso gasto quando completa um [[8. Geral/Descanso/Descanso Curto\|Descanso Curto]] e restaura todos os usos gastos quando completa um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].
 
@@ -78,23 +77,32 @@ Ao atingir certos níveis de Guerreiro, você adquire mais usos dessa caracterí
 Você tem uma mente para táticas dentro e fora do campo de batalha. Ao falhar em um teste de atributo, você pode gastar um uso de seu [[1. Classes/Guerreiro#Nível 1 Recuperar Fôlego\|Recuperar Fôlego]] para tentar alcançar a vitória. Em vez de recuperar Pontos de Vida, você joga 1d10 e adiciona o resultado ao teste de atributo, potencialmente transformando-o em sucesso. Se o teste ainda assim falhar, esse uso do Recuperar Fôlego não é gasto.
 
 ## Nível 2: Surto de Ação
-Você pode se esforçar além de seus limites normais por um momento. No seu turno, você pode executar uma ação adicional, exceto a ação Usar Magia.
+Você pode se esforçar além de seus limites normais por um momento. No seu turno, você pode executar uma ação adicional, exceto a ação [[8. Geral/Ações em Combate/Usar Magia\|Usar Magia]].
 
 Após usar esta característica, você não pode usá-la novamente até completar um [[8. Geral/Descanso/Descanso Curto\|Descanso Curto]] ou [[8. Geral/Descanso/Descanso Longo\|Longo]]. A partir do nível 17, você pode usá-lo duas vezes antes de um descanso, mas apenas uma vez em um turno.
 
 ## Nível 3: Subclasse de Guerreiro
 Você adquire uma subclasse de Guerreiro à sua escolha.
 
-As subclasses [[1. Classes/Subclasses/Guerreiro/Campeão\|Campeão]], [[1. Classes/Subclasses/Guerreiro/Cavaleiro Místico\|Cavaleiro Místico]], [[1. Classes/Subclasses/Guerreiro/Combatente Psíquico\|Combatente Psíquico]] e [[1. Classes/Subclasses/Guerreiro/Mestre da Batalha\|Mestre da Batalha]] estão disponíveis. Uma subclasse é uma especialidade que concede a você características em determinados níveis de Guerreiro. Pelo resto de sua jornada, você adquire cada uma das características de sua subclasse de seu nível de Guerreiro ou menor.
+| Subclasse                                                                       | Fonte            |
+| ------------------------------------------------------------------------------- | ---------------- |
+| [[1. Classes/Subclasses/Guerreiro/Campeão\|Campeão]]                         | Livro do Jogador |
+| [[1. Classes/Subclasses/Guerreiro/Cavaleiro Místico\|Cavaleiro Místico]]     | Livro do Jogador |
+| [[1. Classes/Subclasses/Guerreiro/Combatente Psíquico\|Combatente Psíquico]] | Livro do Jogador |
+| [[1. Classes/Subclasses/Guerreiro/Mestre da Batalha\|Mestre da Batalha]]     | Livro do Jogador |
+
+{ .block-language-dataview} 
+
+ Uma subclasse é uma especialidade que concede a você características em determinados níveis de [[1. Classes/Guerreiro\|Guerreiro]]. Pelo resto de sua jornada, você adquire cada uma das características de sua subclasse de seu nível de [[1. Classes/Guerreiro\|Guerreiro]] ou menor.
 
 ## Nível 4: Aumento no Valor de Atributo
 Você adquire o talento [[3. Talentos/Talentos Gerais/Aumento no Valor de Atributo\|Aumento no Valor de Atributo]] ou outro [[3. Talentos/Talento\|Talento]] à sua escolha para o qual atenda os pré-requisitos. Você adquire essa característica novamente nos níveis 6, 8, 12, 14 e 16 de Guerreiro.
 
 ## Nível 5: Ajuste Tático
-Sempre que executar uma Ação Bônus para seu [[1. Classes/Guerreiro#Nível 1 Recuperar Fôlego\|Recuperar Fôlego]], você pode mover-se até metade do seu Deslocamento sem provocar Ataques de Oportunidade.
+Sempre que executar uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]] para seu [[1. Classes/Guerreiro#Nível 1 Recuperar Fôlego\|Recuperar Fôlego]], você pode mover-se até metade do seu Deslocamento sem provocar [[8. Geral/Combate/Ataque de Oportunidade\|Ataques de Oportunidade]].
 
 ## Nível 5: Ataque Extra
-Você pode atacar duas vezes, em vez de uma, sempre que executar a ação Atacar no seu turno.
+Você pode atacar duas vezes, em vez de uma, sempre que executar a ação [[8. Geral/Ações em Combate/Atacar\|Atacar]] no seu turno.
 
 ## Nível 9: Indomável
 Ao falhar em uma salvaguarda, você pode jogá-la novamente adicionando um bônus igual ao seu nível de Guerreiro. Você deve usar o novo resultado e não pode usar essa característica novamente até completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].
@@ -105,14 +113,14 @@ A partir do nível 13, você pode usar essa característica duas vezes antes de 
 Ao atacar com uma arma cuja propriedade de maestria você pode usar, você pode substituir essa propriedade pela propriedade [[8. Geral/Armas e Armaduras/Propriedades de Maestria#Empurrar\|Empurrar]], [[8. Geral/Armas e Armaduras/Propriedades de Maestria#Drenar\|Drenar]] ou [[8. Geral/Armas e Armaduras/Propriedades de Maestria#Lentidão\|Lentidão]] para esse ataque.
 
 ## Nível 11: Dois Ataques Extras
-Você pode atacar três vezes, em vez de uma, sempre que executar a ação Atacar no seu turno.
+Você pode atacar três vezes, em vez de uma, sempre que executar a ação [[8. Geral/Ações em Combate/Atacar\|Atacar]] no seu turno.
 
 ## Nível 13: Ataques Estudados
-Você estuda seus oponentes e aprende com cada ataque que realiza. Se você realizar uma jogada de ataque contra uma criatura e errar, você tem Vantagem em sua próxima jogada de ataque contra essa criatura antes do final do seu próximo turno.
+Você estuda seus oponentes e aprende com cada ataque que realiza. Se você realizar uma jogada de ataque contra uma criatura e errar, você tem [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] em sua próxima jogada de ataque contra essa criatura antes do final do seu próximo turno.
 
 ## Nível 19: Dádiva Épica
 Você adquire o talento [[3. Talentos/Dádivas Épicas/Talentos de Dádiva Épica\|Dádiva Épica]] ou outro [[3. Talentos/Talento\|Talento]] à sua escolha para o qual se qualifica. [[3. Talentos/Dádivas Épicas/Dádiva da Proeza em Combate\|Dádiva da Proeza em Combate]] é recomendada.
 
 ## Nível 20: Três Ataques Extras
-Você pode atacar quatro vezes, em vez de uma, sempre que executar a ação Atacar no seu turno.
+Você pode atacar quatro vezes, em vez de uma, sempre que executar a ação [[8. Geral/Ações em Combate/Atacar\|Atacar]] no seu turno.
 

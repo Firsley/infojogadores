@@ -21,7 +21,7 @@ Ao atingir um nível de [[1. Classes/Druida\|Druida]] detalhado na tabela Magias
 ### Nível 3: Ira do Mar
 Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você pode gastar um uso da sua [[1. Classes/Druida#Nível 2 Forma Selvagem\|Forma Selvagem]] para manifestar uma Emanação de 1,5 m (5 ft.), que toma a forma de respingos de água do oceano ao seu redor por 10 min. Ela se encerra caso você a disperse (nenhuma ação é necessária), manifeste-a novamente ou tenha a condição [[8. Geral/Condições/Incapacitado\|Incapacitado]].
 
-Ao manifestar a Emanação e como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]] em seus turnos subsequentes, você pode escolher outra criatura à sua vista na Emanação. O alvo deve ser bem-sucedido em uma salvaguarda de Constituição contra a sua CD para evitar magia ou sofre dano Gélido e, se a criatura for Grande ou menor, é empurrada até 4,5 m (15 ft.) para longe de você. Para determinar esse dano, jogue um número de d6s igual ao seu modificador de Sabedoria (mínimo de um dado).
+Ao manifestar a Emanação e como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]] em seus turnos subsequentes, você pode escolher outra criatura à sua vista na Emanação. O alvo deve ser bem-sucedido em uma salvaguarda de Constituição contra a sua [[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] para evitar magia ou sofre dano Gélido e, se a criatura for Grande ou menor, é empurrada até 4,5 m (15 ft.) para longe de você. Para determinar esse dano, jogue um número de d6s igual ao seu modificador de Sabedoria (mínimo de um dado).
 
 ### Nível 6: Afinidade Aquática
 O tamanho da Emanação criada pela sua [[1. Classes/Subclasses/Druida/Círculo do Mar#Nível 3 Ira do Mar\|Ira do Mar]] aumenta para 3 m (10 ft.).
@@ -33,10 +33,10 @@ Sua [[1. Classes/Subclasses/Druida/Círculo do Mar#Nível 3 Ira do Mar\|Ira do M
 
 ***Voo***. Você adquire um Deslocamento de Voo igual ao seu Deslocamento.
 
-***Resistência***. Você tem [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] a dano Elétrico, Gélido e Trovejante.
+***Resistência***. Você tem [[8. Geral/Cura, Dano e Morte/Resistência\|Resistência]] a dano Elétrico, Gélido e Trovejante.
 
 ### Nível 14: Manifestação Oceânica
-Em vez de manifestar a Emanação da [[1. Classes/Subclasses/Druida/Círculo do Mar#Nível 3 Ira do Mar\|Ira do Mar]] ao seu redor, você pode manifestá-la ao redor de uma criatura voluntária a até 18 m (60 ft.) de você. Essa criatura adquire todos os benefícios da Emanação, usando sua CD para evitar magia e seu modificador de Sabedoria.
+Em vez de manifestar a Emanação da [[1. Classes/Subclasses/Druida/Círculo do Mar#Nível 3 Ira do Mar\|Ira do Mar]] ao seu redor, você pode manifestá-la ao redor de uma criatura voluntária a até 18 m (60 ft.) de você. Essa criatura adquire todos os benefícios da Emanação, usando sua [[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] para evitar magia e seu modificador de Sabedoria.
 
 Além disso, você pode manifestar a Emanação ao redor de si mesmo e da outra criatura ao gastar dois usos da sua [[1. Classes/Druida#Nível 2 Forma Selvagem\|Forma Selvagem]], em vez de um, ao manifestá-la.
 

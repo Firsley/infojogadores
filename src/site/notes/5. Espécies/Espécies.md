@@ -28,11 +28,11 @@ Dez espécies são apresentadas nesta seção em ordem alfabética.
 | --------------------------------------- | --------- | --------------------------------------- | ---------------------------------------------------- |
 | [[5. Espécies/Aasimar\|Aasimar]]     | Humanoide | <ul><li>Médio</li><li>Pequeno</li></ul> | 9 m (30 ft.)                                         |
 | [[5. Espécies/Anão\|Anão]]           | Humanoide | Médio                                   | 9 m (30 ft.)                                         |
-| [[5. Espécies/Gnomo\|Gnomo]]         | Humanoide | Pequeno                                 | 9 m (30 ft.)                                         |
 | [[5. Espécies/Draconato\|Draconato]] | Humanoide | Médio                                   | 9 m (30 ft.)                                         |
+| [[5. Espécies/Gnomo\|Gnomo]]         | Humanoide | Pequeno                                 | 9 m (30 ft.)                                         |
 | [[5. Espécies/Elfo\|Elfo]]           | Humanoide | Médio                                   | <ul><li>9 m (30 ft.)</li><li>12 m (40 ft.)</li></ul> |
-| [[5. Espécies/Golias\|Golias]]       | Humanoide | Médio                                   | 12 m (40 ft.)                                        |
 | [[5. Espécies/Pequenino\|Pequenino]] | Humanoide | Pequeno                                 | 9 m (30 ft.)                                         |
+| [[5. Espécies/Golias\|Golias]]       | Humanoide | Médio                                   | 12 m (40 ft.)                                        |
 | [[5. Espécies/Humano\|Humano]]       | Humanoide | <ul><li>Médio</li><li>Pequeno</li></ul> | 9 m (30 ft.)                                         |
 | [[5. Espécies/Tiferino\|Tiferino]]   | Humanoide | <ul><li>Médio</li><li>Pequeno</li></ul> | 9 m (30 ft.)                                         |
 | [[5. Espécies/Orc\|Orc]]             | Humanoide | Médio                                   | 9 m (30 ft.)                                         |

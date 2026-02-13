@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-classes/ladino/","title":"Ladino"}
 ---
 
-
 **Traços Básicos de Ladino**
 
 | Característica                | Descrição                                                                                                                                                                 |
@@ -59,9 +58,9 @@ Em combate, os Ladinos priorizam ataques sutis em vez da força bruta, optando p
 Como Ladino, você recebe as seguintes características de classe ao alcançar os níveis especificados de Ladino. Essas características são apresentadas na tabela Características de Ladino.
 
 ## Nível 1: Ataque Furtivo
-Você sabe atacar sutilmente, explorando a distração do inimigo. Uma vez por turno, ao atingir uma criatura com uma jogada de ataque em que tem Vantagem com uma arma com [[8. Geral/Armas e Armaduras/Propriedades de Armas#Acuidade\|Acuidade]] ou uma arma à Distância, você pode causar 1d6 pontos de dano adicional do tipo de dano da arma.
+Você sabe atacar sutilmente, explorando a distração do inimigo. Uma vez por turno, ao atingir uma criatura com uma jogada de ataque em que tem [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] com uma arma com [[8. Geral/Armas e Armaduras/Propriedades de Armas#Acuidade\|Acuidade]] ou uma arma à Distância, você pode causar 1d6 pontos de dano adicional do tipo de dano da arma.
 
-Você não precisa ter Vantagem na jogada de ataque se pelo menos um de seus aliados estiver a até 1,5 m (5 ft.) do alvo, e o aliado não tem a condição [[8. Geral/Condições/Incapacitado\|Incapacitado]] e você não tem Desvantagem na jogada de ataque. O dano adicional aumenta à medida que você adquire níveis de Ladino, conforme mostrado na coluna Ataque Furtivo da tabela Características de Ladino.
+Você não precisa ter [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] na jogada de ataque se pelo menos um de seus aliados estiver a até 1,5 m (5 ft.) do alvo, e o aliado não tem a condição [[8. Geral/Condições/Incapacitado\|Incapacitado]] e você não tem [[8. Geral/Termos Diversos/Desvantagem\|Desvantagem]] na jogada de ataque. O dano adicional aumenta à medida que você adquire níveis de Ladino, conforme mostrado na coluna Ataque Furtivo da tabela Características de Ladino.
 
 ## Nível 1: Especialista
 Você obtém [[8. Geral/Termos Diversos/Especialização\|Especialização]] em duas de suas perícias, à sua escolha, nas quais já seja proficiente. Furtividade e Prestidigitação são recomendadas se você tiver proficiência nelas. 
@@ -69,23 +68,32 @@ Você obtém [[8. Geral/Termos Diversos/Especialização\|Especialização]] em 
 No nível 6 de Ladino, você obtém [[8. Geral/Termos Diversos/Especialização\|Especialização]] em mais duas perícias nas quais já seja proficiente à sua escolha.
 
 ## Nível 1: Gíria do Ladrão
-Você aprendeu vários idiomas nas comunidades onde usou seus talentos gatunos. Você conhece a Gíria dos Ladrões e outro idioma à sua escolha.
+Você aprendeu vários [[8. Geral/Termos Diversos/Idiomas\|idiomas]] nas comunidades onde usou seus talentos gatunos. Você conhece a Gíria dos Ladrões e outro idioma à sua escolha.
 
 ## Nível 1: Maestria em Arma
-Seu treinamento com armas permite que você use as propriedades de maestria de dois tipos de armas à sua escolha com as quais você tem proficiência, como Adagas e Arcos Curtos.
+Seu treinamento com armas permite que você use as [[8. Geral/Armas e Armaduras/Propriedades de Maestria\|propriedades de maestria]] de dois tipos de armas à sua escolha com as quais você tem proficiência, como Adagas e Arcos Curtos.
 
-Ao completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]], você pode alterar os tipos de armas que escolheu. Por exemplo, você pode trocar para as propriedades de maestria de Cimitarras e Espadas Curtas.
+Ao completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]], você pode alterar os tipos de armas que escolheu. Por exemplo, você pode trocar para as [[8. Geral/Armas e Armaduras/Propriedades de Maestria\|propriedades de maestria]] de Cimitarras e Espadas Curtas.
 
 ## Nível 2: Ação Ardilosa
-Seu pensamento rápido e agilidade permitem que você se mova e aja rapidamente. No seu turno, você pode executar uma das seguintes ações como uma Ação Bônus: [[8. Geral/Ações em Combate/Correr\|Correr]], [[8. Geral/Ações em Combate/Desengajar\|Desengajar]] ou [[8. Geral/Ações em Combate/Esconder\|Esconder]].
+Seu pensamento rápido e agilidade permitem que você se mova e aja rapidamente. No seu turno, você pode executar uma das seguintes ações como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]]: [[8. Geral/Ações em Combate/Correr\|Correr]], [[8. Geral/Ações em Combate/Desengajar\|Desengajar]] ou [[8. Geral/Ações em Combate/Esconder\|Esconder]].
 
 ## Nível 3: Mira Firme
-Como uma Ação Bônus, você concede a si mesmo Vantagem em sua próxima jogada de ataque no turno atual. Você pode usar esta característica somente se não tiver se movido durante este turno e, após usá-la, seu Deslocamento é 0 até o final do turno atual.
+Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você concede a si mesmo [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] em sua próxima jogada de ataque no turno atual. Você pode usar esta característica somente se não tiver se movido durante este turno e, após usá-la, seu Deslocamento é 0 até o final do turno atual.
 
 ## Nível 3: Subclasse de Ladino
 Você adquire uma subclasse de Ladino à sua escolha.
 
-As subclasses [[1. Classes/Subclasses/Ladino/Adaga Espiritual\|Adaga Espiritual]], [[1. Classes/Subclasses/Ladino/Assassino\|Assassino]], [[1. Classes/Subclasses/Ladino/Ladrão\|Ladrão]] e [[1. Classes/Subclasses/Ladino/Trapaceiro Arcano\|Trapaceiro Arcano]] estão disponíveis. Uma subclasse é uma especialidade que concede a você características em determinados níveis de Ladino. Durante toda sua jornada, você adquire cada uma das características de sua subclasse de seu nível de Ladino ou menor.
+| Subclasse                                                                | Fonte            |
+| ------------------------------------------------------------------------ | ---------------- |
+| [[1. Classes/Subclasses/Ladino/Adaga Espiritual\|Adaga Espiritual]]   | Livro do Jogador |
+| [[1. Classes/Subclasses/Ladino/Assassino\|Assassino]]                 | Livro do Jogador |
+| [[1. Classes/Subclasses/Ladino/Ladrão\|Ladrão]]                       | Livro do Jogador |
+| [[1. Classes/Subclasses/Ladino/Trapaceiro Arcano\|Trapaceiro Arcano]] | Livro do Jogador |
+
+{ .block-language-dataview} 
+
+ Uma subclasse é uma especialidade que concede a você características em determinados níveis de Ladino. Durante toda sua jornada, você adquire cada uma das características de sua subclasse de seu nível de Ladino ou menor.
 
 ## Nível 4: Aumento no Valor de Atributo
 Você adquire o talento [[3. Talentos/Talentos Gerais/Aumento no Valor de Atributo\|Aumento no Valor de Atributo]] ou outro [[3. Talentos/Talento\|Talento]] à sua escolha para o qual atende os pré-requisitos. Você adquire essa característica novamente nos níveis 8, 10, 12 e 16 de Ladino.
@@ -93,13 +101,13 @@ Você adquire o talento [[3. Talentos/Talentos Gerais/Aumento no Valor de Atribu
 ## Nível 5: Golpe Astuto
 Você encontrou maneiras astutas de aplicar seu [[1. Classes/Ladino#Nível 1 Ataque Furtivo\|Ataque Furtivo]]. Ao causar dano com ele, você pode adicionar um dos seguintes efeitos de *Golpe Astuto*, cada um com um custo em dados que deve ser subtraído do dano total do [[1. Classes/Ladino#Nível 1 Ataque Furtivo\|Ataque Furtivo]]. Remova o dado antes de jogar, e o efeito ocorre imediatamente após o dano. Por exemplo, ao escolher o efeito *Envenenar*, retire 1d6 de dano do [[1. Classes/Ladino#Nível 1 Ataque Furtivo\|Ataque Furtivo]] antes de jogá-lo.
 
-Se um efeito de *Golpe Astuto* exigir uma salvaguarda, a CD é igual a 8 mais seu modificador de Destreza e Bônus de Proficiência.
+Se um efeito de *Golpe Astuto* exigir uma salvaguarda, a [[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] é igual a 8 mais seu modificador de Destreza e Bônus de Proficiência.
 
 ***Envenenar (Custo: 1d6)***. Você adiciona uma toxina ao seu ataque, forçando o alvo a realizar uma salvaguarda de Constituição. Se falhar, o alvo tem a condição [[8. Geral/Condições/Envenenado\|Envenenado]] por 1 min. No final de cada um dos turnos do alvo [[8. Geral/Condições/Envenenado\|Envenenado]], ele repete a salvaguarda, encerrando o efeito em si em caso de sucesso. 
 
 Para usar esse efeito, você deve ter um [[6. Itens/Ferramentas/Kit de Veneno\|Kit de Veneno]] com você.
 
-***Retirada (Custo: 1d6)***. Imediatamente após o ataque, você se move até metade do seu Deslocamento sem provocar Ataques de Oportunidade.
+***Retirada (Custo: 1d6)***. Imediatamente após o ataque, você se move até metade do seu Deslocamento sem provocar [[8. Geral/Combate/Ataque de Oportunidade\|Ataques de Oportunidade]].
 
 ***Tropeço (Custo: 1d6)***. Se o alvo for Grande ou menor, ele deve ser bem-sucedido em uma salvaguarda de Destreza ou tem a condição [[8. Geral/Condições/Caído\|Caído]].
 
@@ -118,7 +126,7 @@ Você pode usar até dois efeitos de [[1. Classes/Ladino#Nível 5 Golpe Astuto\|
 ## Nível 14: Golpes Sujos
 Você praticou novas maneiras de usar seu [[1. Classes/Ladino#Nível 1 Ataque Furtivo\|Ataque Furtivo]] de forma engenhosa. Os seguintes efeitos agora estão entre suas opções de [[1. Classes/Ladino#Nível 5 Golpe Astuto\|Golpe Astuto]].
 
-***Aturdir (Custo: 2d6)***. O alvo deve ser bem-sucedido em uma salvaguarda de Constituição ou, no próximo turno, pode apenas se mover, executar uma ação ou uma Ação Bônus.
+***Aturdir (Custo: 2d6)***. O alvo deve ser bem-sucedido em uma salvaguarda de Constituição ou, no próximo turno, pode apenas se mover, executar uma ação ou uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]].
 
 ***Nocaute (Custo: 6d6)***. O alvo deve ser bem-sucedido em uma salvaguarda de Constituição ou tem a condição [[8. Geral/Condições/Inconsciente\|Inconsciente]] por 1 min ou até sofrer qualquer dano. O alvo [[8. Geral/Condições/Inconsciente\|Inconsciente]] repete a salvaguarda no final de cada um dos turnos dele, encerrando o efeito em caso de sucesso.
 
@@ -128,7 +136,7 @@ Você praticou novas maneiras de usar seu [[1. Classes/Ladino#Nível 1 Ataque Fu
 Sua mente astuta é excepcionalmente difícil de controlar. Você adquire proficiência em salvaguardas de Sabedoria e Carisma.
 
 ## Nível 18: Elusivo
-Você é tão evasivo que os atacantes raramente conseguem vantagem. Nenhuma jogada de ataque pode ter Vantagem contra você, a menos que você tenha a condição [[8. Geral/Condições/Incapacitado\|Incapacitado]].
+Você é tão evasivo que os atacantes raramente conseguem vantagem. Nenhuma jogada de ataque pode ter [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] contra você, a menos que você tenha a condição [[8. Geral/Condições/Incapacitado\|Incapacitado]].
 
 ## Nível 19: Dádiva Épica
 Você adquire o talento [[3. Talentos/Dádivas Épicas/Talentos de Dádiva Épica\|Dádiva Épica]] ou outro [[3. Talentos/Talento\|Talento]] à sua escolha para o qual se qualifica. A [[3. Talentos/Dádivas Épicas/Dádiva do Espírito da Noite\|Dádiva do Espírito da Noite]] é recomendada.

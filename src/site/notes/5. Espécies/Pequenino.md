@@ -15,7 +15,7 @@ Pequeninos que habitam o subsolo são chamados de austeros ou robustos, enquanto
 **Tamanho:** Pequeno (cerca de 0,60-0,90 m de altura)\
 **Deslocamento:** 9 m (30 ft.)
 
-***Corajoso***. Você tem Vantagem nas salvaguardas que realizar para evitar ou encerrar a condição [[8. Geral/Condições/Amedrontado\|Amedrontado]].
+***Corajoso***. Você tem [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] nas salvaguardas que realizar para evitar ou encerrar a condição [[8. Geral/Condições/Amedrontado\|Amedrontado]].
 
 ***Agilidade Pequenina***. Você pode se mover pelo espaço de qualquer criatura que seja um tamanho maior que você, mas você não pode parar no mesmo espaço. 
 

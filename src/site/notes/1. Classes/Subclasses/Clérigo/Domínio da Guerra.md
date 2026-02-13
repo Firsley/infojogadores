@@ -24,11 +24,11 @@ Sua conexão com este domínio divino garante que você sempre tenha certas magi
 Quando você ou uma criatura a até 9 m (30 ft.) de você erra uma jogada de ataque, você pode gastar um uso de seu [[1. Classes/Clérigo#Nível 2 Canalizar Divindade\|Canalizar Divindade]] e dar a essa jogada um bônus de +10, potencialmente fazendo-o acertar. Você usa sua [[8. Geral/Combate/Reação\|Reação]] para conceder esse bônus a uma jogada de ataque a outra criatura.
 
 ### Nível 3: Sacerdote da Guerra
-Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você pode realizar um ataque com uma arma ou um Ataque Desarmado. Você pode usar essa [[8. Geral/Combate/Ação Bônus\|Ação Bônus]] um número de vezes igual ao seu modificador de Sabedoria (mínimo de uma vez). Você restaura todos os usos gastos ao completar um [[8. Geral/Descanso/Descanso Curto\|Descanso Curto]] ou [[8. Geral/Descanso/Descanso Longo\|Longo]].
+Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você pode realizar um ataque com uma arma ou um [[8. Geral/Ações em Combate/Ataque Desarmado\|Ataque Desarmado]]. Você pode usar essa [[8. Geral/Combate/Ação Bônus\|Ação Bônus]] um número de vezes igual ao seu modificador de Sabedoria (mínimo de uma vez). Você restaura todos os usos gastos ao completar um [[8. Geral/Descanso/Descanso Curto\|Descanso Curto]] ou [[8. Geral/Descanso/Descanso Longo\|Longo]].
 
 ### Nível 6: Bênção do Deus da Guerra
-Você pode gastar um uso de seu [[1. Classes/Clérigo#Nível 2 Canalizar Divindade\|Canalizar Divindade]] para conjurar [[2. Magias/2° Círculo/Arma Espiritual\|Arma Espiritual]] ou [[2. Magias/1° Círculo/Escudo da Fé\|Escudo da Fé]] em vez de gastar um espaço de magia. Uma magia conjurada dessa maneira não requer Concentração. Em vez disso, a magia permanece por 1 min, mas encerra se você conjurá-la novamente, ter a condição [[8. Geral/Condições/Incapacitado\|Incapacitado]] ou morrer.
+Você pode gastar um uso de seu [[1. Classes/Clérigo#Nível 2 Canalizar Divindade\|Canalizar Divindade]] para conjurar [[2. Magias/2° Círculo/Arma Espiritual\|Arma Espiritual]] ou [[2. Magias/1° Círculo/Escudo da Fé\|Escudo da Fé]] em vez de gastar um espaço de magia. Uma magia conjurada dessa maneira não requer [[2. Magias/Concentração\|Concentração]]. Em vez disso, a magia permanece por 1 min, mas encerra se você conjurá-la novamente, ter a condição [[8. Geral/Condições/Incapacitado\|Incapacitado]] ou morrer.
 
 ### Nível 17: Avatar da Guerra
-Você adquire [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] a dano Contundente, Cortante e Perfurante.
+Você adquire [[8. Geral/Cura, Dano e Morte/Resistência\|Resistência]] a dano Contundente, Cortante e Perfurante.
 

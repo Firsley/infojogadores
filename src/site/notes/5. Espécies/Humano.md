@@ -13,6 +13,6 @@ Os humanos são tão diversos em aparência quanto as populações da Terra e ad
 
 ***Eficiente***. Você adquire [[8. Geral/Termos Diversos/Inspiração Heroica\|Inspiração Heroica]] sempre que completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].
 
-***Hábil***. Você adquire proficiência em uma perícia à sua escolha.
+***Hábil***. Você adquire proficiência em uma [[8. Geral/Atributos/Perícias\|perícia]] à sua escolha.
 
 ***Versátil***. Você adquire um [[3. Talentos/Talentos de Origem/Talentos de Origem\|talento de origem]] à sua escolha. [[3. Talentos/Talentos de Origem/Habilidoso\|Habilidoso]] é recomendado.

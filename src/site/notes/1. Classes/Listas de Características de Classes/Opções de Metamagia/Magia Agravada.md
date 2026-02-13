@@ -4,4 +4,4 @@
 
 *Custo: 2 Pontos de Feitiçaria*
 
-Ao conjurar uma magia que força uma criatura a realizar uma salvaguarda, você pode gastar 2 [[1. Classes/Feiticeiro#Nível 2 Fonte de Magia\|Pontos de Feitiçaria]] para conceder a um alvo da magia Desvantagem em salvaguardas contra a magia.
+Ao conjurar uma magia que força uma criatura a realizar uma salvaguarda, você pode gastar 2 [[1. Classes/Feiticeiro#Nível 2 Fonte de Magia\|Pontos de Feitiçaria]] para conceder a um alvo da magia [[8. Geral/Termos Diversos/Desvantagem\|Desvantagem]] em salvaguardas contra a magia.

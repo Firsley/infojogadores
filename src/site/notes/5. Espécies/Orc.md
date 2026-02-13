@@ -15,6 +15,6 @@ Orcs são, em média, altos e robustos, com pele cinza, orelhas pontiagudas e ca
 
 Você pode usar este traço um número de vezes igual ao seu Bônus de Proficiência, e você restaura todos os usos gastos quando completa um [[8. Geral/Descanso/Descanso Curto\|Descanso Curto]] ou [[8. Geral/Descanso/Descanso Longo\|Longo]].
 
-***Visão no Escuro***. Você tem Visão no Escuro com um alcance de 36 m (120 ft.).
+***Visão no Escuro***. Você tem [[8. Geral/Condições/Visão no Escuro\|Visão no Escuro]] com um alcance de 36 m (120 ft.).
 
 ***Vigor Implacável***. Ao ser reduzido a 0 Pontos de Vida, mas não morto imediatamente, você fica com 1 Ponto de Vida. Após usar este traço, você não pode fazê-lo novamente até completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].

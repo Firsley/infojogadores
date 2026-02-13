@@ -24,7 +24,7 @@ Elfos silvestres, também conhecidos como elfos selvagens, elfos verdes e elfos 
 **Tamanho:** Médio (cerca de 1,50-1,80 m de altura)\
 **Deslocamento:** 9 m (30 ft.)
 
-***Visão no Escuro***. Você tem Visão no Escuro com um alcance de 18 m (60 ft.).
+***Visão no Escuro***. Você tem [[8. Geral/Condições/Visão no Escuro\|Visão no Escuro]] com um alcance de 18 m (60 ft.).
 
 ***Linhagem Élfica***. Você é de uma linhagem que lhe concede habilidades sobrenaturais. Escolha uma linhagem da tabela Linhagem Élfica. Você adquire o benefício de nível 1 dessa linhagem. Ao atingir os níveis 3 e 5, você aprende uma magia de círculo superior, conforme indicado na tabela. Essa magia está sempre preparada e pode ser conjurada uma vez sem usar um espaço de magia, restaurando essa capacidade ao completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]]. Além disso, você pode conjurá-la usando qualquer espaço de magia apropriado que possua.
 

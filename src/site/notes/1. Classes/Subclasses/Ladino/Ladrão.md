@@ -23,7 +23,7 @@ Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você pode executar 
 ### Nível 9: Furtividade Suprema
 Você adquire a seguinte opção de [[1. Classes/Ladino#Nível 5 Golpe Astuto\|Golpe Astuto]].
 
-***Ataque Escondido (Custo: 1d6)***. Se você tem a condição [[8. Geral/Condições/Invisível\|Invisível]] da ação [[8. Geral/Ações em Combate/Esconder\|Esconder]], este ataque não encerra essa condição se você encerrar seu turno atrás da Cobertura de Três Quartos ou Cobertura Total.
+***Ataque Escondido (Custo: 1d6)***. Se você tem a condição [[8. Geral/Condições/Invisível\|Invisível]] da ação [[8. Geral/Ações em Combate/Esconder\|Esconder]], este ataque não encerra essa condição se você encerrar seu turno atrás da [[8. Geral/Combate/Cobertura\|Cobertura]] de Três Quartos ou [[8. Geral/Combate/Cobertura\|Cobertura]] Total.
 
 ### Nível 13: Usar Dispositivo Mágico
 Você aprendeu a maximizar o uso de itens mágicos, concedendo-lhe os seguintes benefícios.
@@ -32,10 +32,10 @@ Você aprendeu a maximizar o uso de itens mágicos, concedendo-lhe os seguintes 
 
 ***Cargas***. Sempre que você usar uma propriedade de item mágico que gaste cargas, jogue 1d6. Em um resultado de 6, você usa a propriedade sem gastar as cargas.
 
-***Pergaminhos***. Você pode usar qualquer [[6. Itens/Equipamentos de Aventura/Pergaminho Mágico\|Pergaminho Mágico]] usando Inteligência como seu atributo de conjuração para a magia. Se a magia for um truque ou uma magia de 1° círculo, você pode conjurá-la de forma confiável. Se o pergaminho possuir uma magia de círculo superior, você deve primeiro ser bem-sucedido em um teste de Inteligência (Arcanismo) (CD 10 mais o círculo da magia). Em caso de sucesso, você conjura a magia do pergaminho. Se falhar, o pergaminho se desintegra.
+***Pergaminhos***. Você pode usar qualquer [[6. Itens/Equipamentos de Aventura/Pergaminho Mágico\|Pergaminho Mágico]] usando Inteligência como seu atributo de conjuração para a magia. Se a magia for um truque ou uma magia de 1° círculo, você pode conjurá-la de forma confiável. Se o pergaminho possuir uma magia de círculo superior, você deve primeiro ser bem-sucedido em um teste de Inteligência (Arcanismo) ([[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] 10 mais o círculo da magia). Em caso de sucesso, você conjura a magia do pergaminho. Se falhar, o pergaminho se desintegra.
 
 ### Nível 17: Reflexos de Ladrão
-Você é habilidoso em emboscadas e rápida fuga do perigo. Em combate, você realiza dois turnos na primeira rodada: o primeiro conforme sua Iniciativa normal e o segundo em sua Iniciativa menos 10.
+Você é habilidoso em emboscadas e rápida fuga do perigo. Em combate, você realiza dois turnos na primeira rodada: o primeiro conforme sua [[8. Geral/Combate/Iniciativa\|Iniciativa]] normal e o segundo em sua [[8. Geral/Combate/Iniciativa\|Iniciativa]] menos 10.
 
 
 

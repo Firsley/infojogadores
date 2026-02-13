@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-classes/paladino/","title":"Paladino"}
 ---
 
-
 **Traços Básicos de Paladino**
 
 | Característica               | Descrição                                                                                                                            |
@@ -66,7 +65,7 @@ Você aprendeu a conjurar magias por meio de oração e meditação. As informa�
 
 ***Magias Preparadas de 1° Círculo ou Superior***. Você prepara a lista de magias de 1° círculo ou superior que estão disponíveis para você conjurar com essa característica. Para começar, escolha duas magias de Paladino de 1° círculo. [[2. Magias/1° Círculo/Destruição Cauterizante\|Destruição Cauterizante]] e [[2. Magias/1° Círculo/Heroísmo\|Heroísmo]] são recomendadas.
 
-O número de magias em sua lista aumenta à medida que você atinge níveis de Paladino, conforme mostrado na coluna Magias Preparadas da tabela Características de Paladino. Sempre que esse número aumentar, escolha magias adicionais da lista de magias de Paladino até que o número de magias em sua lista corresponda ao número da tabela. As magias escolhidas devem ser de um círculo para o qual você possui espaços de magia. Por exemplo, se você é um Paladino de nível 5, sua lista de magias preparadas pode incluir seis magias de Paladino de 1° ou 2° círculo em qualquer combinação.
+O número de magias em sua lista aumenta à medida que você atinge níveis de Paladino, conforme mostrado na coluna Magias Preparadas da tabela Características de Paladino. Sempre que esse número aumentar, escolha magias adicionais da [[2. Magias/Listas de Magias/Lista de Magias de Paladino\|lista de magias de Paladino]] até que o número de magias em sua lista corresponda ao número da tabela. As magias escolhidas devem ser de um círculo para o qual você possui espaços de magia. Por exemplo, se você é um Paladino de nível 5, sua lista de magias preparadas pode incluir seis magias de Paladino de 1° ou 2° círculo em qualquer combinação.
 
 Se outra característica de Paladino lhe der magias que você sempre tem preparadas, essas magias não contam para o número de magias que você pode preparar com esta característica, mas essas magias, de outra forma, contam como magias de Paladino para você.
 
@@ -74,21 +73,21 @@ Se outra característica de Paladino lhe der magias que você sempre tem prepara
 
 ***Atributo de Conjuração***. Carisma é seu atributo de conjuração para suas magias de Paladino.
 
-- CD para evitar magia = 8 + seu modificador de Carisma + seu Bônus de Proficiência
+- [[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] para evitar magia = 8 + seu modificador de Carisma + seu Bônus de Proficiência
 
 - Modificador de ataque mágico = seu modificador de Carisma + seu Bônus de Proficiência
 
-***Foco de Conjuração***. Você pode usar um Símbolo Sagrado como um Foco de Conjuração para suas magias de Paladino.
+***Foco de Conjuração***. Você pode usar um [[6. Itens/Equipamentos de Aventura/Símbolo Sagrado\|Símbolo Sagrado]] como um Foco de Conjuração para suas magias de Paladino.
 
 ## Nível 1: Maestria em Arma
-Seu treinamento com armas permite que você use as propriedades de maestria de dois tipos de armas à sua escolha com as quais você tem proficiência, como Azagaia e Espadas Longas.
+Seu treinamento com armas permite que você use as [[8. Geral/Armas e Armaduras/Propriedades de Maestria\|propriedades de maestria]] de dois tipos de armas à sua escolha com as quais você tem proficiência, como Azagaia e Espadas Longas.
 
-Sempre que completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]], você pode alterar os tipos de armas que escolheu. Por exemplo, você pode mudar para usar as propriedades de maestria de Alabardas e Manguais.
+Sempre que completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]], você pode alterar os tipos de armas que escolheu. Por exemplo, você pode mudar para usar as [[8. Geral/Armas e Armaduras/Propriedades de Maestria\|propriedades de maestria]] de Alabardas e Manguais.
 
 ## Nível 1: Mãos Consagradas
 Seu toque abençoado pode aliviar feridas. Você tem uma reserva de poder de cura que reabastece ao completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]]. Com essa reserva, você pode recuperar um número total de Pontos de Vida igual a cinco vezes seu nível de Paladino.
 
-Como uma Ação Bônus, você toca uma criatura (que pode ser você mesmo) e extrair poder dessa reserva de cura para restaurar um número de Pontos de Vida para essa criatura, até o valor máximo restante na reserva.
+Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você toca uma criatura (que pode ser você mesmo) e extrair poder dessa reserva de cura para restaurar um número de Pontos de Vida para essa criatura, até o valor máximo restante na reserva.
 
 Você também pode gastar 5 Pontos de Vida dessa reserva de poder de cura para remover a condição [[8. Geral/Condições/Envenenado\|Envenenado]] da criatura; esses pontos não restauram Pontos de Vida da criatura.
 
@@ -98,16 +97,16 @@ Você sempre tem a magia [[2. Magias/1° Círculo/Destruição Divina\|Destruiç
 ## Nível 2: Estilo de Luta
 Você adquire um talento de [[3. Talentos/Talentos de Estilo de Luta/Talentos de Estilo de Luta\|Estilo de Luta]] à sua escolha. Em vez de escolher um desses talentos, você pode escolher a opção abaixo. 
 
-***Combatente Abençoado***. Você aprende dois [[2. Magias/Listas de Magias/Lista de Magias de Clérigo\|truques de Clérigo]] à sua escolha. [[2. Magias/Truques/Chama Sagrada\|Chama Sagrada]] e [[2. Magias/Truques/Orientação\|Orientação]] são recomendados. Os truques escolhidos contam como magias de Paladino para você, e Carisma é o atributo de conjuração para elas. Sempre que você atinge um nível de Paladino, pode substituir um desses truques por outro truque de Clérigo.
+***Combatente Abençoado***. Você aprende dois [[2. Magias/Listas de Magias/Lista de Magias de Clérigo\|truques de Clérigo]] à sua escolha. [[2. Magias/Truques/Chama Sagrada\|Chama Sagrada]] e [[2. Magias/Truques/Orientação\|Orientação]] são recomendados. Os truques escolhidos contam como magias de Paladino para você, e Carisma é o atributo de conjuração para elas. Sempre que você atinge um nível de Paladino, pode substituir um desses truques por outro truque de [[1. Classes/Clérigo\|Clérigo]].
 
 ## Nível 3: Canalizar Divindade
 Você pode canalizar energia divina diretamente dos Planos Externos, usando-a para causar efeitos mágicos. Você começa com um desses efeitos: *Sentido Divino*, descrito abaixo. Outras características de Paladino dão opções adicionais de efeito de *Canalizar Divindade*. Cada vez que você usa *Canalizar Divindade* desta classe, você escolhe qual efeito desta classe usar.
 
 Você pode usar *Canalizar Divindade* desta classe duas vezes e três vezes a partir do nível 11 de Paladino. Você recupera um uso gasto ao completar um [[8. Geral/Descanso/Descanso Curto\|Descanso Curto]], e restaura todos os usos gastos ao completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].
 
-Se um efeito de *Canalizar Divindade* exigir uma salvaguarda, a CD é igual a CD para evitar magias da característica [[1. Classes/Paladino#Nível 1 Conjuração\|Conjuração]] desta classe.
+Se um efeito de *Canalizar Divindade* exigir uma salvaguarda, a [[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] é igual a [[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] para evitar magias da característica [[1. Classes/Paladino#Nível 1 Conjuração\|Conjuração]] desta classe.
 
-***Sentido Divino***. Como uma Ação Bônus, você pode abrir sua consciência para detectar Celestiais, Ínferos e Mortos-Vivos. Pelos próximos 10 min ou até você ter a condição [[8. Geral/Condições/Incapacitado\|Incapacitado]], você sabe a localização de qualquer criatura desse tipo a até 18 m (60 ft.) de você e conhece o tipo de criatura. Dentro do mesmo raio, você também detecta a presença de qualquer lugar ou objeto que tenha sido consagrado ou profanado, como na magia [[2. Magias/5° Círculo/Consagrar\|Consagrar]].
+***Sentido Divino***. Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você pode abrir sua consciência para detectar Celestiais, Ínferos e Mortos-Vivos. Pelos próximos 10 min ou até você ter a condição [[8. Geral/Condições/Incapacitado\|Incapacitado]], você sabe a localização de qualquer criatura desse tipo a até 18 m (60 ft.) de você e conhece o tipo de criatura. Dentro do mesmo raio, você também detecta a presença de qualquer lugar ou objeto que tenha sido consagrado ou profanado, como na magia [[2. Magias/5° Círculo/Consagrar\|Consagrar]].
 
 ## Nível 3: Subclasse de Paladino
 Você adquire uma subclasse de Paladino à sua escolha. 
@@ -118,7 +117,7 @@ As subclasses [[1. Classes/Subclasses/Paladino/Juramento da Devoção\|Juramento
 Você adquire o talento [[3. Talentos/Talentos Gerais/Aumento no Valor de Atributo\|Aumento no Valor de Atributo]] ou outro [[3. Talentos/Talento\|Talento]] à sua escolha para o qual atenda os pré-requisitos. Você adquire essa característica novamente nos níveis 8, 12 e 16 de Paladino.
 
 ## Nível 5: Ataque Extra
-Você pode atacar duas vezes, em vez de uma, sempre que executar a ação Atacar no seu turno.
+Você pode atacar duas vezes, em vez de uma, sempre que executar a ação [[8. Geral/Ações em Combate/Atacar\|Atacar]] no seu turno.
 
 ## Nível 5: Montaria Fiel
 Você pode pedir auxílio de uma montaria sobrenatural. Você sempre tem a magia [[2. Magias/2° Círculo/Convocar Montaria\|Convocar Montaria]] preparada.
@@ -133,7 +132,7 @@ Você e seus aliados na aura adquirem um bônus em salvaguardas igual ao seu mod
 Se outro Paladino estiver presente, uma criatura pode se beneficiar de apenas uma *Aura de Proteção* de cada vez; a criatura escolhe qual aura recebe enquanto estiver nela.
 
 ## Nível 9: Repudiar Inimigos
-Como uma ação Usar Magia, você pode fazer um uso de [[1. Classes/Paladino#Nível 3 Canalizar Divindade\|Canalizar Divindade]] para subjugar inimigos com temor. Ao apresentar seu Símbolo Sagrado ou arma, você pode escolher um número de criaturas igual ao seu modificador de Carisma (no mínimo uma criatura) à sua vista e a até 18 m (60 ft.) de você. Cada alvo deve ser bem-sucedido em uma salvaguarda de Sabedoria ou tem a condição [[8. Geral/Condições/Amedrontado\|Amedrontado]] por 1 min ou até sofrer qualquer dano. Enquanto [[8. Geral/Condições/Amedrontado\|Amedrontado]] deste modo, um alvo pode realizar apenas uma das opções seguintes nos turnos dele: mover-se, executar uma ação ou executar uma Ação Bônus.
+Como uma ação [[8. Geral/Ações em Combate/Usar Magia\|Usar Magia]], você pode fazer um uso de [[1. Classes/Paladino#Nível 3 Canalizar Divindade\|Canalizar Divindade]] para subjugar inimigos com temor. Ao apresentar seu [[6. Itens/Equipamentos de Aventura/Símbolo Sagrado\|Símbolo Sagrado]] ou arma, você pode escolher um número de criaturas igual ao seu modificador de Carisma (no mínimo uma criatura) à sua vista e a até 18 m (60 ft.) de você. Cada alvo deve ser bem-sucedido em uma salvaguarda de Sabedoria ou tem a condição [[8. Geral/Condições/Amedrontado\|Amedrontado]] por 1 min ou até sofrer qualquer dano. Enquanto [[8. Geral/Condições/Amedrontado\|Amedrontado]] deste modo, um alvo pode realizar apenas uma das opções seguintes nos turnos dele: mover-se, executar uma ação ou executar uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]].
 
 ## Nível 10: Aura de Coragem
 Você e seus aliados têm Imunidade à condição [[8. Geral/Condições/Amedrontado\|Amedrontado]] enquanto estiverem em sua [[1. Classes/Paladino#Nível 6 Aura de Proteção\|Aura de Proteção]]. Se um aliado [[8. Geral/Condições/Amedrontado\|Amedrontado]] entrar na aura, essa condição não tem efeito sobre esse aliado enquanto ele estiver na aura.

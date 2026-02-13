@@ -8,9 +8,9 @@ Ao conjurar [[2. Magias/1° Círculo/Convocar Familiar\|Convocar Familiar]], voc
 
 ***Aéreo ou Aquático***. O familiar obtém um Deslocamento de Voo ou um Deslocamento de Natação (à sua escolha) de 12 m (45 ft.).
 
-***Ataque Rápido***. Como uma Ação Bônus, você pode ordenar o familiar a executar a ação [[8. Geral/Ações em Combate/Atacar\|Atacar]].
+***Ataque Rápido***. Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você pode ordenar o familiar a executar a ação [[8. Geral/Ações em Combate/Atacar\|Atacar]].
 
-***CD para Evitar sua Magia***. Se o familiar forçar uma criatura a realizar uma salvaguarda, ela usa a CD para evitar sua magia.
+***CD para Evitar sua Magia***. Se o familiar forçar uma criatura a realizar uma salvaguarda, ela usa a [[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] para evitar sua magia.
 
 ***Dano Necrótico ou Radiante***. Sempre que o familiar causar dano Contundente, Cortante ou Perfurante, você pode substituir o dano por Necrótico ou Radiante.
 

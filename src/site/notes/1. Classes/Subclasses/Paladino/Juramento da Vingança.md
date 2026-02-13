@@ -26,12 +26,12 @@ A magia do seu juramento garante que você sempre tenha certas magias prontas; a
 |        17         | [[2. Magias/5° Círculo/Paralisar Monstro\|Paralisar Monstro]], [[2. Magias/5° Círculo/Vidência\|Vidência]]         |
 
 ### Nível 3: Voto de Inimizade
-Ao executar a ação Atacar, você pode gastar um uso de seu [[1. Classes/Paladino#Nível 3 Canalizar Divindade\|Canalizar Divindade]] para proferir um voto de inimizade contra uma criatura à sua vista a até 9 m (30 ft.) de si. Você tem Vantagem em jogadas de ataque contra a criatura por 1 min ou até usar essa característica novamente.
+Ao executar a ação Atacar, você pode gastar um uso de seu [[1. Classes/Paladino#Nível 3 Canalizar Divindade\|Canalizar Divindade]] para proferir um voto de inimizade contra uma criatura à sua vista a até 9 m (30 ft.) de si. Você tem [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] em jogadas de ataque contra a criatura por 1 min ou até usar essa característica novamente.
 
 Caso a criatura caia a 0 Pontos de Vida antes que o voto termine, você pode transferir o voto para uma criatura diferente a até 9 m (30 ft.) de você (nenhuma ação é necessária).
 
 ### Nível 7: Vingador Implacável
-Seu foco sobrenatural permite que você evite a retirada de um inimigo. Ao atingir uma criatura com um Ataque de Oportunidade, você pode reduzir o Deslocamento da criatura para 0 até o final do turno atual. Você pode, então, se mover até metade de seu Deslocamento como parte da mesma [[8. Geral/Combate/Reação\|Reação]]. Esse movimento não provoca Ataques de Oportunidade.
+Seu foco sobrenatural permite que você evite a retirada de um inimigo. Ao atingir uma criatura com um [[8. Geral/Combate/Ataque de Oportunidade\|Ataque de Oportunidade]], você pode reduzir o Deslocamento da criatura para 0 até o final do turno atual. Você pode, então, se mover até metade de seu Deslocamento como parte da mesma [[8. Geral/Combate/Reação\|Reação]]. Esse movimento não provoca [[8. Geral/Combate/Ataque de Oportunidade\|Ataques de Oportunidade]].
 
 ### Nível 15: Alma Vingativa
 Imediatamente após uma criatura sob o efeito do seu [[1. Classes/Subclasses/Paladino/Juramento da Vingança#Voto de Inimizade\|Voto de Inimizade]] acertar ou errar com uma jogada de ataque, você pode executar uma [[8. Geral/Combate/Reação\|Reação]] para realizar um ataque corpo a corpo contra essa criatura se ela estiver ao seu alcance.
@@ -39,7 +39,7 @@ Imediatamente após uma criatura sob o efeito do seu [[1. Classes/Subclasses/Pal
 ### Nível 20: Anjo Vingador
 Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você adquire os benefícios abaixo por 10 min ou até a encerrar (nenhuma ação é necessária). Após usar esta característica, você não pode utilizá-la novamente até completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]]. Você também pode recuperar seu uso gastando um espaço de magia de 5° círculo (nenhuma ação é necessária).
 
-***Aura Amedrontadora***. Sempre que um inimigo inicia o turno dele em sua [[1. Classes/Paladino#Nível 6 Aura de Proteção\|Aura de Proteção]], ele deve ser bem-sucedido em uma salvaguarda de Sabedoria ou tem a condição [[8. Geral/Condições/Amedrontado\|Amedrontado]] por 1 min, ou até sofrer qualquer dano. Jogadas de ataque contra a criatura [[8. Geral/Condições/Amedrontado\|Amedrontada]] têm Vantagem.
+***Aura Amedrontadora***. Sempre que um inimigo inicia o turno dele em sua [[1. Classes/Paladino#Nível 6 Aura de Proteção\|Aura de Proteção]], ele deve ser bem-sucedido em uma salvaguarda de Sabedoria ou tem a condição [[8. Geral/Condições/Amedrontado\|Amedrontado]] por 1 min, ou até sofrer qualquer dano. Jogadas de ataque contra a criatura [[8. Geral/Condições/Amedrontado\|Amedrontada]] têm [[8. Geral/Termos Diversos/Vantagem\|Vantagem]].
 
 ***Voo***. Você cria asas espectrais nas costas e tem um Deslocamento de Voo de 18 m (60 ft.), além de poder pairar.
 

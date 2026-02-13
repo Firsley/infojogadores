@@ -13,12 +13,12 @@ Em alguns mundos do multiverso, os primeiros povoados de anões foram erguidos e
 **Tamanho:** Médio (cerca de 1,20 a 1,50 m de altura)\
 **Deslocamento:** 9 m (30 ft.)
 
-***Visão no Escuro***. Você tem Visão no Escuro com um alcance de 36 m (120 ft.).
+***Visão no Escuro***. Você tem [[8. Geral/Condições/Visão no Escuro\|Visão no Escuro]] com um alcance de 36 m (120 ft.).
 
-***Resistência a Toxinas***. Você tem [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] a Dano Venenoso. Você também tem Vantagem nas salvaguardas que realizar para evitar ou encerrar a condição [[8. Geral/Condições/Envenenado\|Envenenado]].
+***Resistência a Toxinas***. Você tem [[8. Geral/Cura, Dano e Morte/Resistência\|Resistência]] a Dano Venenoso. Você também tem [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] nas salvaguardas que realizar para evitar ou encerrar a condição [[8. Geral/Condições/Envenenado\|Envenenado]].
 
 ***Tenacidade Anã***. Seus Pontos de Vida máximos aumentam em 1, e novamente em 1, sempre que você atinge um nível de personagem.
 
-***Conhecimento de Pedras***. Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você adquire Sismiconsciência com um alcance de 18 m (60 ft.) por 10 min. Você deve estar em, ou tocar, uma superfície de pedra para usar a Sismiconsciência. A pedra pode ser natural ou trabalhada.
+***Conhecimento de Pedras***. Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você adquire [[8. Geral/Termos Diversos/Sismiconsciência\|Sismiconsciência]] com um alcance de 18 m (60 ft.) por 10 min. Você deve estar em, ou tocar, uma superfície de pedra para usar a [[8. Geral/Termos Diversos/Sismiconsciência\|Sismiconsciência]]. A pedra pode ser natural ou trabalhada.
 
 Você pode usar essa [[8. Geral/Combate/Ação Bônus\|Ação Bônus]] um número de vezes igual ao seu Bônus de Proficiência, e você restaura todos os usos gastos quando completa um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].

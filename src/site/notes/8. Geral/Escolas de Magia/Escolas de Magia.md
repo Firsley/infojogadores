@@ -13,10 +13,10 @@ As diferentes escolas de magia são:
 | [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]]   |
 | [[8. Geral/Escolas de Magia/Encantamento\|Encantamento]] |
 | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]         |
-| [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] |
 | [[8. Geral/Escolas de Magia/Ilusão\|Ilusão]]             |
 | [[8. Geral/Escolas de Magia/Invocação\|Invocação]]       |
 | [[8. Geral/Escolas de Magia/Necromancia\|Necromancia]]   |
+| [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] |
 
 { .block-language-dataview}
 

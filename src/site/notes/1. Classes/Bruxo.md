@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-classes/bruxo/","title":"Bruxo"}
 ---
 
-
 **Traços Básicos de Bruxo**
 
 | Característica               | Descrição                                                                                                                                                  |
@@ -103,8 +102,8 @@ Você adquire uma subclasse de Bruxo à sua escolha.
 
 | Subclasse                                                                           | Fonte            |
 | ----------------------------------------------------------------------------------- | ---------------- |
-| [[1. Classes/Subclasses/Bruxo/Patrono Celestial\|Patrono Celestial]]             | Livro do Jogador |
 | [[1. Classes/Subclasses/Bruxo/Patrono Arquifada\|Patrono Arquifada]]             | Livro do Jogador |
+| [[1. Classes/Subclasses/Bruxo/Patrono Celestial\|Patrono Celestial]]             | Livro do Jogador |
 | [[1. Classes/Subclasses/Bruxo/Patrono O Grande Antigo\|Patrono O Grande Antigo]] | Livro do Jogador |
 | [[1. Classes/Subclasses/Bruxo/Patrono Ínfero\|Patrono Ínfero]]                   | Livro do Jogador |
 

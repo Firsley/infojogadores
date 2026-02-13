@@ -11,7 +11,7 @@
 | Proficiência em Salvaguardas | Destreza (DES) e Carisma (CAR)                                                                                                   |
 | Proficiência em Perícias     | Escolha quaisquer 3 perícias                                                                                                     |
 | Proficiência com Armas       | Armas Simples                                                                                                                    |
-| Proficiência com Ferramentas | Escolha 3 [[6. Itens/Ferramentas/Instrumento Musical\|Instrumento Musical]]                                                                                                |
+| Proficiência com Ferramentas | Escolha 3 [[6. Itens/Ferramentas/Instrumento Musical\|Instrumentos Musicais]]                                                                         |
 | Treinamento com Armadura     | Armadura Leve                                                                                                                    |
 | Equipamento Inicial          | Escolha A ou B: (A) Armadura de Couro, 2 Adagas, [[6. Itens/Ferramentas/Instrumento Musical\|Instrumento Musical]] à sua escolha, [[6. Itens/Equipamentos de Aventura/Kit de Artista\|Kit de Artista]] e 19 po; ou (B) 90 po |
 

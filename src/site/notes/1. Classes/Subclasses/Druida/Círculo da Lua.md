@@ -27,7 +27,7 @@ Você pode canalizar a magia lunar ao assumir uma [[1. Classes/Druida#Nível 2 F
 
 ***Nível de Desafio***. O Nível de Desafio máximo para a forma é igual ao seu nível de [[1. Classes/Druida\|Druida]] dividido por 3 (arredondado para baixo).
 
-***Classe de Armadura***. Até sair da forma, sua CA passa a ser 13 + seu modificador de Sabedoria, se esse valor for maior que a CA da Fera.
+***Classe de Armadura***. Até sair da forma, sua [[8. Geral/Combate/Classe de Armadura (CA)\|CA]] passa a ser 13 + seu modificador de Sabedoria, se esse valor for maior que a [[8. Geral/Combate/Classe de Armadura (CA)\|CA]] da Fera.
 
 ***Pontos de Vida Temporários***. Você adquire um número de Pontos de Vida Temporários igual a três vezes o seu nível de [[1. Classes/Druida\|Druida]].
 
@@ -39,7 +39,7 @@ Enquanto estiver em uma [[1. Classes/Druida#Nível 2 Forma Selvagem\|Forma Selva
 ***Vigor Aumentado***. Você pode adicionar seu modificador de Sabedoria às suas salvaguardas de Constituição.
 
 ### Nível 10: Passo Lunar
-Você se transporta magicamente, reaparecendo em meio a uma explosão de luar. Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você se teleporta até 9 m (30 ft.) para um espaço desocupado à sua vista e tem Vantagem na próxima jogada de ataque que realizar antes do final deste turno. 
+Você se transporta magicamente, reaparecendo em meio a uma explosão de luar. Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você se teleporta até 9 m (30 ft.) para um espaço desocupado à sua vista e tem [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] na próxima jogada de ataque que realizar antes do final deste turno. 
 
 Você pode usar essa característica um número de vezes igual ao seu modificador de Sabedoria (mínimo de uma vez) e restaura todos os usos gastos ao completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]]. Você também pode recuperar usos gastando um espaço de magia de 2° círculo ou superior para cada uso que deseja recuperar (nenhuma ação é necessária).
 

@@ -32,7 +32,7 @@ Além disso, consulte a tabela Manifestações da Ordem e escolha ou determine a
 |  6  | O tique-taque das engrenagens ou o toque de um relógio podem ser ouvidos por você e aqueles afetados por sua magia. |
 
 ### Nível 3: Restaurar Equilíbrio
-Sua conexão com o plano de ordem absoluta permite equalizar momentos caóticos. Quando uma criatura à sua vista a até 18 m (30 ft.) de você estiver prestes a jogar um d20 com Vantagem ou Desvantagem, você pode executar uma Reação para evitar que o teste seja afetado por Vantagem e Desvantagem.
+Sua conexão com o plano de ordem absoluta permite equalizar momentos caóticos. Quando uma criatura à sua vista a até 18 m (30 ft.) de você estiver prestes a jogar um d20 com [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] ou [[8. Geral/Termos Diversos/Desvantagem\|Desvantagem]], você pode executar uma [[8. Geral/Combate/Reação\|Reação]] para evitar que o teste seja afetado por [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] e [[8. Geral/Termos Diversos/Desvantagem\|Desvantagem]].
 
 Você pode usar essa característica um número de vezes igual ao seu modificador de Carisma (mínimo de uma vez) e restaura todos os usos gastos ao completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].
 
@@ -42,7 +42,7 @@ Você pode acessar a grande equação da existência para imbuir uma criatura co
 A proteção dura até você completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]] ou até usar esta característica novamente.
 
 ### Nível 14: Transe da Ordem
-Você adquire a capacidade de alinhar sua consciência com os infinitos cálculos de Mecânos. Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você pode entrar neste estado por 1 min. Pela duração, as jogadas de ataque contra você não podem se beneficiar de Vantagem e sempre que você realizar um Teste de d20, você pode tratar um resultado de 9 ou menor no d20 como um 10.
+Você adquire a capacidade de alinhar sua consciência com os infinitos cálculos de Mecânos. Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você pode entrar neste estado por 1 min. Pela duração, as jogadas de ataque contra você não podem se beneficiar de [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] e sempre que você realizar um Teste de d20, você pode tratar um resultado de 9 ou menor no d20 como um 10.
 
 Você pode usar esta característica novamente após completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]] ou gastando 5 [[1. Classes/Feiticeiro#Nível 2 Fonte de Magia\|Pontos de Feitiçaria]] (nenhuma ação é necessária) para restaurar seu uso.
 

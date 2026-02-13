@@ -11,9 +11,9 @@ Um aasimar pode surgir entre qualquer população de mortais. Eles se parecem co
 **Tamanho:** Médio (cerca de 1,20-2,10 m de altura) ou Pequeno (cerca de 0,60-1,20 m de altura), escolhido ao selecionar esta espécie\
 **Deslocamento:** 9 m (30 ft.)
 
-***Resistência Celestial***. Você tem [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] a dano Necrótico e Radiante.
+***Resistência Celestial***. Você tem [[8. Geral/Cura, Dano e Morte/Resistência\|Resistência]] a dano Necrótico e Radiante.
 
-***Visão no Escuro***. Você tem Visão no Escuro com um alcance de 18 m (60 ft.).
+***Visão no Escuro***. Você tem [[8. Geral/Condições/Visão no Escuro\|Visão no Escuro]] com um alcance de 18 m (60 ft.).
 
 ***Mãos Curativas***. Você executa uma ação [[8. Geral/Ações em Combate/Usar Magia\|Usar Magia]], toca uma criatura e joga um número de d4s igual ao seu Bônus de Proficiência. A criatura restaura número de Pontos de Vida igual ao total jogado. Após usar esse traço, você não pode usá-lo novamente até completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].
 
@@ -25,6 +25,6 @@ Aqui estão as opções de transformação:
 
 **Asas Celestiais.** Duas asas espectrais brotam em suas costas temporariamente. Até que a transformação se encerre, você tem um Deslocamento de Voo igual ao seu Deslocamento.
 
-**Manto Necrótico**. Seus olhos se tornam brevemente poças de escuridão, e asas que não voam brotam em suas costas temporariamente. Criaturas que não sejam seus aliados a até 3 m (10 ft.) de você devem ser bem-sucedidas em uma salvaguarda de Carisma (CD 8 + seu modificador de Carisma e seu Bônus de Proficiência) ou têm a condição [[8. Geral/Condições/Amedrontado\|Amedrontado]] até o final do seu próximo turno.
+**Manto Necrótico**. Seus olhos se tornam brevemente poças de escuridão, e asas que não voam brotam em suas costas temporariamente. Criaturas que não sejam seus aliados a até 3 m (10 ft.) de você devem ser bem-sucedidas em uma salvaguarda de Carisma ([[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] 8 + seu modificador de Carisma e seu Bônus de Proficiência) ou têm a condição [[8. Geral/Condições/Amedrontado\|Amedrontado]] até o final do seu próximo turno.
 
 **Transfiguração Radiante**. Luz abrasadora irradia temporariamente de seus olhos e boca. Pela duração da transformação, você emite Luz Plena em um raio de 3 m (10 ft.) e Meia-luz por mais 3 m (10 ft.), e no fim de cada um de seus turnos, cada criatura a até 3 m (10 ft.) de você sofre dano Radiante igual ao seu Bônus de Proficiência.

@@ -18,7 +18,7 @@ O legado infernal liga os tiferinos não apenas à Gehenna, mas também aos Nove
 **Tamanho:** Médio (cerca de 1,20-2,10 m de altura) ou Pequeno (cerca de 0,90-1,20 m de altura), escolhido ao selecionar esta espécie\
 **Deslocamento:** 9 m (30 ft.)
 
-***Visão no Escuro***. Você tem Visão no Escuro com um alcance de 18 m (60 ft.).
+***Visão no Escuro***. Você tem [[8. Geral/Condições/Visão no Escuro\|Visão no Escuro]] com um alcance de 18 m (60 ft.).
 
 ***Legado Ínfero***. Você é o portador de um legado que lhe confere poderes sobrenaturais. Escolha um legado da tabela Legados Ínferos. Você adquire o benefício de nível 1 do legado escolhido.
 

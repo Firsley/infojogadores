@@ -15,7 +15,7 @@ Sempre que você assumir sua forma estrelada, escolha qual das constelações a 
 
 ***Arqueiro***. Uma constelação de um arqueiro aparece em você. Ao ativar e nos turnos subsequentes como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você pode realizar um ataque mágico à distância, disparando uma flecha luminosa que atinge uma criatura a até 18 m (60 ft.). Em caso de acerto, o ataque causa 1d8 pontos de dano Radiante + seu modificador de Sabedoria.
 
-***Dragão***. Uma constelação de um dragão sábio aparece em você. Quando realizar um teste de Inteligência ou Sabedoria, ou uma salvaguarda de Constituição para manter a Concentração, você trata um resultado 9 ou menor no d20 como um 10.
+***Dragão***. Uma constelação de um dragão sábio aparece em você. Quando realizar um teste de Inteligência ou Sabedoria, ou uma salvaguarda de Constituição para manter a [[2. Magias/Concentração\|Concentração]], você trata um resultado 9 ou menor no d20 como um 10.
 
 ***Taça***. Uma constelação de um cálice vivificante aparece em você. Sempre que você conjurar uma magia, usando um espaço de que restaure Pontos de Vida em uma criatura, você ou outra criatura a até 9 m (30 ft.) de você pode restaurar Pontos de Vida iguais a 1d8 + seu modificador de Sabedoria.
 
@@ -52,5 +52,5 @@ As constelações da sua [[1. Classes/Subclasses/Druida/Círculo das Estrelas#N�
 Além disso, no início de cada um dos seus turnos enquanto estiver na sua [[1. Classes/Subclasses/Druida/Círculo das Estrelas#Nível 3 Forma Estrelada\|Forma Estrelada]], você pode alterar qual constelação brilha em seu corpo.
 
 ### Nível 14: Repleto de Estrelas
-Enquanto estiver em sua [[1. Classes/Subclasses/Druida/Círculo das Estrelas#Nível 3 Forma Estrelada\|Forma Estrelada]], você se torna parcialmente incorpóreo e tem [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] a dano Contundente, Cortante e Perfurante.
+Enquanto estiver em sua [[1. Classes/Subclasses/Druida/Círculo das Estrelas#Nível 3 Forma Estrelada\|Forma Estrelada]], você se torna parcialmente incorpóreo e tem [[8. Geral/Cura, Dano e Morte/Resistência\|Resistência]] a dano Contundente, Cortante e Perfurante.
 

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-classes/monge/","title":"Monge"}
 ---
 
-
 **Traços Básicos de Monge**
 
 | Característica                | Descrição                                                                                                                                                                                   |
@@ -63,21 +62,21 @@ Os Monges veem as aventuras como testes de seu desenvolvimento físico e mental.
 Como Monge, você recebe as seguintes características de classe ao alcançar os níveis especificados de Monge. Essas características são apresentadas na tabela Características de Monge.
 
 ## Nível 1: Artes Marciais
-Sua prática de artes marciais lhe confere domínio de estilos de combate que usam seu Ataque Desarmado e armas de Monge, que incluem:
+Sua prática de artes marciais lhe confere domínio de estilos de combate que usam seu [[8. Geral/Ações em Combate/Ataque Desarmado\|Ataque Desarmado]] e armas de Monge, que incluem:
 
 - Armas Simples Corpo a Corpo; e
 - Armas Marciais Corpo a Corpo que tem a propriedade [[8. Geral/Armas e Armaduras/Propriedades de Armas#Leve\|Leve]].
 
 Você adquire os seguintes benefícios enquanto estiver desarmado ou empunhando apenas armas de Monge e não estiver vestindo armadura ou empunhando um Escudo.
 
-***Ataque Desarmado Adicional***. Você pode realizar um Ataque Desarmado como uma Ação Bônus.
+***Ataque Desarmado Adicional***. Você pode realizar um [[8. Geral/Ações em Combate/Ataque Desarmado\|Ataque Desarmado]] como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]].
 
-***Dado de Artes Marciais***. Você pode jogar 1d6 ao invés do dano normal de seu Ataque Desarmado ou armas de Monge. Este dado muda à medida que você atinge níveis de Monge, conforme detalhado na coluna Artes Marciais da tabela Características de Monge.
+***Dado de Artes Marciais***. Você pode jogar 1d6 ao invés do dano normal de seu [[8. Geral/Ações em Combate/Ataque Desarmado\|Ataque Desarmado]] ou armas de Monge. Este dado muda à medida que você atinge níveis de Monge, conforme detalhado na coluna Artes Marciais da tabela Características de Monge.
 
-***Ataques com Destreza***. Você pode usar seu modificador de Destreza em vez de seu modificador de Força para as jogadas de ataque e dano de seus Ataques Desarmados e armas de Monge. Além disso, quando você usa a opção [[8. Geral/Ações em Combate/Atacar\|Empurrar]] ou [[8. Geral/Ações em Combate/Atacar\|Imobilizar]] do seu Ataque Desarmado, você pode usar seu modificador de Destreza em vez de seu modificador de Força para determinar a CD da salvaguarda.
+***Ataques com Destreza***. Você pode usar seu modificador de Destreza em vez de seu modificador de Força para as jogadas de ataque e dano de seus [[8. Geral/Ações em Combate/Ataque Desarmado\|Ataques Desarmados]] e armas de Monge. Além disso, quando você usa a opção [[8. Geral/Ações em Combate/Atacar\|Empurrar]] ou [[8. Geral/Ações em Combate/Atacar\|Imobilizar]] do seu [[8. Geral/Ações em Combate/Ataque Desarmado\|Ataque Desarmado]], você pode usar seu modificador de Destreza em vez de seu modificador de Força para determinar a [[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] da salvaguarda.
 
 ## Nível 1: Defesa sem Armadura
-Enquanto você não estiver vestindo armadura ou empunhando um Escudo, sua Classe de Armadura base é igual a 10 mais seus modificadores de Destreza e Sabedoria.
+Enquanto você não estiver vestindo armadura ou empunhando um Escudo, sua [[8. Geral/Combate/Classe de Armadura (CA)\|Classe de Armadura]] base é igual a 10 mais seus modificadores de Destreza e Sabedoria.
 
 ## Nível 2: Foco do Monge
 Seu foco e treinamento marcial permitem que você aproveite uma reserva de energia extraordinária dentro de si. Essa energia é representada por Pontos de Foco. Seu nível de Monge determina o número de pontos que você tem, conforme detalhado na coluna Pontos de Foco da tabela Características de Monge.
@@ -86,16 +85,16 @@ Você pode gastar esses pontos para melhorar ou impulsionar certas característi
 
 Ao gastar um Ponto de Foco, ele não está disponível. Você restaura todos os usos gastos ao completar um [[8. Geral/Descanso/Descanso Curto\|Descanso Curto]] ou [[8. Geral/Descanso/Descanso Longo\|Longo]].
 
-Algumas características que usam Pontos de Foco exigem que seu alvo realize uma salvaguarda. A CD da salvaguarda é igual a 8 mais seu modificador de Sabedoria e seu Bônus de Proficiência.
+Algumas características que usam Pontos de Foco exigem que seu alvo realize uma salvaguarda. A [[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] da salvaguarda é igual a 8 mais seu modificador de Sabedoria e seu Bônus de Proficiência.
 
-***Defesa Paciente***. Você pode executar a ação [[8. Geral/Ações em Combate/Desengajar\|Desengajar]] como uma Ação Bônus. Como alternativa, você pode gastar 1 Ponto de Foco para executar as ações [[8. Geral/Ações em Combate/Desengajar\|Desengajar]] e [[8. Geral/Ações em Combate/Esquivar\|Esquivar]] como uma Ação Bônus.
+***Defesa Paciente***. Você pode executar a ação [[8. Geral/Ações em Combate/Desengajar\|Desengajar]] como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]]. Como alternativa, você pode gastar 1 Ponto de Foco para executar as ações [[8. Geral/Ações em Combate/Desengajar\|Desengajar]] e [[8. Geral/Ações em Combate/Esquivar\|Esquivar]] como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]].
 
-***Passo do Vento***. Você pode executar a ação [[8. Geral/Ações em Combate/Correr\|Correr]] como uma Ação Bônus. Como alternativa, você pode gastar 1 Ponto de Foco para executar as ações [[8. Geral/Ações em Combate/Desengajar\|Desengajar]] e [[8. Geral/Ações em Combate/Correr\|Correr]] como uma Ação Bônus, e sua distância de salto é dobrada durante o turno.
+***Passo do Vento***. Você pode executar a ação [[8. Geral/Ações em Combate/Correr\|Correr]] como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]]. Como alternativa, você pode gastar 1 Ponto de Foco para executar as ações [[8. Geral/Ações em Combate/Desengajar\|Desengajar]] e [[8. Geral/Ações em Combate/Correr\|Correr]] como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], e sua distância de salto é dobrada durante o turno.
 
-***Torrente de Golpes***. Você pode gastar 1 Ponto de Foco para realizar dois Ataques Desarmados como uma Ação Bônus.
+***Torrente de Golpes***. Você pode gastar 1 Ponto de Foco para realizar dois [[8. Geral/Ações em Combate/Ataque Desarmado\|Ataques Desarmados]] como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]].
 
 ## Nível 2: Metabolismo Incomum
-Ao jogar Iniciativa, você pode restaurar todos os Pontos de Foco gastos. Ao realizar isso, jogue seu dado de Artes Marciais e recupere um número de Pontos de Vida igual ao seu nível de Monge mais o valor jogado. 
+Ao jogar [[8. Geral/Combate/Iniciativa\|Iniciativa]], você pode restaurar todos os Pontos de Foco gastos. Ao realizar isso, jogue seu dado de Artes Marciais e recupere um número de Pontos de Vida igual ao seu nível de Monge mais o valor jogado. 
 
 Após usar essa característica, você não pode usá-la novamente até completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].
 
@@ -103,29 +102,38 @@ Após usar essa característica, você não pode usá-la novamente até completa
 Seu Deslocamento aumenta em 3 m (10 ft.) enquanto você não vestir armadura ou empunhar um Escudo. Esse bônus aumenta quando você atinge certos níveis de Monge, conforme detalhado na tabela Características de Monge.
 
 ## Nível 3: Defletir Ataques
-Ao ser atingido devido uma jogada de ataque e o dano dessa jogada incluir dano Contundente, Cortante ou Perfurante, você pode executar uma Reação para reduzir o dano total do ataque. A redução é igual a 1d10 mais seu modificador de Destreza e nível de Monge.
+Ao ser atingido devido uma jogada de ataque e o dano dessa jogada incluir dano Contundente, Cortante ou Perfurante, você pode executar uma [[8. Geral/Combate/Reação\|Reação]] para reduzir o dano total do ataque. A redução é igual a 1d10 mais seu modificador de Destreza e nível de Monge.
 
-Ao reduzir o dano a 0, você pode gastar 1 Ponto de Foco para redirecionar parte da força do ataque. Para isso, escolha uma criatura à vista a até 1,5 m (5 ft.) de você se o ataque for corpo a corpo, ou a até 18 m (60 ft.) se for à distância e sem Cobertura Total. Essa criatura deve ser bem-sucedida em uma salvaguarda de Destreza ou sofre dano igual a duas jogadas de seu dado de Artes Marciais mais seu modificador de Destreza. O dano é do mesmo tipo causado pelo ataque.
+Ao reduzir o dano a 0, você pode gastar 1 Ponto de Foco para redirecionar parte da força do ataque. Para isso, escolha uma criatura à vista a até 1,5 m (5 ft.) de você se o ataque for corpo a corpo, ou a até 18 m (60 ft.) se for à distância e sem [[8. Geral/Combate/Cobertura\|Cobertura]] Total. Essa criatura deve ser bem-sucedida em uma salvaguarda de Destreza ou sofre dano igual a duas jogadas de seu dado de Artes Marciais mais seu modificador de Destreza. O dano é do mesmo tipo causado pelo ataque.
 
 ## Nível 3: Subclasse de Monge
 Você adquire uma subclasse de Monge à sua escolha.
 
-As subclasses [[1. Classes/Subclasses/Monge/Combatente da Mão Espalmada\|Combatente da Mão Espalmada]], [[1. Classes/Subclasses/Monge/Combatente da Misericórdia\|Combatente da Misericórdia]], [[1. Classes/Subclasses/Monge/Combatente das Sombras\|Combatente das Sombras]] e [[1. Classes/Subclasses/Monge/Combatente dos Elementos\|Combatente dos Elementos]] estão detalhadas após a descrição desta classe. Uma subclasse é uma especialidade que concede a você características em determinados níveis de Monge. Durante toda sua jornada, você adquire cada uma das características de sua subclasse de seu nível de Monge ou menor.
+| Subclasse                                                                                   | Fonte            |
+| ------------------------------------------------------------------------------------------- | ---------------- |
+| [[1. Classes/Subclasses/Monge/Combatente da Misericórdia\|Combatente da Misericórdia]]   | Livro do Jogador |
+| [[1. Classes/Subclasses/Monge/Combatente da Mão Espalmada\|Combatente da Mão Espalmada]] | Livro do Jogador |
+| [[1. Classes/Subclasses/Monge/Combatente das Sombras\|Combatente das Sombras]]           | Livro do Jogador |
+| [[1. Classes/Subclasses/Monge/Combatente dos Elementos\|Combatente dos Elementos]]       | Livro do Jogador |
+
+{ .block-language-dataview}
+
+ Uma subclasse é uma especialidade que concede a você características em determinados níveis de Monge. Durante toda sua jornada, você adquire cada uma das características de sua subclasse de seu nível de Monge ou menor.
 
 ## Nível 4: Aumento no Valor de Atributo
 Você adquire o talento [[3. Talentos/Talentos Gerais/Aumento no Valor de Atributo\|Aumento no Valor de Atributo]] ou outro [[3. Talentos/Talento\|Talento]] à sua escolha para o qual atenda os pré-requisitos. Você adquire essa característica novamente nos níveis 8, 12 e 16 de Monge.
 
 ## Nível 4: Queda Lenta
-Você pode executar uma Reação ao estar em queda para reduzir qualquer dano recebido da queda em um valor igual a cinco vezes seu nível de Monge.
+Você pode executar uma [[8. Geral/Combate/Reação\|Reação]] ao estar em queda para reduzir qualquer dano recebido da queda em um valor igual a cinco vezes seu nível de Monge.
 
 ## Nível 5: Ataque Extra
-Você pode atacar duas vezes, em vez de uma, sempre que executar a ação Atacar no seu turno.
+Você pode atacar duas vezes, em vez de uma, sempre que executar a ação [[8. Geral/Ações em Combate/Atacar\|Atacar]] no seu turno.
 
 ## Nível 5: Golpe Atordoante
-Uma vez por turno, ao acertar uma criatura com uma arma de Monge ou um Ataque Desarmado, você pode gastar 1 [[1. Classes/Monge#Nível 2 Foco do Monge\|Ponto de Foco]] para tentar um golpe atordoante. O alvo deve realizar uma salvaguarda de Constituição. Se falhar, o alvo tem a condição [[8. Geral/Condições/Atordoado\|Atordoado]] até o início do seu próximo turno. Em caso de sucesso, o Deslocamento do alvo é reduzido pela metade até o início do seu próximo turno, e a próxima jogada de ataque realizada contra o alvo antes disso tem Vantagem.
+Uma vez por turno, ao acertar uma criatura com uma arma de Monge ou um [[8. Geral/Ações em Combate/Ataque Desarmado\|Ataque Desarmado]], você pode gastar 1 [[1. Classes/Monge#Nível 2 Foco do Monge\|Ponto de Foco]] para tentar um golpe atordoante. O alvo deve realizar uma salvaguarda de Constituição. Se falhar, o alvo tem a condição [[8. Geral/Condições/Atordoado\|Atordoado]] até o início do seu próximo turno. Em caso de sucesso, o Deslocamento do alvo é reduzido pela metade até o início do seu próximo turno, e a próxima jogada de ataque realizada contra o alvo antes disso tem [[8. Geral/Termos Diversos/Vantagem\|Vantagem]].
 
 ## Nível 6: Golpes Potencializados
-Ao causar dano com seu Ataque Desarmado, você escolhe entre causar dano Energético ou seu tipo de dano normal.
+Ao causar dano com seu [[8. Geral/Ações em Combate/Ataque Desarmado\|Ataque Desarmado]], você escolhe entre causar dano Energético ou seu tipo de dano normal.
 
 ## Nível 7: Evasão
 Ao ser alvo de um efeito que permita uma salvaguarda de Destreza para receber apenas metade do dano, você não recebe dano em caso de sucesso e sofre apenas metade do dano se falhar.
@@ -140,9 +148,9 @@ Sua [[1. Classes/Monge#Nível 2 Foco do Monge\|Defesa Paciente]], [[1. Classes/M
 
 ***Defesa Paciente***. Ao gastar um [[1. Classes/Monge#Nível 2 Foco do Monge\|Ponto de Foco]] para usar *Defesa Paciente*, você adquire um número de Pontos de Vida Temporários igual a duas jogadas de seus dados de Artes Marciais.
 
-***Passo do Vento***. Ao gastar um [[1. Classes/Monge#Nível 2 Foco do Monge\|Ponto de Foco]] para usar *Passo do Vento*, você pode escolher uma criatura voluntária a até 1,5 m (5 ft.) de si que seja Grande ou menor. Você move a criatura com você até o final do seu turno. O movimento da criatura não provoca Ataques de Oportunidade.
+***Passo do Vento***. Ao gastar um [[1. Classes/Monge#Nível 2 Foco do Monge\|Ponto de Foco]] para usar *Passo do Vento*, você pode escolher uma criatura voluntária a até 1,5 m (5 ft.) de si que seja Grande ou menor. Você move a criatura com você até o final do seu turno. O movimento da criatura não provoca [[8. Geral/Combate/Ataque de Oportunidade\|Ataques de Oportunidade]].
 
-***Torrente de Golpes***. Você pode gastar 1 [[1. Classes/Monge#Nível 2 Foco do Monge\|Ponto de Foco]] para usar *Torrente de Golpes* e realizar três Ataques Desarmados em vez de dois.
+***Torrente de Golpes***. Você pode gastar 1 [[1. Classes/Monge#Nível 2 Foco do Monge\|Ponto de Foco]] para usar *Torrente de Golpes* e realizar três [[8. Geral/Ações em Combate/Ataque Desarmado\|Ataques Desarmados]] em vez de dois.
 
 ## Nível 10: Restauro Pessoal
 Por pura força de vontade, você pode remover uma das seguintes condições de si no final de cada um dos seus turnos: [[8. Geral/Condições/Amedrontado\|Amedrontado]], [[8. Geral/Condições/Enfeitiçado\|Enfeitiçado]] ou [[8. Geral/Condições/Envenenado\|Envenenado]].
@@ -158,7 +166,7 @@ Sua disciplina física e mental lhe concede proficiência em todas as salvaguard
 Além disso, ao realizar uma salvaguarda e falhar, você pode gastar 1 [[1. Classes/Monge#Nível 2 Foco do Monge\|Ponto de Foco]] para jogar novamente, e deve usar o novo resultado.
 
 ## Nível 15: Foco Perfeito
-Ao jogar Iniciativa e não usar [[1. Classes/Monge#Nível 2 Metabolismo Incomum\|Metabolismo Incomum]], você recupera [[1. Classes/Monge#Nível 2 Foco do Monge\|Pontos de Foco]] gastos até ter 4, se tiver 3 ou menos.
+Ao jogar [[8. Geral/Combate/Iniciativa\|Iniciativa]] e não usar [[1. Classes/Monge#Nível 2 Metabolismo Incomum\|Metabolismo Incomum]], você recupera [[1. Classes/Monge#Nível 2 Foco do Monge\|Pontos de Foco]] gastos até ter 4, se tiver 3 ou menos.
 
 ## Nível 18: Defesa Superior
 No início do seu turno, você pode gastar 3 [[1. Classes/Monge#Nível 2 Foco do Monge\|Pontos de Foco]] para se fortalecer contra danos por 1 min ou até ter a condição [[8. Geral/Condições/Incapacitado\|Incapacitado]]. Durante esse período, você tem [[8. Geral/Cura, Dano e Morte/Resistência\|8. Geral/Cura, Dano e Morte/Resistência]] a todos os tipos de dano, exceto Energético.

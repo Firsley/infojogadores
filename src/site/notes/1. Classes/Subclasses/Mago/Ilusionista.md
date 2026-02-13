@@ -9,7 +9,7 @@ Você se especializa em magia que deslumbra os sentidos e engana a mente, e as i
 ### Nível 3: Ilusões Aprimoradas
 Você pode conjurar magias de [[8. Geral/Escolas de Magia/Ilusão\|Ilusão]] sem fornecer componentes Verbais e se uma magia de Ilusão que você conjurar tiver um alcance de 3 m (10 ft.) ou mais, o alcance aumenta em 18 m (60 ft.).
 
-Você também conhece o truque [[2. Magias/Truques/Ilusão Menor\|Ilusão Menor]]. Se já o conhece, você aprende um truque de [[1. Classes/Mago\|Mago]] diferente à sua escolha. O truque não conta para o seu número de truques conhecidos. Você pode criar um som e uma imagem com uma única conjuração de Ilusão Menor e pode conjurá-la como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]].
+Você também conhece o truque [[2. Magias/Truques/Ilusão Menor\|Ilusão Menor]]. Se já o conhece, você aprende um truque de [[1. Classes/Mago\|Mago]] diferente à sua escolha. O truque não conta para o seu número de truques conhecidos. Você pode criar um som e uma imagem com uma única conjuração de [[2. Magias/Truques/Ilusão Menor\|Ilusão Menor]] e pode conjurá-la como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]].
 
 ### Nível 3: Versado em Ilusão
 Escolha duas magias de [[1. Classes/Mago\|Mago]] da escola de [[8. Geral/Escolas de Magia/Ilusão\|Ilusão]], cada uma deve ser de 2° círculo ou inferior e adicione-as gratuitamente ao seu livro de magias.

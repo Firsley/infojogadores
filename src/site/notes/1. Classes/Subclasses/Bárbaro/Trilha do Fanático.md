@@ -15,7 +15,7 @@ Sua reserva restaura todos os dados gastos quando você completa um [[8. Geral/D
 Uma vez por [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]] ativa, se você falhar em uma salvaguarda, pode jogá-la novamente com um bônus igual ao seu bônus de Dano da [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]], e deve usar o novo resultado.
 
 ### Nível 10: Presença Zelosa
-Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você libera um grito de batalha infundido com energia divina. Até dez outras criaturas à sua escolha a até 18 m (60 ft.) de você obtêm Vantagem em jogadas de ataque e salvaguardas até o início do seu próximo turno.
+Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você libera um grito de batalha infundido com energia divina. Até dez outras criaturas à sua escolha a até 18 m (60 ft.) de você obtêm [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] em jogadas de ataque e salvaguardas até o início do seu próximo turno.
 
 Uma vez que você usa essa característica, não pode usá-la novamente até completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]], a menos que gaste um uso de sua [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]] (nenhuma ação é necessária) para restaurar o uso.
 

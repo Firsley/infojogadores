@@ -16,7 +16,7 @@ Você tem Imunidade às condições [[8. Geral/Condições/Amedrontado\|Amedront
 Quando você sofrer dano de uma criatura que esteja a até 1,5 m (5 ft.) de você, pode executar uma [[8. Geral/Combate/Reação\|Reação]] para realizar um ataque corpo a corpo contra essa criatura, usando uma arma ou um Ataque Desarmado.
 
 ### Nível 14: Presença Intimidante
-Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você pode causar terror em outros com sua presença ameaçadora e poder primitivo. Quando fizer isso, cada criatura à sua escolha em uma Emanação de 9 m (30 ft.) originada de você deve realizar uma salvaguarda de Sabedoria (CD 8 + seu modificador de Força + seu Bônus de Proficiência).
+Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você pode causar terror em outros com sua presença ameaçadora e poder primitivo. Quando fizer isso, cada criatura à sua escolha em uma Emanação de 9 m (30 ft.) originada de você deve realizar uma salvaguarda de Sabedoria ([[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] 8 + seu modificador de Força + seu Bônus de Proficiência).
 
 Se falhar, a criatura tem a condição [[8. Geral/Condições/Amedrontado\|Amedrontado]] por 1 min. No final de cada turno da criatura [[8. Geral/Condições/Amedrontado\|Amedrontada]], ela repete a salvaguarda, e encerra o efeito em caso de sucesso.
 

@@ -23,10 +23,10 @@ Ao atingir um nível de [[1. Classes/Feiticeiro\|Feiticeiro]] detalhado na tabel
 ### Nível 3: Fala Telepática
 Você pode estabelecer comunicação telepática com outras criaturas. Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], escolha uma criatura que esteja à sua vista e a até 9 m (30 ft.) de você. Você e a criatura escolhida podem se comunicar telepaticamente um com o outro enquanto vocês dois estão a um número de quilômetros um do outro igual 1,5 vezes o seu modificador de Carisma (mínimo de 1,5 km). Para se entender reciprocamente, cada um deve usar mentalmente um idioma que o outro conheça.
 
-A conexão telepática dura um número de minutos igual ao seu nível de Feiticeiro. Ele encerra mais cedo se você usar essa habilidade para se conectar com uma criatura diferente.
+A conexão telepática dura um número de minutos igual ao seu nível de [[1. Classes/Feiticeiro\|Feiticeiro]]. Ele encerra mais cedo se você usar essa habilidade para se conectar com uma criatura diferente.
 
 ### Nível 6: Defesas Psíquicas
-Você tem [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] a dano Psíquico e Vantagem em salvaguardas para evitar ou encerrar as condições [[8. Geral/Condições/Amedrontado\|Amedrontado]] ou [[8. Geral/Condições/Enfeitiçado\|Enfeitiçado]].
+Você tem [[8. Geral/Cura, Dano e Morte/Resistência\|Resistência]] a dano Psíquico e [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] em salvaguardas para evitar ou encerrar as condições [[8. Geral/Condições/Amedrontado\|Amedrontado]] ou [[8. Geral/Condições/Enfeitiçado\|Enfeitiçado]].
 
 ### Nível 6: Feitiçaria Psiônica
 Ao conjurar qualquer magia de 1° círculo ou superior com sua característica [[1. Classes/Subclasses/Feiticeiro/Feitiçaria Aberrante#Nível 3 Magias Psiônicas\|Magias Psiônicas]], você pode conjurá-la gastando um espaço de magia normal ou gastando um número de [[1. Classes/Feiticeiro#Nível 2 Fonte de Magia\|Pontos de Feitiçaria]] igual ao círculo da magia. Se você conjurar a magia usando [[1. Classes/Feiticeiro#Nível 2 Fonte de Magia\|Pontos de Feitiçaria]], ela não requer componentes Verbais ou Somáticos e não requer componentes Materiais, a menos que sejam consumidos pela magia ou tenham um custo detalhado nela.
@@ -38,12 +38,12 @@ Você pode revelar a verdade oculta dentro de você. Como uma [[8. Geral/Combate
 
 ***Movimento Vermiforme***. Seu corpo, com qualquer equipamento que você esteja usando ou carregando, se torna viscoso e flexível. Você pode se mover por qualquer espaço tão estreito quanto 2,5 cm e pode gastar 1,5 m (5 ft.) de movimento para escapar de restrições não mágicas ou da condição [[8. Geral/Condições/Imobilizado\|Imobilizado]].
 
-***Ver o Invisível***. Você pode ver qualquer criatura [[8. Geral/Condições/Invisível\|Invisível]] a até 18 m (60 ft.) de você que não esteja atrás de Cobertura Total. Seus olhos também se tornam negros ou se transformam em filamentos sensoriais contorcidos.
+***Ver o Invisível***. Você pode ver qualquer criatura [[8. Geral/Condições/Invisível\|Invisível]] a até 18 m (60 ft.) de você que não esteja atrás de [[8. Geral/Combate/Cobertura\|Cobertura]] Total. Seus olhos também se tornam negros ou se transformam em filamentos sensoriais contorcidos.
 
 ***Voo Reluzente***. Você adquire um Deslocamento de Voo igual ao seu Deslocamento e pode pairar. Durante o voo, sua pele brilha com muco ou luz sobrenatural.
 
 ### Nível 18: Implosão de Distorção
-Você pode liberar uma anomalia de deformação espacial. Como uma ação [[8. Geral/Ações em Combate/Usar Magia\|Usar Magia]], você se teleporta para um espaço desocupado à sua vista a até 36 m (120 ft.) de distância de si. Imediatamente após desaparecer, cada criatura a até 9 m (30 ft.) do espaço abandonado deve realizar uma salvaguarda de Força contra a CD para evitar sua magia. Se falhar, a criatura sofre 3d10 pontos de dano Energético e é puxada para o espaço que você deixou, terminando no espaço desocupado mais próximo. Em caso de sucesso, a criatura sofre apenas metade do dano.
+Você pode liberar uma anomalia de deformação espacial. Como uma ação [[8. Geral/Ações em Combate/Usar Magia\|Usar Magia]], você se teleporta para um espaço desocupado à sua vista a até 36 m (120 ft.) de distância de si. Imediatamente após desaparecer, cada criatura a até 9 m (30 ft.) do espaço abandonado deve realizar uma salvaguarda de Força contra a [[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] para evitar sua magia. Se falhar, a criatura sofre 3d10 pontos de dano Energético e é puxada para o espaço que você deixou, terminando no espaço desocupado mais próximo. Em caso de sucesso, a criatura sofre apenas metade do dano.
 
 Você pode usar esta característica novamente após completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]] ou gastando 5 [[1. Classes/Feiticeiro#Nível 2 Fonte de Magia\|Pontos de Feitiçaria]] (nenhuma ação é necessária).
 

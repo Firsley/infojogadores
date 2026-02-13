@@ -10,4 +10,4 @@ Você adquire os seguintes benefícios.
 
 ***Punção***. Uma vez por turno, quando você atinge uma criatura com um ataque que causa dano Perfurante, pode jogar novamente um dos dados de dano do ataque, e você deve usar a nova jogada.
 
-***Crítico Melhorado***. Ao obter um Acerto Crítico que causa dano Perfurante a uma criatura, você pode jogar um dado de dano adicional ao determinar o dano Perfurante adicional que o alvo sofre.
+***Crítico Melhorado***. Ao obter um [[8. Geral/Combate/Acerto Crítico\|Acerto Crítico]] que causa dano Perfurante a uma criatura, você pode jogar um dado de dano adicional ao determinar o dano Perfurante adicional que o alvo sofre.

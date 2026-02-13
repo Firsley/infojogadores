@@ -14,7 +14,7 @@ Sua Fúria se conecta à força vital da Árvore do Mundo. Você adquire os segu
 ***Surto de Vitalidade***. Ao ativar sua [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]], você recebe um número de Pontos de Vida Temporários igual ao seu nível de Bárbaro.
 
 ### Nível 6: Ramos da Árvore
-Sempre que uma criatura que você pode ver começar o turno a até 9 m (30 ft.) de você enquanto sua [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]] estiver ativa, você pode executar uma Reação para convocar ramos espectrais da Árvore do Mundo ao redor dela. O alvo deve ser bem-sucedido em uma salvaguarda de Força (CD 8 mais seu modificador de Força e seu Bônus de Proficiência) ou é teleportado para um espaço desocupado à sua vista a até 1,5 m (5 ft.) de você ou no espaço desocupado mais próximo à sua vista. 
+Sempre que uma criatura que você pode ver começar o turno a até 9 m (30 ft.) de você enquanto sua [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]] estiver ativa, você pode executar uma [[8. Geral/Combate/Reação\|Reação]] para convocar ramos espectrais da Árvore do Mundo ao redor dela. O alvo deve ser bem-sucedido em uma salvaguarda de Força (CD 8 mais seu modificador de Força e seu Bônus de Proficiência) ou é teleportado para um espaço desocupado à sua vista a até 1,5 m (5 ft.) de você ou no espaço desocupado mais próximo à sua vista. 
 
 Depois que o alvo se teleportar, você pode reduzir o Deslocamento dele a 0 até o final do turno atual.
 

@@ -19,9 +19,9 @@ Você recebe uma das seguintes opções de características à sua escolha. Ao c
 ### Nível 7: Táticas Defensivas
 Você recebe uma das seguintes opções de características à sua escolha. Ao completar um [[8. Geral/Descanso/Descanso Curto\|Descanso Curto]] ou [[8. Geral/Descanso/Descanso Longo\|Longo]], você pode substituir a opção escolhida pela outra.
 
-***Defesa Contra Ataques Múltiplos***. Ao ser atingido por uma criatura com uma jogada de ataque, essa criatura tem Desvantagem em todas as outras jogadas de ataque contra você neste turno.
+***Defesa Contra Ataques Múltiplos***. Ao ser atingido por uma criatura com uma jogada de ataque, essa criatura tem [[8. Geral/Termos Diversos/Desvantagem\|Desvantagem]] em todas as outras jogadas de ataque contra você neste turno.
 
-***Escapar de Hordas***. Ataques de Oportunidade têm Desvantagem contra você.
+***Escapar de Hordas***. [[8. Geral/Combate/Ataque de Oportunidade\|Ataques de Oportunidade]] têm [[8. Geral/Termos Diversos/Desvantagem\|Desvantagem]] contra você.
 
 ### Nível 11: Presa do Caçador Superior
 Uma vez por turno, ao causar dano a uma criatura marcada pela [[2. Magias/1° Círculo/Marca do Predador\|Marca do Predador]], você também pode causar dano adicional dessa magia a uma criatura diferente à sua vista e a até 9 m (30 ft.) da primeira criatura.

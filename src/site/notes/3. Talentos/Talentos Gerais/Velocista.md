@@ -10,6 +10,6 @@ Você adquire os seguintes benefícios.
 
 ***Aumento de Deslocamento***. Seu Deslocamento aumenta em 3 m (10 ft.).
 
-***Correr em Terreno Difícil***. Ao executar a ação [[8. Geral/Ações em Combate/Correr\|Correr]] no seu turno, Terreno Difícil não custa movimento adicional pelo resto deste turno.
+***Correr em Terreno Difícil***. Ao executar a ação [[8. Geral/Ações em Combate/Correr\|Correr]] no seu turno, [[8. Geral/Movimento/Terreno Difícil\|Terreno Difícil]] não custa movimento adicional pelo resto deste turno.
 
-***Movimentação Ágil***. Ataques de Oportunidade têm Desvantagem contra você.
+***Movimentação Ágil***. [[8. Geral/Combate/Ataque de Oportunidade\|Ataques de Oportunidade]] têm [[8. Geral/Termos Diversos/Desvantagem\|Desvantagem]] contra você.
