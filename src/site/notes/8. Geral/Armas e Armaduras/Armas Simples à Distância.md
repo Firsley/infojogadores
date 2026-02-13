@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/8-geral/armas-e-armaduras/armas-simples-a-distancia/"}
+---
+
+
+| Nome       | Dano            | Propriedades                                                                                                                                                                                      | Maestria                                        | Peso (kg) | Preço |
+| ---------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------- | :-------: | :---: |
+| Arco Curto | 1d6 Perfurante  | [[8. Geral/Armas e Armaduras/Propriedades de Armas#Duas Mãos\|Duas Mãos]], [[8. Geral/Armas e Armaduras/Propriedades de Armas#Munição\|Munição]] ([[8. Geral/Armas e Armaduras/Propriedades de Armas#Alcance\|Alcance]] 24/96; Flecha)                                             | [[8. Geral/Armas e Armaduras/Propriedades de Maestria#Afligir\|Afligir]]   |     1     | 25 po |
+| Besta Leve | 1d8 Perfurante  | [[8. Geral/Armas e Armaduras/Propriedades de Armas#Duas Mãos\|Duas Mãos]], [[8. Geral/Armas e Armaduras/Propriedades de Armas#Munição\|Munição]] ([[8. Geral/Armas e Armaduras/Propriedades de Armas#Alcance\|Alcance]] 24/96; Virote), [[8. Geral/Armas e Armaduras/Propriedades de Armas#Recarga\|Recarga]] | [[8. Geral/Armas e Armaduras/Propriedades de Maestria#Lentidão\|Lentidão]] |    2,5    | 25 po |
+| Dardo      | 1d4 Perfurante  | [[8. Geral/Armas e Armaduras/Propriedades de Armas#Acuidade\|Acuidade]], [[8. Geral/Armas e Armaduras/Propriedades de Armas#Arremesso\|Arremesso]] ([[8. Geral/Armas e Armaduras/Propriedades de Armas#Alcance\|Alcance]] 6/18)                                                    | [[8. Geral/Armas e Armaduras/Propriedades de Maestria#Afligir\|Afligir]]   |    0,1    | 5 pc  |
+| Funda      | 1d4 Contundente | [[8. Geral/Armas e Armaduras/Propriedades de Armas#Munição\|Munição]] ([[8. Geral/Armas e Armaduras/Propriedades de Armas#Alcance\|Alcance]] 9/36; Bala)                                                                                                | [[8. Geral/Armas e Armaduras/Propriedades de Maestria#Lentidão\|Lentidão]] |     -     | 1 pp  |

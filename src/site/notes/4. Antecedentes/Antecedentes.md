@@ -28,17 +28,17 @@ Dezesseis antecedentes são apresentados nesta seção em ordem alfabética:
 | [[4. Antecedentes/Andarilho\|Andarilho]]   | <ul><li>DES</li><li>SAB</li><li>CAR</li></ul> | <ul><li>Furtividade</li><li>Intuição</li></ul>        |
 | [[4. Antecedentes/Artesão\|Artesão]]       | <ul><li>FOR</li><li>DES</li><li>INT</li></ul> | <ul><li>Investigação</li><li>Persuasão</li></ul>      |
 | [[4. Antecedentes/Artista\|Artista]]       | <ul><li>FOR</li><li>DES</li><li>CAR</li></ul> | <ul><li>Acrobacia</li><li>Atuação</li></ul>           |
-| [[4. Antecedentes/Charlatão\|Charlatão]]   | <ul><li>DES</li><li>CON</li><li>CAR</li></ul> | <ul><li>Enganação</li><li>Prestidigitação</li></ul>   |
 | [[4. Antecedentes/Criminoso\|Criminoso]]   | <ul><li>DES</li><li>CON</li><li>INT</li></ul> | <ul><li>Furtividade</li><li>Prestidigitação</li></ul> |
 | [[4. Antecedentes/Eremita\|Eremita]]       | <ul><li>CON</li><li>SAB</li><li>CAR</li></ul> | <ul><li>Medicina</li><li>Religião</li></ul>           |
+| [[4. Antecedentes/Charlatão\|Charlatão]]   | <ul><li>DES</li><li>CON</li><li>CAR</li></ul> | <ul><li>Enganação</li><li>Prestidigitação</li></ul>   |
 | [[4. Antecedentes/Escriba\|Escriba]]       | <ul><li>DES</li><li>INT</li><li>SAB</li></ul> | <ul><li>Investigação</li><li>Percepção</li></ul>      |
 | [[4. Antecedentes/Fazendeiro\|Fazendeiro]] | <ul><li>FOR</li><li>CON</li><li>SAB</li></ul> | <ul><li>Lidar com Animais</li><li>Natureza</li></ul>  |
-| [[4. Antecedentes/Guia\|Guia]]             | <ul><li>DES</li><li>CON</li><li>SAB</li></ul> | <ul><li>Furtividade</li><li>Sobrevivência</li></ul>   |
 | [[4. Antecedentes/Guarda\|Guarda]]         | <ul><li>FOR</li><li>INT</li><li>SAB</li></ul> | <ul><li>Atletismo</li><li>Percepção</li></ul>         |
+| [[4. Antecedentes/Guia\|Guia]]             | <ul><li>DES</li><li>CON</li><li>SAB</li></ul> | <ul><li>Furtividade</li><li>Sobrevivência</li></ul>   |
 | [[4. Antecedentes/Marinheiro\|Marinheiro]] | <ul><li>FOR</li><li>DES</li><li>SAB</li></ul> | <ul><li>Acrobacia</li><li>Percepção</li></ul>         |
+| [[4. Antecedentes/Sábio\|Sábio]]           | <ul><li>CON</li><li>INT</li><li>SAB</li></ul> | <ul><li>Arcanismo</li><li>História</li></ul>          |
 | [[4. Antecedentes/Mercador\|Mercador]]     | <ul><li>CON</li><li>INT</li><li>CAR</li></ul> | <ul><li>Lidar com Animais</li><li>Persuasão</li></ul> |
 | [[4. Antecedentes/Nobre\|Nobre]]           | <ul><li>FOR</li><li>INT</li><li>CAR</li></ul> | <ul><li>História</li><li>Persuasão</li></ul>          |
 | [[4. Antecedentes/Soldado\|Soldado]]       | <ul><li>FOR</li><li>DES</li><li>CON</li></ul> | <ul><li>Atletismo</li><li>Intimidação</li></ul>       |
-| [[4. Antecedentes/Sábio\|Sábio]]           | <ul><li>CON</li><li>INT</li><li>SAB</li></ul> | <ul><li>Arcanismo</li><li>História</li></ul>          |
 
 { .block-language-dataview}

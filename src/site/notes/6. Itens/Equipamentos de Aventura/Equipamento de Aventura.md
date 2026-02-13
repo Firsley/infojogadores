@@ -39,11 +39,11 @@ A tabela Equipamentos de Aventura nesta seção inclui equipamentos que geralmen
 | [[6. Itens/Equipamentos de Aventura/Fantasia\|Fantasia]]                                             | 2         | 5 po                                |
 | [[6. Itens/Equipamentos de Aventura/Foco Arcano\|Foco Arcano]]                                       | Varia     | Varia                               |
 | [[6. Itens/Equipamentos de Aventura/Foco Druídico\|Foco Druídico]]                                   | Varia     | Varia                               |
+| [[6. Itens/Equipamentos de Aventura/Garrafa de Vidro\|Garrafa de Vidro]]                             | 1         | 2 po                                |
 | [[6. Itens/Equipamentos de Aventura/Fogo Alquímico\|Fogo Alquímico]]                                 | 0,5       | 50 po                               |
 | [[6. Itens/Equipamentos de Aventura/Frasco\|Frasco]]                                                 | \-        | 1 po                                |
-| [[6. Itens/Equipamentos de Aventura/Garrafa de Vidro\|Garrafa de Vidro]]                             | 1         | 2 po                                |
-| [[6. Itens/Equipamentos de Aventura/Grilhões\|Grilhões]]                                             | 3         | 2 po                                |
 | [[6. Itens/Equipamentos de Aventura/Jarro\|Jarro]]                                                   | 2         | 2 pc                                |
+| [[6. Itens/Equipamentos de Aventura/Grilhões\|Grilhões]]                                             | 3         | 2 po                                |
 | [[6. Itens/Equipamentos de Aventura/Kit de Artista\|Kit de Artista]]                                 | 29        | 40 po                               |
 | [[6. Itens/Equipamentos de Aventura/Kit de Assaltante\|Kit de Assaltante]]                           | 21        | 16 po                               |
 | [[6. Itens/Equipamentos de Aventura/Kit de Aventureiro\|Kit de Aventureiro]]                         | 27,5      | 10 po                               |
@@ -69,25 +69,25 @@ A tabela Equipamentos de Aventura nesta seção inclui equipamentos que geralmen
 | [[6. Itens/Equipamentos de Aventura/Pote de Ferro\|Pote de Ferro]]                                   | 5         | 2 po                                |
 | [[6. Itens/Equipamentos de Aventura/Pote\|Pote]]                                                     | 0,5       | 2 pc                                |
 | [[6. Itens/Equipamentos de Aventura/Poção de Cura\|Poção de Cura]]                                   | 0,25      | 50 po                               |
-| [[6. Itens/Equipamentos de Aventura/Pá\|Pá]]                                                         | 2,5       | 2 po                                |
 | [[6. Itens/Equipamentos de Aventura/Pé de Cabra\|Pé de Cabra]]                                       | 2,5       | 2 po                                |
-| [[6. Itens/Equipamentos de Aventura/Rações\|Rações]]                                                 | 1         | 5 pp                                |
-| [[6. Itens/Equipamentos de Aventura/Rede\|Rede]]                                                     | 1,5       | 1 po                                |
 | [[6. Itens/Equipamentos de Aventura/Roldana e Polias\|Roldana e Polias]]                             | 2,5       | 1 po                                |
 | [[6. Itens/Equipamentos de Aventura/Roupas de Viagem\|Roupas de Viagem]]                             | 2         | 2 po                                |
 | [[6. Itens/Equipamentos de Aventura/Roupas Finas\|Roupas Finas]]                                     | 3         | 15 po                               |
+| [[6. Itens/Equipamentos de Aventura/Pá\|Pá]]                                                         | 2,5       | 2 po                                |
 | [[6. Itens/Equipamentos de Aventura/Saca\|Saca]]                                                     | 0,25      | 1 pc                                |
 | [[6. Itens/Equipamentos de Aventura/Saco de Dormir\|Saco de Dormir]]                                 | 3,5       | 1 po                                |
-| [[6. Itens/Equipamentos de Aventura/Sino\|Sino]]                                                     | \-        | 1 po                                |
+| [[6. Itens/Equipamentos de Aventura/Rações\|Rações]]                                                 | 1         | 5 pp                                |
+| [[6. Itens/Equipamentos de Aventura/Rede\|Rede]]                                                     | 1,5       | 1 po                                |
 | [[6. Itens/Equipamentos de Aventura/Símbolo Sagrado\|Símbolo Sagrado]]                               | Varia     | Varia                               |
-| [[6. Itens/Equipamentos de Aventura/Tenda\|Tenda]]                                                   | 10        | 2 po                                |
-| [[6. Itens/Equipamentos de Aventura/Tinta\|Tinta]]                                                   | \-        | 10 po                               |
+| [[6. Itens/Equipamentos de Aventura/Sino\|Sino]]                                                     | \-        | 1 po                                |
 | [[6. Itens/Equipamentos de Aventura/Tocha\|Tocha]]                                                   | 0,5       | 1 pc                                |
 | [[6. Itens/Equipamentos de Aventura/Túnica\|Túnica]]                                                 | 2         | 1 po                                |
 | [[6. Itens/Equipamentos de Aventura/Vela\|Vela]]                                                     | 2         | 1 po                                |
 | [[6. Itens/Equipamentos de Aventura/Veneno Básico\|Veneno Básico]]                                   | \-        | 100 po                              |
+| [[6. Itens/Equipamentos de Aventura/Tenda\|Tenda]]                                                   | 10        | 2 po                                |
 | [[6. Itens/Equipamentos de Aventura/Ácido\|Ácido]]                                                   | 0,5       | 25 po                               |
 | [[6. Itens/Equipamentos de Aventura/Água Benta\|Água Benta]]                                         | 0,5       | 25 po                               |
 | [[6. Itens/Equipamentos de Aventura/Óleo\|Óleo]]                                                     | 0,5       | 1 pp                                |
+| [[6. Itens/Equipamentos de Aventura/Tinta\|Tinta]]                                                   | \-        | 10 po                               |
 
 { .block-language-dataview}

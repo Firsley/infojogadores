@@ -12,8 +12,8 @@ Esta seção apresenta a lista de magias de [[1. Classes/Clérigo\|Clérigo]], o
 | [[2. Magias/Truques/Badalar Fúnebre\|Badalar Fúnebre]]           | Toll the Dead    | [[8. Geral/Escolas de Magia/Necromancia\|Necromancia]]   | \-       |
 | [[2. Magias/Truques/Chama Sagrada\|Chama Sagrada]]               | Sacred Flame     | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]         | \-       |
 | [[2. Magias/Truques/Luz\|Luz]]                                   | Light            | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]         | \-       |
-| [[2. Magias/Truques/Orientação\|Orientação]]                     | Guidance         | [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]]   | C        |
 | [[2. Magias/Truques/Palavra de Radiância\|Palavra de Radiância]] | Word of Radiance | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]         | \-       |
+| [[2. Magias/Truques/Orientação\|Orientação]]                     | Guidance         | [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]]   | C        |
 | [[2. Magias/Truques/Reparar\|Reparar]]                           | Mending          | [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] | \-       |
 | [[2. Magias/Truques/Resistência\|Resistência]]                   | Resistance       | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | C        |
 | [[2. Magias/Truques/Taumaturgia\|Taumaturgia]]                   | Thaumaturgy      | [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] | \-       |
@@ -28,17 +28,17 @@ Esta seção apresenta a lista de magias de [[1. Classes/Clérigo\|Clérigo]], o
 | [[2. Magias/1° Círculo/Comando\|Comando]]                                             | Command                       | [[8. Geral/Escolas de Magia/Encantamento\|Encantamento]] | \-       |
 | [[2. Magias/1° Círculo/Criar ou Destruir Água\|Criar ou Destruir Água]]               | Create or Destroy Water       | [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] | \-       |
 | [[2. Magias/1° Círculo/Curar Ferimentos\|Curar Ferimentos]]                           | Cure Wounds                   | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | \-       |
+| [[2. Magias/1° Círculo/Detectar Veneno e Doença\|Detectar Veneno e Doença]]           | Detect Poison and Disease     | [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]]   | C, R     |
 | [[2. Magias/1° Círculo/Detectar Magia\|Detectar Magia]]                               | Detect Magic                  | [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]]   | C, R     |
 | [[2. Magias/1° Círculo/Detectar o Bem e o Mal\|Detectar o Bem e o Mal]]               | Detect Evil and Good          | [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]]   | C        |
-| [[2. Magias/1° Círculo/Detectar Veneno e Doença\|Detectar Veneno e Doença]]           | Detect Poison and Disease     | [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]]   | C, R     |
 | [[2. Magias/1° Círculo/Escudo da Fé\|Escudo da Fé]]                                   | Shield of Faith               | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | C        |
 | [[2. Magias/1° Círculo/Infligir Ferimentos\|Infligir Ferimentos]]                     | Inflict Wounds                | [[8. Geral/Escolas de Magia/Necromancia\|Necromancia]]   | \-       |
-| [[2. Magias/1° Círculo/Palavra Curativa\|Palavra Curativa]]                           | Healing Word                  | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | \-       |
 | [[2. Magias/1° Círculo/Perdição\|Perdição]]                                           | Bane                          | [[8. Geral/Escolas de Magia/Encantamento\|Encantamento]] | C        |
 | [[2. Magias/1° Círculo/Proteção Contra o Bem e o Mal\|Proteção Contra o Bem e o Mal]] | Protection From Evil and Good | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | C, M     |
 | [[2. Magias/1° Círculo/Purificar Alimentos e Bebidas\|Purificar Alimentos e Bebidas]] | Purify Food and Drink         | [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] | R        |
-| [[2. Magias/1° Círculo/Raio Guia\|Raio Guia]]                                         | Guiding Bolt                  | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]         | \-       |
 | [[2. Magias/1° Círculo/Santuário\|Santuário]]                                         | Sanctuary                     | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | \-       |
+| [[2. Magias/1° Círculo/Palavra Curativa\|Palavra Curativa]]                           | Healing Word                  | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | \-       |
+| [[2. Magias/1° Círculo/Raio Guia\|Raio Guia]]                                         | Guiding Bolt                  | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]         | \-       |
 
 { .block-language-dataview}
 
@@ -78,19 +78,19 @@ Esta seção apresenta a lista de magias de [[1. Classes/Clérigo\|Clérigo]], o
 | [[2. Magias/3° Círculo/Círculo Mágico\|Círculo Mágico]]                       | Magic Circle           | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | M        |
 | [[2. Magias/3° Círculo/Dissipar Magia\|Dissipar Magia]]                       | Dispel Magic           | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | \-       |
 | [[2. Magias/3° Círculo/Falar com os Mortos\|Falar com os Mortos]]             | Speak with Dead        | [[8. Geral/Escolas de Magia/Necromancia\|Necromancia]]   | \-       |
-| [[2. Magias/3° Círculo/Glifo de Proteção\|Glifo de Proteção]]                 | Glyph of Warding       | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | M        |
 | [[2. Magias/3° Círculo/Guardiões Espirituais\|Guardiões Espirituais]]         | Spirit Guardians       | [[8. Geral/Escolas de Magia/Invocação\|Invocação]]       | C        |
-| [[2. Magias/3° Círculo/Luz do Dia\|Luz do Dia]]                               | Daylight               | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]         | \-       |
+| [[2. Magias/3° Círculo/Glifo de Proteção\|Glifo de Proteção]]                 | Glyph of Warding       | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | M        |
 | [[2. Magias/3° Círculo/Línguas\|Línguas]]                                     | Tongues                | [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]]   | \-       |
 | [[2. Magias/3° Círculo/Mesclar-se às Rochas\|Mesclar-se às Rochas]]           | Meld into Stone        | [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] | R        |
-| [[2. Magias/3° Círculo/Palavra Curativa em Massa\|Palavra Curativa em Massa]] | Mass Healing Word      | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | \-       |
+| [[2. Magias/3° Círculo/Luz do Dia\|Luz do Dia]]                               | Daylight               | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]         | \-       |
 | [[2. Magias/3° Círculo/Proteção contra Energia\|Proteção contra Energia]]     | Protection from Energy | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | C        |
+| [[2. Magias/3° Círculo/Palavra Curativa em Massa\|Palavra Curativa em Massa]] | Mass Healing Word      | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | \-       |
 | [[2. Magias/3° Círculo/Remeter\|Remeter]]                                     | Sending                | [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]]   | \-       |
-| [[2. Magias/3° Círculo/Remover Maldição\|Remover Maldição]]                   | Remove Curse           | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | \-       |
 | [[2. Magias/3° Círculo/Revivificar\|Revivificar]]                             | Revivify               | [[8. Geral/Escolas de Magia/Necromancia\|Necromancia]]   | M        |
-| [[2. Magias/3° Círculo/Rogar Maldição\|Rogar Maldição]]                       | Bestow Curse           | [[8. Geral/Escolas de Magia/Necromancia\|Necromancia]]   | C        |
 | [[2. Magias/3° Círculo/Simular Morte\|Simular Morte]]                         | Feign Death            | [[8. Geral/Escolas de Magia/Necromancia\|Necromancia]]   | R        |
 | [[2. Magias/3° Círculo/Sinal de Esperança\|Sinal de Esperança]]               | Beacon of Hope         | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | C        |
+| [[2. Magias/3° Círculo/Remover Maldição\|Remover Maldição]]                   | Remove Curse           | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | \-       |
+| [[2. Magias/3° Círculo/Rogar Maldição\|Rogar Maldição]]                       | Bestow Curse           | [[8. Geral/Escolas de Magia/Necromancia\|Necromancia]]   | C        |
 
 { .block-language-dataview}
 
@@ -100,14 +100,14 @@ Esta seção apresenta a lista de magias de [[1. Classes/Clérigo\|Clérigo]], o
 | ---------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------- | -------- |
 | [[2. Magias/4° Círculo/Aura de Pureza\|Aura de Pureza]]                   | Aura of Purity      | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | C        |
 | [[2. Magias/4° Círculo/Aura de Vida\|Aura de Vida]]                       | Aura of Life        | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | C        |
-| [[2. Magias/4° Círculo/Banimento\|Banimento]]                             | Banishment          | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | C        |
 | [[2. Magias/4° Círculo/Controlar Água\|Controlar Água]]                   | Control Water       | [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] | C        |
+| [[2. Magias/4° Círculo/Banimento\|Banimento]]                             | Banishment          | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | C        |
 | [[2. Magias/4° Círculo/Defensor da Fé\|Defensor da Fé]]                   | Guardian of Faith   | [[8. Geral/Escolas de Magia/Invocação\|Invocação]]       | \-       |
 | [[2. Magias/4° Círculo/Localizar Criatura\|Localizar Criatura]]           | Locate Creature     | [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]]   | C        |
 | [[2. Magias/4° Círculo/Moldar Rochas\|Moldar Rochas]]                     | Stone Shape         | [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] | \-       |
 | [[2. Magias/4° Círculo/Movimentação Livre\|Movimentação Livre]]           | Freedom of Movement | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | \-       |
-| [[2. Magias/4° Círculo/Presságio\|Presságio]]                             | Divination          | [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]]   | M, R     |
 | [[2. Magias/4° Círculo/Proteção Contra a Morte\|Proteção Contra a Morte]] | Death Ward          | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | \-       |
+| [[2. Magias/4° Círculo/Presságio\|Presságio]]                             | Divination          | [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]]   | M, R     |
 
 { .block-language-dataview}
 
@@ -116,8 +116,8 @@ Esta seção apresenta a lista de magias de [[1. Classes/Clérigo\|Clérigo]], o
 | Magia                                                                            | Nome em Inglês       | Escola                                                      | Especial |
 | -------------------------------------------------------------------------------- | -------------------- | ----------------------------------------------------------- | -------- |
 | [[2. Magias/5° Círculo/Coluna de Chamas\|Coluna de Chamas]]                   | Flame Strike         | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]         | \-       |
-| [[2. Magias/5° Círculo/Comunhão\|Comunhão]]                                   | Commune              | [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]]   | R        |
 | [[2. Magias/5° Círculo/Consagrar\|Consagrar]]                                 | Hallow               | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | M        |
+| [[2. Magias/5° Círculo/Comunhão\|Comunhão]]                                   | Commune              | [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]]   | R        |
 | [[2. Magias/5° Círculo/Contágio\|Contágio]]                                   | Contagion            | [[8. Geral/Escolas de Magia/Necromancia\|Necromancia]]   | \-       |
 | [[2. Magias/5° Círculo/Convocar Celestial\|Convocar Celestial]]               | Summon Celestial     | [[8. Geral/Escolas de Magia/Invocação\|Invocação]]       | C, M     |
 | [[2. Magias/5° Círculo/Curar Ferimentos em Massa\|Curar Ferimentos em Massa]] | Mass Cure Wounds     | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | \-       |
@@ -140,14 +140,14 @@ Esta seção apresenta a lista de magias de [[1. Classes/Clérigo\|Clérigo]], o
 | [[2. Magias/6° Círculo/Aliado Extraplanar\|Aliado Extraplanar]]   | Planar Ally    | [[8. Geral/Escolas de Magia/Invocação\|Invocação]]     | \-       |
 | [[2. Magias/6° Círculo/Banquete de Heróis\|Banquete de Heróis]]   | Heroes' Feast  | [[8. Geral/Escolas de Magia/Invocação\|Invocação]]     | M        |
 | [[2. Magias/6° Círculo/Barreira de Lâminas\|Barreira de Lâminas]] | Blade Barrier  | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]       | C        |
-| [[2. Magias/6° Círculo/Criar Mortos-Vivos\|Criar Mortos-Vivos]]   | Create Undead  | [[8. Geral/Escolas de Magia/Necromancia\|Necromancia]] | M        |
 | [[2. Magias/6° Círculo/Cura Completa\|Cura Completa]]             | Heal           | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]     | \-       |
+| [[2. Magias/6° Círculo/Criar Mortos-Vivos\|Criar Mortos-Vivos]]   | Create Undead  | [[8. Geral/Escolas de Magia/Necromancia\|Necromancia]] | M        |
 | [[2. Magias/6° Círculo/Encontrar o Caminho\|Encontrar o Caminho]] | Find the Path  | [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]] | C, M     |
 | [[2. Magias/6° Círculo/Moléstia\|Moléstia]]                       | Harm           | [[8. Geral/Escolas de Magia/Necromancia\|Necromancia]] | \-       |
 | [[2. Magias/6° Círculo/Palavra de Regresso\|Palavra de Regresso]] | Word of Recall | [[8. Geral/Escolas de Magia/Invocação\|Invocação]]     | \-       |
 | [[2. Magias/6° Círculo/Proibição\|Proibição]]                     | Forbiddance    | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]     | M        |
-| [[2. Magias/6° Círculo/Raio Solar\|Raio Solar]]                   | Sunbeam        | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]       | C        |
 | [[2. Magias/6° Círculo/Visão da Verdade\|Visão da Verdade]]       | True Seeing    | [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]] | M        |
+| [[2. Magias/6° Círculo/Raio Solar\|Raio Solar]]                   | Sunbeam        | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]       | C        |
 
 { .block-language-dataview}
 
@@ -155,8 +155,8 @@ Esta seção apresenta a lista de magias de [[1. Classes/Clérigo\|Clérigo]], o
 
 | Magia                                                                                    | Nome em Inglês     | Escola                                                      | Especial |
 | ---------------------------------------------------------------------------------------- | ------------------ | ----------------------------------------------------------- | -------- |
-| [[2. Magias/7° Círculo/Forma Etérea\|Forma Etérea]]                                   | Etherealness       | [[8. Geral/Escolas de Magia/Invocação\|Invocação]]       | \-       |
 | [[2. Magias/7° Círculo/Invocar Celestial\|Invocar Celestial]]                         | Conjure Celestial  | [[8. Geral/Escolas de Magia/Invocação\|Invocação]]       | C        |
+| [[2. Magias/7° Círculo/Forma Etérea\|Forma Etérea]]                                   | Etherealness       | [[8. Geral/Escolas de Magia/Invocação\|Invocação]]       | \-       |
 | [[2. Magias/7° Círculo/Palavra de Poder - Fortificar\|Palavra de Poder - Fortificar]] | Power Word Fortify | [[8. Geral/Escolas de Magia/Encantamento\|Encantamento]] | \-       |
 | [[2. Magias/7° Círculo/Palavra Sagrada\|Palavra Sagrada]]                             | Divine Word        | [[8. Geral/Escolas de Magia/Evocação\|Evocação]]         | \-       |
 | [[2. Magias/7° Círculo/Regeneração\|Regeneração]]                                     | Regenerate         | [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] | \-       |
@@ -184,8 +184,8 @@ Esta seção apresenta a lista de magias de [[1. Classes/Clérigo\|Clérigo]], o
 | Magia                                                                            | Nome em Inglês    | Escola                                                      | Especial |
 | -------------------------------------------------------------------------------- | ----------------- | ----------------------------------------------------------- | -------- |
 | [[2. Magias/9° Círculo/Cura Completa de Massa\|Cura Completa de Massa]]       | Mass Heal         | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       | \-       |
-| [[2. Magias/9° Círculo/Palavra de Poder - Salvar\|Palavra de Poder - Salvar]] | Power Word Heal   | [[8. Geral/Escolas de Magia/Encantamento\|Encantamento]] | \-       |
 | [[2. Magias/9° Círculo/Portal\|Portal]]                                       | Gate              | [[8. Geral/Escolas de Magia/Invocação\|Invocação]]       | C, M     |
+| [[2. Magias/9° Círculo/Palavra de Poder - Salvar\|Palavra de Poder - Salvar]] | Power Word Heal   | [[8. Geral/Escolas de Magia/Encantamento\|Encantamento]] | \-       |
 | [[2. Magias/9° Círculo/Projeção Astral\|Projeção Astral]]                     | Astral Projection | [[8. Geral/Escolas de Magia/Necromancia\|Necromancia]]   | M        |
 | [[2. Magias/9° Círculo/Ressurreição Verdadeira\|Ressurreição Verdadeira]]     | True Ressurection | [[8. Geral/Escolas de Magia/Necromancia\|Necromancia]]   | M        |
 

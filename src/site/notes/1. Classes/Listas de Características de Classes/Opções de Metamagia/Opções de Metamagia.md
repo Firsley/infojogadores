@@ -6,8 +6,8 @@ As seguintes opções estão disponíveis para sua característica [[1. Classes/
 
 | Opção de Metamagia                                                                                                    | Custo em Pontos de Feitiçaria |
 | --------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| [[1. Classes/Listas de Características de Classes/Opções de Metamagia/Magia Acelerada\|Magia Acelerada]]           | 2                             |
 | [[1. Classes/Listas de Características de Classes/Opções de Metamagia/Magia Agravada\|Magia Agravada]]             | 2                             |
+| [[1. Classes/Listas de Características de Classes/Opções de Metamagia/Magia Acelerada\|Magia Acelerada]]           | 2                             |
 | [[1. Classes/Listas de Características de Classes/Opções de Metamagia/Magia Buscadora\|Magia Buscadora]]           | 1                             |
 | [[1. Classes/Listas de Características de Classes/Opções de Metamagia/Magia Cautelosa\|Magia Cautelosa]]           | 1                             |
 | [[1. Classes/Listas de Características de Classes/Opções de Metamagia/Magia Distante\|Magia Distante]]             | 1                             |
