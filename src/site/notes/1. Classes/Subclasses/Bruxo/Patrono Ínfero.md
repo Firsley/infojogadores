@@ -27,10 +27,10 @@ Você pode chamar seu patrono Ínfero para alterar o destino a seu favor. Ao rea
 Você pode usar essa característica um número de vezes igual ao seu modificador de Carisma (mínimo de uma vez), no máximo uma vez por jogada, e restaura todos os usos gastos ao completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].
 
 ### Nível 10: Resistência Ínfera
-Ao completar um [[8. Geral/Descanso/Descanso Curto\|Descanso Curto]] ou [[8. Geral/Descanso/Descanso Longo\|Longo]], escolha um tipo de dano, exceto Energético. Você tem [[2. Magias/Truques/Resistência\|Resistência]] a esse tipo de dano até escolher um tipo de dano diferente com esta característica.
+Ao completar um [[8. Geral/Descanso/Descanso Curto\|Descanso Curto]] ou [[8. Geral/Descanso/Descanso Longo\|Longo]], escolha um tipo de dano, exceto Energético. Você tem [[8. Geral/Cura, Dano e Morte/Resistência\|Resistência]] a esse tipo de dano até escolher um tipo de dano diferente com esta característica.
 
 ### Nível 14: Lançar no Inferno
-Uma vez por turno, ao atingir uma criatura com uma jogada de ataque, você pode tentar transportar instantaneamente o alvo para os Planos Inferiores. O alvo deve ser bem-sucedido em uma salvaguarda de Carisma contra a CD para evitar sua magia, ou ele desaparece e atravessa uma paisagem de pesadelo. O alvo sofre 8d10 pontos de dano Psíquico se não for um Ínfero e tem a condição [[8. Geral/Condições/Incapacitado\|Incapacitado]] até o final do seu próximo turno, quando retorna ao espaço que ocupava anteriormente ou ao espaço desocupado mais próximo.
+Uma vez por turno, ao atingir uma criatura com uma jogada de ataque, você pode tentar transportar instantaneamente o alvo para os Planos Inferiores. O alvo deve ser bem-sucedido em uma salvaguarda de Carisma contra a [[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] para evitar sua magia, ou ele desaparece e atravessa uma paisagem de pesadelo. O alvo sofre 8d10 pontos de dano Psíquico se não for um Ínfero e tem a condição [[8. Geral/Condições/Incapacitado\|Incapacitado]] até o final do seu próximo turno, quando retorna ao espaço que ocupava anteriormente ou ao espaço desocupado mais próximo.
 
 Você pode usar esta característica novamente após completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]], a menos que gaste um espaço de Magia de Pacto (nenhuma ação é necessária) para restaurar seu uso.
 

@@ -161,7 +161,7 @@ Além disso, ao realizar uma salvaguarda e falhar, você pode gastar 1 [[1. Clas
 Ao jogar Iniciativa e não usar [[1. Classes/Monge#Nível 2 Metabolismo Incomum\|Metabolismo Incomum]], você recupera [[1. Classes/Monge#Nível 2 Foco do Monge\|Pontos de Foco]] gastos até ter 4, se tiver 3 ou menos.
 
 ## Nível 18: Defesa Superior
-No início do seu turno, você pode gastar 3 [[1. Classes/Monge#Nível 2 Foco do Monge\|Pontos de Foco]] para se fortalecer contra danos por 1 min ou até ter a condição [[8. Geral/Condições/Incapacitado\|Incapacitado]]. Durante esse período, você tem [[8. Geral/Condições/Resistência\|8. Geral/Condições/Resistência]] a todos os tipos de dano, exceto Energético.
+No início do seu turno, você pode gastar 3 [[1. Classes/Monge#Nível 2 Foco do Monge\|Pontos de Foco]] para se fortalecer contra danos por 1 min ou até ter a condição [[8. Geral/Condições/Incapacitado\|Incapacitado]]. Durante esse período, você tem [[8. Geral/Cura, Dano e Morte/Resistência\|8. Geral/Cura, Dano e Morte/Resistência]] a todos os tipos de dano, exceto Energético.
 
 ## Nível 19: Dádiva Épica
 Você adquire o talento [[3. Talentos/Dádivas Épicas/Talentos de Dádiva Épica\|Dádiva Épica]] ou outro [[3. Talentos/Talento\|Talento]] à sua escolha para o qual se qualifica. A [[3. Talentos/Dádivas Épicas/Dádiva do Ataque Irresistível\|Dádiva do Ataque Irresistível]] é recomendada.

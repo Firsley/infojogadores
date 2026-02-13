@@ -4,6 +4,6 @@
 
 Enquanto tem a condição Amedrontado, você sofre os seguintes efeitos.
 
-- ***Testes de Atributo e Ataques Afetados***. Você tem Desvantagem em testes de atributo e jogadas de ataque enquanto a fonte do medo estiver dentro da linha de visão.
+- ***Testes de Atributo e Ataques Afetados***. Você tem [[8. Geral/Termos Diversos/Desvantagem\|Desvantagem]] em testes de atributo e jogadas de ataque enquanto a fonte do medo estiver dentro da linha de visão.
 
 - ***Não Pode Se Aproximar***. Você não pode se aproximar voluntariamente da fonte do medo.

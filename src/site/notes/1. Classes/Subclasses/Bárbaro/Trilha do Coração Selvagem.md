@@ -16,7 +16,7 @@ Sua [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]] se conecta ao poder primiti
 
 ***Lobo***. Enquanto sua [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]] estiver ativa, seus aliados têm Vantagem em jogadas de ataque contra qualquer inimigo seu a até 1,5 m (5 ft.) de você. 
 
-***Urso***. Enquanto em [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]], você tem [[8. Geral/Condições/Resistência\|8. Geral/Condições/Resistência]] a todos os tipos de dano, exceto Energético, Necrótico, Psíquico e Radiante.
+***Urso***. Enquanto em [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]], você tem [[8. Geral/Cura, Dano e Morte/Resistência\|8. Geral/Cura, Dano e Morte/Resistência]] a todos os tipos de dano, exceto Energético, Necrótico, Psíquico e Radiante.
 
 ### Nível 6: Aspecto dos Selvagens
 Você recebe uma das seguintes opções à sua escolha. Sempre que completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]], você pode alterar sua escolha.

@@ -18,7 +18,7 @@ Suas jogadas de ataque com armas e Ataques Desarmados obtém Acerto Crítico em 
 Você adquire outro talento de [[3. Talentos/Talentos de Estilo de Luta/Talentos de Estilo de Luta\|Estilo de Luta]] à sua escolha.
 
 ### Nível 10: Combatente Heroico
-A emoção da batalha leva você à vitória. Durante o combate, você pode se conceder [[Inspiração Heroica\|Inspiração Heroica]] sempre que começar seu turno sem ela.
+A emoção da batalha leva você à vitória. Durante o combate, você pode se conceder [[8. Geral/Termos Diversos/Inspiração Heroica\|Inspiração Heroica]] sempre que começar seu turno sem ela.
 
 ### Nível 15: Crítico Superior
 Suas jogadas de ataque com armas e Ataques Desarmados agora obtém Acerto Crítico em jogadas com resultados 18 a 20 no d20.

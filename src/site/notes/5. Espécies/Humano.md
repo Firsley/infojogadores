@@ -11,7 +11,7 @@ Os humanos são tão diversos em aparência quanto as populações da Terra e ad
 **Tamanho:** Médio (cerca de 1,20-2,10 metros de altura) ou Pequeno (cerca de 0,60-1,20 metro de altura), escolhido ao selecionar esta espécie\
 **Deslocamento:** 9 m (30 ft.)
 
-***Eficiente***. Você adquire [[Inspiração Heroica\|Inspiração Heroica]] sempre que completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].
+***Eficiente***. Você adquire [[8. Geral/Termos Diversos/Inspiração Heroica\|Inspiração Heroica]] sempre que completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].
 
 ***Hábil***. Você adquire proficiência em uma perícia à sua escolha.
 

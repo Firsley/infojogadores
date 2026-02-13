@@ -89,11 +89,11 @@ Se outra característica de Bruxo lhe concede magias sempre preparadas, elas nã
 
 ***Atributo de Conjuração***. Carisma é o atributo de conjuração para suas magias de Bruxo.
 
-- CD para evitar magia = 8 + seu modificador de Carisma + seu Bônus de Proficiência
+- [[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] para evitar magia = 8 + seu modificador de Carisma + seu Bônus de Proficiência
 
 - Modificador de ataque mágico = seu modificador de Carisma + seu Bônus de Proficiência
 
-***Foco de Conjuração***. Você pode usar um Foco Arcano como um Foco de Conjuração para suas magias de Bruxo.
+***Foco de Conjuração***. Você pode usar um [[6. Itens/Equipamentos de Aventura/Foco Arcano\|Foco Arcano]] como um Foco de Conjuração para suas magias de Bruxo.
 
 ## Nível 2: Astúcia Mágica
 Ao final de um rito esotérico que você pode realizar por 1 min, você recupera os espaços de magia das Magias de Pacto gastos em um número igual à metade da sua quantidade máxima (arredondado para cima). Você pode usar esta característica novamente após completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].
@@ -101,10 +101,19 @@ Ao final de um rito esotérico que você pode realizar por 1 min, você recupera
 ## Nível 3: Subclasse de Bruxo
 Você adquire uma subclasse de Bruxo à sua escolha.
 
-As subclasses [[1. Classes/Subclasses/Bruxo/Patrono Arquifada\|Patrono Arquifada]], [[1. Classes/Subclasses/Bruxo/Patrono Celestial\|Patrono Celestial]], [[1. Classes/Subclasses/Bruxo/Patrono O Grande Antigo\|Patrono O Grande Antigo]] e [[1. Classes/Subclasses/Bruxo/Patrono Ínfero\|Patrono Ínfero]] estão disponíveis. Uma subclasse é uma especialidade que concede a você características em determinados níveis de Bruxo. Durante toda sua jornada, você adquire cada uma das características de sua subclasse de seu nível de Bruxo ou menor.
+| Subclasse                                                                           | Fonte            |
+| ----------------------------------------------------------------------------------- | ---------------- |
+| [[1. Classes/Subclasses/Bruxo/Patrono Celestial\|Patrono Celestial]]             | Livro do Jogador |
+| [[1. Classes/Subclasses/Bruxo/Patrono Arquifada\|Patrono Arquifada]]             | Livro do Jogador |
+| [[1. Classes/Subclasses/Bruxo/Patrono O Grande Antigo\|Patrono O Grande Antigo]] | Livro do Jogador |
+| [[1. Classes/Subclasses/Bruxo/Patrono Ínfero\|Patrono Ínfero]]                   | Livro do Jogador |
+
+{ .block-language-dataview}
+
+Uma subclasse é uma especialidade que concede a você características em determinados níveis de Bruxo. Durante toda sua jornada, você adquire cada uma das características de sua subclasse de seu nível de Bruxo ou menor.
 
 ## Nível 4: Aumento no Valor de Atributo
-Você adquire o [[3. Talentos/Talento\|Talento]] [[3. Talentos/Talentos Gerais/Aumento no Valor de Atributo\|Aumento no Valor de Atributo]] ou outro talento à sua escolha para o qual atenda os pré-requisitos. Você adquire essa característica novamente nos níveis 8, 12 e 16 de Bruxo.
+Você adquire o talento [[3. Talentos/Talentos Gerais/Aumento no Valor de Atributo\|Aumento no Valor de Atributo]] ou outro [[3. Talentos/Talento\|talento]] à sua escolha para o qual atenda os pré-requisitos. Você adquire essa característica novamente nos níveis 8, 12 e 16 de Bruxo.
 
 ## Nível 9: Contatar Patrono
 No passado, você entrava em contato com seu patrono por meio de intermediários. Agora, você pode se comunicar diretamente com ele. Você sempre tem a magia [[2. Magias/5° Círculo/Contato Extraplanar\|Contato Extraplanar]] preparada. Com esta característica, você pode conjurar a magia sem gastar um espaço de magia para entrar em contato com seu patrono, e você é bem-sucedido automaticamente na salvaguarda da magia.

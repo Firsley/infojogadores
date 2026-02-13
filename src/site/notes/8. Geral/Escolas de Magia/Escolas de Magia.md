@@ -9,14 +9,14 @@ As escolas de magia ajudam a descrever as magias. Elas não têm regras própria
 As diferentes escolas de magia são:
 | Escolas de Magia                                            |
 | ----------------------------------------------------------- |
-| [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]]   |
 | [[8. Geral/Escolas de Magia/Abjuração\|Abjuração]]       |
-| [[8. Geral/Escolas de Magia/Evocação\|Evocação]]         |
-| [[8. Geral/Escolas de Magia/Invocação\|Invocação]]       |
+| [[8. Geral/Escolas de Magia/Adivinhação\|Adivinhação]]   |
 | [[8. Geral/Escolas de Magia/Encantamento\|Encantamento]] |
+| [[8. Geral/Escolas de Magia/Evocação\|Evocação]]         |
 | [[8. Geral/Escolas de Magia/Transmutação\|Transmutação]] |
-| [[8. Geral/Escolas de Magia/Necromancia\|Necromancia]]   |
 | [[8. Geral/Escolas de Magia/Ilusão\|Ilusão]]             |
+| [[8. Geral/Escolas de Magia/Invocação\|Invocação]]       |
+| [[8. Geral/Escolas de Magia/Necromancia\|Necromancia]]   |
 
 { .block-language-dataview}
 

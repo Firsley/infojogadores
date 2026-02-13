@@ -17,7 +17,7 @@ Durante o sono, você tem a condição [[8. Geral/Condições/Inconsciente\|Inco
 **Característica Especial**. Algumas características são recuperadas durante um Descanso Longo. Se você possui uma característica desse tipo, ela é recuperada conforme detalhado na descrição.
 
 ***Interrupção do Descanso***. Um Descanso Longo é interrompido pelas seguintes situações:
-- Jogar Iniciativa;
+- Jogar [[8. Geral/Combate/Iniciativa\|Iniciativa]];
 - Conjurar uma magia que não seja um truque;
 - Receber qualquer dano;
 - 1 h de caminhada ou outro esforço físico.

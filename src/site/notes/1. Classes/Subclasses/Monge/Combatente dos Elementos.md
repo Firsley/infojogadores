@@ -31,5 +31,5 @@ Enquanto sua [[1. Classes/Subclasses/Monge/Combatente dos Elementos#Nível 3 Sin
 
 ***Passo Destrutivo***. Ao usar seu [[1. Classes/Monge#Nível 2 Foco do Monge\|Passo do Vento]], seu Deslocamento aumenta em 6 m (20 ft.) até o final do turno. Pela duração, qualquer criatura à sua escolha sofre dano igual a uma jogada de seu [[1. Classes/Monge#Nível 1 Artes Marciais\|dado de Artes Marciais]] quando você entra em um espaço a até 1,5 m (5 ft.) dela. O tipo de dano fica à sua escolha, entre Ácido, Elétrico, Gélido, Ígneo ou Trovejante. Uma criatura pode sofrer esse dano apenas uma vez por turno.
 
-***Resistência a Dano***. Você adquire [[2. Magias/Truques/Resistência\|Resistência]] a um dos seguintes tipos de dano à sua escolha: Ácido, Elétrico, Gélido, Ígneo ou Trovejante. No início de cada um dos seus turnos, você pode alterar essa escolha.
+***Resistência a Dano***. Você adquire [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] a um dos seguintes tipos de dano à sua escolha: Ácido, Elétrico, Gélido, Ígneo ou Trovejante. No início de cada um dos seus turnos, você pode alterar essa escolha.
 

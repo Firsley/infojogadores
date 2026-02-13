@@ -15,6 +15,6 @@ Classes: [[1. Classes/Clérigo\|Clérigo]], [[1. Classes/Druida\|Druida]], [[1. 
 **Componentes**: V, S\
 **Duração:** Concentração, até 1 hora
 
-Pela duração da magia, a criatura voluntária que você tocar tem [[8. Geral/Condições/Resistência\|Resistência]] a um tipo de dano à sua escolha: Ácido, Elétrico, Gélido, Ígneo ou Trovejante.
+Pela duração da magia, a criatura voluntária que você tocar tem [[8. Geral/Cura, Dano e Morte/Resistência\|Resistência]] a um tipo de dano à sua escolha: Ácido, Elétrico, Gélido, Ígneo ou Trovejante.
 
 Fonte: Livro do Jogador (PHB), p. 320

@@ -19,6 +19,6 @@ Você toca uma criatura voluntária e a coloca em um estado cataléptico que é 
 
 Pela duração da magia, o alvo parece morto em uma inspeção externa e para magias usadas para determinar a situação do alvo. O alvo está com as condições [[8. Geral/Condições/Cego\|Cego]] e [[8. Geral/Condições/Incapacitado\|Incapacitado]], e o Deslocamento dele é 0.
 
-O alvo também tem [[8. Geral/Condições/Resistência\|Resistência]] a todos os tipos de dano, exceto dano Psíquico, e tem Imunidade à condição [[8. Geral/Condições/Envenenado\|Envenenado]].
+O alvo também tem [[8. Geral/Cura, Dano e Morte/Resistência\|Resistência]] a todos os tipos de dano, exceto dano Psíquico, e tem Imunidade à condição [[8. Geral/Condições/Envenenado\|Envenenado]].
 
 Fonte: Livro do Jogador (PHB), p. 333

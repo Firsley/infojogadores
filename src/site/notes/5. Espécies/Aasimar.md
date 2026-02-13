@@ -11,7 +11,7 @@ Um aasimar pode surgir entre qualquer população de mortais. Eles se parecem co
 **Tamanho:** Médio (cerca de 1,20-2,10 m de altura) ou Pequeno (cerca de 0,60-1,20 m de altura), escolhido ao selecionar esta espécie\
 **Deslocamento:** 9 m (30 ft.)
 
-***Resistência Celestial***. Você tem [[2. Magias/Truques/Resistência\|Resistência]] a dano Necrótico e Radiante.
+***Resistência Celestial***. Você tem [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] a dano Necrótico e Radiante.
 
 ***Visão no Escuro***. Você tem Visão no Escuro com um alcance de 18 m (60 ft.).
 

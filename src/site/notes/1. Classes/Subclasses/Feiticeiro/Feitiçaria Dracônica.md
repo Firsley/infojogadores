@@ -26,7 +26,7 @@ Partes da sua pele são cobertas por finas escamas reluzentes, semelhantes às d
 ### Nível 6: Afinidade Elemental
 Sua magia dracônica tem relação com um tipo de dano associado a dragões. Escolha um desses tipos: Ácido, Elétrico, Gélido, Ígneo ou Venenoso.
 
-Você tem [[2. Magias/Truques/Resistência\|Resistência]] a esse tipo de dano e ao conjurar uma magia que cause dano do tipo associado com a sua ancestralidade dracônica, pode adicionar seu modificador de Carisma a uma jogada de dano dessa magia.
+Você tem [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] a esse tipo de dano e ao conjurar uma magia que cause dano do tipo associado com a sua ancestralidade dracônica, pode adicionar seu modificador de Carisma a uma jogada de dano dessa magia.
 
 ### Nível 14: Asas de Dragão
 Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você pode fazer com que asas dracônicas apareçam em suas costas. As asas duram 1 h ou até você encerrar este efeito (nenhuma ação é necessária). Pela duração, você tem um Deslocamento de Voo de 18 m (60 ft.).

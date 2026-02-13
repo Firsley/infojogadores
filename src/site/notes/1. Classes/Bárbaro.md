@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-classes/barbaro/","title":"Bárbaro"}
 ---
 
-
 **Traços Básicos de Bárbaro**
 
 | Característica               | Descrição                                                                                       |
@@ -60,29 +59,29 @@ Bárbaros frequentemente servem como protetores e líderes em suas comunidades. 
 Como Bárbaro, você recebe as seguintes características de classe ao alcançar os níveis especificados de Bárbaro. Essas características são apresentadas na tabela Características de Bárbaro. 
 
 ## Nível 1: Fúria
-Você pode se imbuir com um poder primitivo chamado Fúria, uma força que lhe concede força e resiliência extraordinárias. Você pode entrar em Fúria como uma Ação Bônus, desde que não esteja vestindo armadura Pesada.
+Você pode se imbuir com um poder primitivo chamado Fúria, uma força que lhe concede força e resiliência extraordinárias. Você pode entrar em Fúria como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], desde que não esteja vestindo armadura Pesada.
 
 Você pode entrar em Fúria o número de vezes indicado na coluna Fúrias da tabela Características de Bárbaro para seu nível de Bárbaro. Você recupera um uso gasto ao completar um [[8. Geral/Descanso/Descanso Curto\|Descanso Curto]], e restaura todos os usos gastos ao completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]]. 
 
 Enquanto ativa, sua Fúria segue as regras abaixo.
 
-***Resistência a Dano***. Você tem Resistência a dano Contundente, Cortante e Perfurante.
+***Resistência a Dano***. Você tem [[8. Geral/Cura, Dano e Morte/Resistência\|Resistência]] a dano Contundente, Cortante e Perfurante.
 
 ***Dano da Fúria***. Quando você realiza um ataque com Força — seja com uma arma ou um Ataque Desarmado — e causar dano ao alvo, você recebe um bônus no dano, que aumenta conforme você adquire níveis como Bárbaro, conforme mostrado na coluna Dano da Fúria da tabela Características de Bárbaro.
 
-***Vantagem com Força***. Você tem Vantagem em testes de Força e salvaguardas de Força. 
+***Vantagem com Força***. Você tem [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] em testes de Força e salvaguardas de Força. 
 
-***Sem Concentração ou Magias***. Você não pode manter a Concentração e não pode conjurar magias.
+***Sem Concentração ou Magias***. Você não pode manter a [[2. Magias/Concentração\|Concentração]] e não pode conjurar magias.
 
 ***Duração***. A Fúria dura até o final do seu próximo turno, e encerra se você vestir armadura Pesada ou ter a condição [[8. Geral/Condições/Incapacitado\|Incapacitado]]. Se sua Fúria ainda estiver ativa no próximo turno, você pode estendê-la por mais um turno ao realizar uma das seguintes ações:
 - Realizar uma jogada de ataque contra um inimigo;
 - Forçar um inimigo a realizar uma salvaguarda;
-- Executar uma Ação Bônus para estender sua Fúria.
+- Executar uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]] para estender sua Fúria.
 
 Cada vez que a Fúria é estendida, ela permanece até o final do seu próximo turno. Você pode manter uma Fúria por até 10 min.
 
 ## Nível 1: Defesa sem Armadura
-Enquanto você não estiver vestindo nenhuma armadura, sua Classe de Armadura base é igual a 10 mais seus modificadores de Destreza e Constituição. Você pode usar um Escudo e ainda receber este benefício.
+Enquanto você não estiver vestindo nenhuma armadura, sua [[8. Geral/Combate/Classe de Armadura (CA)\|Classe de Armadura]] base é igual a 10 mais seus modificadores de Destreza e Constituição. Você pode usar um Escudo e ainda receber este benefício.
 
 ## Nível 1: Maestria em Arma
 Seu treinamento com armas permite que você utilize as [[8. Geral/Armas e Armaduras/Propriedades de Maestria\|Propriedades de Maestria]] com dois tipos de armas Corpo a Corpo Simples ou Marciais à sua escolha, como Machados Grandes e Machadinhas. Sempre que completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]], você pode praticar movimentos com armas e alterar uma dessas escolhas de armas.
@@ -90,21 +89,27 @@ Seu treinamento com armas permite que você utilize as [[8. Geral/Armas e Armadu
 Ao alcançar certos níveis de Bárbaro, você adquire a habilidade de usar as propriedades de maestria de mais tipos de armas, conforme mostrado na coluna Maestria em Armas da tabela Características de Bárbaro.
 
 ## Nível 2: Ataque Imprudente
-Você pode descartar toda preocupação com a defesa para atacar com ferocidade intensificada. Ao realizar sua primeira jogada de ataque no seu turno, você pode decidir atacar de forma imprudente. Fazer isso lhe concede Vantagem em jogadas de ataque usando Força até o início do seu próximo turno, mas jogadas de ataque contra você também têm Vantagem durante esse tempo.
+Você pode descartar toda preocupação com a defesa para atacar com ferocidade intensificada. Ao realizar sua primeira jogada de ataque no seu turno, você pode decidir atacar de forma imprudente. Fazer isso lhe concede [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] em jogadas de ataque usando Força até o início do seu próximo turno, mas jogadas de ataque contra você também têm [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] durante esse tempo.
 
 ## Nível 2: Sentido de Perigo
 Você adquire uma sensibilidade extraordinária de quando as coisas não estão como deveriam, o que lhe dá um benefício ao desviar de perigos. Você tem Vantagem em salvaguardas de Destreza, a menos que tenha a condição [[8. Geral/Condições/Incapacitado\|Incapacitado]].
 
 ## Nível 3: Conhecimento Primordial
-Você adquire proficiência em outra perícia à sua escolha da lista de perícias disponíveis para Bárbaros no
-nível 1.
+Você adquire proficiência em outra perícia à sua escolha da lista de perícias disponíveis para Bárbaros no nível 1.
 
 Além disso, enquanto sua [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]] estiver ativa, você pode canalizar poder primitivo ao tentar realizar certas tarefas. Sempre que realizar um teste de atributo usando uma das seguintes perícias, pode realizá-lo como um teste de Força, mesmo que normalmente utilize outro atributo: Acrobacia, Furtividade, Intimidação, Percepção ou Sobrevivência. Quando você usa essa habilidade, sua Força representa o poder primitivo fluindo em você, refinando sua agilidade, postura e sentidos.
 
 ## Nível 3: Subclasse de Bárbaro
 Você adquire uma subclasse de Bárbaro à sua escolha.
 
-As subclasses [[1. Classes/Subclasses/Bárbaro/Trilha da Árvore do Mundo\|Trilha da Árvore do Mundo]], [[1. Classes/Subclasses/Bárbaro/Trilha do Berserker\|Trilha do Berserker]], [[1. Classes/Subclasses/Bárbaro/Trilha do Coração Selvagem\|Trilha do Coração Selvagem]] e [[1. Classes/Subclasses/Bárbaro/Trilha do Fanático\|Trilha do Fanático]] estão disponíveis.
+| Subclasse                                                                                   | Fonte            |
+| ------------------------------------------------------------------------------------------- | ---------------- |
+| [[1. Classes/Subclasses/Bárbaro/Trilha da Árvore do Mundo\|Trilha da Árvore do Mundo]]   | Livro do Jogador |
+| [[1. Classes/Subclasses/Bárbaro/Trilha do Coração Selvagem\|Trilha do Coração Selvagem]] | Livro do Jogador |
+| [[1. Classes/Subclasses/Bárbaro/Trilha do Berserker\|Trilha do Berserker]]               | Livro do Jogador |
+| [[1. Classes/Subclasses/Bárbaro/Trilha do Fanático\|Trilha do Fanático]]                 | Livro do Jogador |
+
+{ .block-language-dataview}
 
 Uma subclasse é uma especialização que lhe concede características em determinados níveis de Bárbaro. Durante toda sua jornada, você adquire cada característica da sua subclasse que corresponda ao seu nível de Bárbaro ou inferior.
 
@@ -112,25 +117,25 @@ Uma subclasse é uma especialização que lhe concede características em determ
 Você adquire o talento [[3. Talentos/Talentos Gerais/Aumento no Valor de Atributo\|Aumento no Valor de Atributo]] ou outro [[3. Talentos/Talento\|Talento]] à sua escolha para o qual atenda os pré-requisitos. Você adquire essa característica novamente nos níveis 8, 12 e 16 de Bárbaro.
 
 ## Nível 5: Ataque Extra
-Você pode atacar duas vezes, em vez de uma, sempre que executar a ação Atacar no seu turno.
+Você pode atacar duas vezes, em vez de uma, sempre que executar a ação [[8. Geral/Ações em Combate/Atacar\|Atacar]] no seu turno.
 
 ## Nível 5: Movimento Rápido
 Seu Deslocamento aumenta em 3 m (10 ft.) enquanto você não estiver usando Armadura Pesada.
 
 ## Nível 7: Instintos Primitivos
-Seus instintos estão tão apurados que você tem Vantagem nas jogadas de Iniciativa.
+Seus instintos estão tão apurados que você tem [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] nas jogadas de Iniciativa.
 
 ## Nível 7: Bote Instintivo
-Como parte da Ação Bônus que você realiza para entrar em [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]], você pode se mover até metade do seu Deslocamento.
+Como parte da [[8. Geral/Combate/Ação Bônus\|Ação Bônus]] que você realiza para entrar em [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]], você pode se mover até metade do seu Deslocamento.
 
 ## Nível 9: Golpe Brutal
-Se você usar [[1. Classes/Bárbaro#Nível 2: Ataque Imprudente\|Ataque Imprudente]], pode renunciar à Vantagem em uma jogada de ataque com Força à sua escolha no seu turno. A jogada de ataque escolhida não deve ter Desvantagem. Se a jogada de ataque atingir o alvo, este sofre 1d10 pontos de dano adicional do mesmo tipo causado pela arma ou Ataque Desarmado, e você pode causar um efeito de Golpe Brutal à sua escolha.
+Se você usar [[1. Classes/Bárbaro#Nível 2: Ataque Imprudente\|Ataque Imprudente]], pode renunciar à [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] em uma jogada de ataque com Força à sua escolha no seu turno. A jogada de ataque escolhida não deve ter [[8. Geral/Termos Diversos/Desvantagem\|Desvantagem]]. Se a jogada de ataque atingir o alvo, este sofre 1d10 pontos de dano adicional do mesmo tipo causado pela arma ou Ataque Desarmado, e você pode causar um efeito de Golpe Brutal à sua escolha.
 
 Você tem as seguintes opções de efeito. 
 
 ***Golpe Debilitador***. O Deslocamento do alvo é reduzido em 4,5 m (15 ft.) até o início do seu próximo turno. Um alvo pode ser afetado por apenas um Golpe Debilitador de cada vez — o mais recente.
 
-***Golpe Poderoso***. O alvo é empurrado 4,5 m (15 ft.) diretamente para longe de você. Em seguida, você pode se mover até metade do seu Deslocamento diretamente em direção ao alvo sem provocar Ataques de Oportunidade.
+***Golpe Poderoso***. O alvo é empurrado 4,5 m (15 ft.) diretamente para longe de você. Em seguida, você pode se mover até metade do seu Deslocamento diretamente em direção ao alvo sem provocar [[8. Geral/Combate/Ataque de Oportunidade\|Ataques de Oportunidade]].
 
 ## Nível 11: Fúria Implacável
 Sua Fúria pode mantê-lo lutando, apesar de ferimentos graves. Se você atingir 0 Pontos de Vida enquanto sua [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]] estiver ativa e não morrer imediatamente, você pode realizar uma salvaguarda de Constituição CD 10. Em caso de sucesso, seus Pontos de Vida mudam para um número igual a duas vezes seu nível de Bárbaro.
@@ -138,17 +143,17 @@ Sua Fúria pode mantê-lo lutando, apesar de ferimentos graves. Se você atingir
 A cada vez que usar essa característica após a primeira, a CD aumenta em 5. Ao completar um [[8. Geral/Descanso/Descanso Curto\|Descanso Curto]] ou [[8. Geral/Descanso/Descanso Longo\|Longo]], a CD volta para 10.
 
 ## Nível 13: Golpe Brutal Fortalecido
-Você aperfeiçoou novas formas de atacar com ferocidade. Os seguintes efeitos agora estão entre suas opções de Golpe Brutal.
+Você aperfeiçoou novas formas de atacar com ferocidade. Os seguintes efeitos agora estão entre suas opções de [[1. Classes/Bárbaro#Nível 9 Golpe Brutal\|Golpe Brutal]].
 
-***Golpe Atordoante***. O alvo tem Desvantagem na próxima salvaguarda que realizar e não pode realizar Ataques de Oportunidade até o início do seu próximo turno.
+***Golpe Atordoante***. O alvo tem [[8. Geral/Termos Diversos/Desvantagem\|Desvantagem]] na próxima salvaguarda que realizar e não pode realizar [[8. Geral/Combate/Ataque de Oportunidade\|Ataques de Oportunidade]] até o início do seu próximo turno.
 
 ***Golpe Destruidor***. Antes do início do seu próximo turno, a próxima jogada de ataque realizada por outra criatura contra o alvo recebe um bônus de +5. Uma jogada de ataque só pode receber um bônus de Golpe Destruidor por vez.
 
 ## Nível 15: Fúria Persistente
-Ao jogar Iniciativa, você pode recuperar todos os usos gastos de [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]]. Após recuperar a Fúria deste modo, você não pode fazê-lo novamente até completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].
+Ao jogar Iniciativa, você pode recuperar todos os usos gastos de [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]]. Após recuperar a [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]] deste modo, você não pode fazê-lo novamente até completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].
 
 ## Nível 17: Golpe Brutal Fortalecido
-O dano adicional de seu Golpe Brutal aumenta para 2d10 pontos. Além disso, você pode usar dois efeitos diferentes de Golpe Brutal sempre que utilizar esta característica.
+O dano adicional de seu [[1. Classes/Bárbaro#Nível 9 Golpe Brutal\|Golpe Brutal]] aumenta para 2d10 pontos. Além disso, você pode usar dois efeitos diferentes de [[1. Classes/Bárbaro#Nível 9 Golpe Brutal\|Golpe Brutal]] sempre que utilizar esta característica.
 
 ## Nível 18: Força Indomável
 Se o total de seu teste de Força ou de sua salvaguarda de Força for menor que seu valor de Força, você pode usar esse valor no lugar do resultado total.

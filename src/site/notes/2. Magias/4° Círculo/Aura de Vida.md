@@ -15,6 +15,6 @@ Classes: [[1. Classes/Clérigo\|Clérigo]], [[1. Classes/Paladino\|Paladino]]
 **Componentes**: V\
 **Duração:** Concentração, até 10 minutos
 
-Uma aura irradia de você em uma Emanação de 9 m (30 ft.) pela duração da magia. Enquanto estiver na aura, você e seus aliados têm [[8. Geral/Condições/Resistência\|Resistência]] a Dano Necrótico, e seus Pontos de Vida máximos não podem ser reduzidos. Se um aliado com 0 Pontos de Vida começar o turno na aura, esse aliado recupera 1 Ponto de Vida.
+Uma aura irradia de você em uma Emanação de 9 m (30 ft.) pela duração da magia. Enquanto estiver na aura, você e seus aliados têm [[8. Geral/Cura, Dano e Morte/Resistência\|Resistência]] a Dano Necrótico, e seus Pontos de Vida máximos não podem ser reduzidos. Se um aliado com 0 Pontos de Vida começar o turno na aura, esse aliado recupera 1 Ponto de Vida.
 
 Fonte: Livro do Jogador (PHB), p. 245

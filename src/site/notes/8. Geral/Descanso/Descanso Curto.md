@@ -11,7 +11,7 @@ Um Descanso Curto é um intervalo de 1 hora de tempo de inatividade, durante o q
 **Característica Especial**. Algumas características são recuperadas durante um Descanso Curto. Se você possui uma característica desse tipo, ela é recuperada conforme detalhado na descrição.
 
 ***Interrupção do Descanso***: Um Descanso Curto é interrompido nas seguintes situações:
-- Jogar Iniciativa;
+- Jogar [[8. Geral/Combate/Iniciativa\|Iniciativa]];
 - Conjurar uma magia que não seja um truque;
 - Receber qualquer dano;
 

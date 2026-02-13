@@ -29,15 +29,15 @@ Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], escolha uma criatura
 A conexão telepática dura um número de minutos igual ao seu nível de [[1. Classes/Bruxo\|Bruxo]]. Ela encerra mais cedo se você usar esta característica para se conectar com uma criatura diferente.
 
 ### Nível 6: Combatente Clarividente
-Ao formar uma ligação telepática com uma criatura usando [[1. Classes/Subclasses/Bruxo/Patrono O Grande Antigo#Nível 3 Mente Desperta\|Mente Desperta]], você pode forçar essa criatura a realizar uma salvaguarda de Sabedoria contra a CD para evitar sua magia. Se falhar, a criatura tem Desvantagem em jogadas de ataque contra você e você tem Vantagem em jogadas de ataque contra essa criatura pela duração da ligação.
+Ao formar uma ligação telepática com uma criatura usando [[1. Classes/Subclasses/Bruxo/Patrono O Grande Antigo#Nível 3 Mente Desperta\|Mente Desperta]], você pode forçar essa criatura a realizar uma salvaguarda de Sabedoria contra a [[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] para evitar sua magia. Se falhar, a criatura tem [[8. Geral/Termos Diversos/Desvantagem\|Desvantagem]] em jogadas de ataque contra você e você tem [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] em jogadas de ataque contra essa criatura pela duração da ligação.
 
 Você pode usar esta característica novamente após completar um [[8. Geral/Descanso/Descanso Curto\|Descanso Curto]] ou [[8. Geral/Descanso/Descanso Longo\|Longo]] ou gastar um espaço de [[1. Classes/Bruxo#Nível 1 Magia de Pacto\|Magia de Pacto]] (nenhuma ação é necessária) para restaurar seu uso.
 
 ### Nível 10: Danação Mística
-Seu patrono alienígena lhe concede uma maldição poderosa. Você sempre tem a magia [[2. Magias/1° Círculo/Danação\|Danação]] preparada. Ao conjurar [[2. Magias/1° Círculo/Danação\|Danação]] e escolher um atributo, o alvo também tem Desvantagem nas salvaguardas do atributo escolhido pela duração da magia.
+Seu patrono alienígena lhe concede uma maldição poderosa. Você sempre tem a magia [[2. Magias/1° Círculo/Danação\|Danação]] preparada. Ao conjurar [[2. Magias/1° Círculo/Danação\|Danação]] e escolher um atributo, o alvo também tem [[8. Geral/Termos Diversos/Desvantagem\|Desvantagem]] nas salvaguardas do atributo escolhido pela duração da magia.
 
 ### Nível 14: Criar Servo
-Ao conjurar [[2. Magias/4° Círculo/Invocar Aberração\|Invocar Aberração]], você pode modificá-la para não exigir Concentração. Ao fazer isso, a duração da magia se torna 1 min para essa conjuração e, quando invocada, a Aberração tem um número de Pontos de Vida Temporários igual ao seu nível de [[1. Classes/Bruxo\|Bruxo]] mais seu modificador de Carisma.
+Ao conjurar [[2. Magias/4° Círculo/Invocar Aberração\|Invocar Aberração]], você pode modificá-la para não exigir [[2. Magias/Concentração\|Concentração]]. Ao fazer isso, a duração da magia se torna 1 min para essa conjuração e, quando invocada, a Aberração tem um número de Pontos de Vida Temporários igual ao seu nível de [[1. Classes/Bruxo\|Bruxo]] mais seu modificador de Carisma.
 
 Além disso, na primeira vez de cada turno que a Aberração atinge uma criatura sob o efeito da sua [[2. Magias/1° Círculo/Danação\|Danação]], a Aberração causa um dano Psíquico adicional ao alvo igual ao dano bônus dessa magia.
 

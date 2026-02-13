@@ -23,7 +23,7 @@ Ao conjurar uma magia de [[1. Classes/Mago\|Mago]] da escola de [[8. Geral/Escol
 ### Nível 14: Sobrecarga
 Você pode aumentar o poder de suas magias. Ao conjurar uma magia de [[1. Classes/Mago\|Mago]] que cause dano com um espaço de magia de 1° a 5° círculo, você pode causar dano máximo com essa magia no turno no qual a conjurar.
 
-Ao fazer isso pela primeira vez, você não sofre nenhum efeito adverso. Se usar esta característica novamente antes de completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]], você sofre 2d12 pontos de dano Necrótico para cada círculo do espaço de magia imediatamente após conjurá-la. Esse dano ignora [[2. Magias/Truques/Resistência\|Resistência]] e Imunidade.
+Ao fazer isso pela primeira vez, você não sofre nenhum efeito adverso. Se usar esta característica novamente antes de completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]], você sofre 2d12 pontos de dano Necrótico para cada círculo do espaço de magia imediatamente após conjurá-la. Esse dano ignora [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] e Imunidade.
 
 Toda vez que você usa esta característica novamente antes de completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]], o dano Necrótico por círculo de magia aumenta em 1d12.
 

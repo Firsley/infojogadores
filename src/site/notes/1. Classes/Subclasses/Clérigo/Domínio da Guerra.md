@@ -30,5 +30,5 @@ Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você pode realizar 
 Você pode gastar um uso de seu [[1. Classes/Clérigo#Nível 2 Canalizar Divindade\|Canalizar Divindade]] para conjurar [[2. Magias/2° Círculo/Arma Espiritual\|Arma Espiritual]] ou [[2. Magias/1° Círculo/Escudo da Fé\|Escudo da Fé]] em vez de gastar um espaço de magia. Uma magia conjurada dessa maneira não requer Concentração. Em vez disso, a magia permanece por 1 min, mas encerra se você conjurá-la novamente, ter a condição [[8. Geral/Condições/Incapacitado\|Incapacitado]] ou morrer.
 
 ### Nível 17: Avatar da Guerra
-Você adquire [[2. Magias/Truques/Resistência\|Resistência]] a dano Contundente, Cortante e Perfurante.
+Você adquire [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] a dano Contundente, Cortante e Perfurante.
 

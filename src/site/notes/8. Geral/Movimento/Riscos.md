@@ -5,7 +5,7 @@
 ### Queda
 Uma criatura em queda sofre 1d6 pontos de dano Contundente no final da queda para cada 3 metros que caiu, até um máximo de 20d6. Assim que atinge a superfície, ela permanece [[8. Geral/Condições/Caído\|Caída]], a menos que consiga evitar sofrer o dano da queda.
 
-Uma criatura que cai em água ou em outro líquido pode usar sua Reação para realizar um teste de Força CD 15 (Atletismo) ou Destreza CD 15 (Acrobacia) para atingir primeiro a superfície com a cabeça ou os pés. Em caso de sucesso, qualquer dano resultante da queda é reduzido pela metade.
+Uma criatura que cai em água ou em outro líquido pode usar sua [[8. Geral/Combate/Reação\|Reação]] para realizar um teste de Força [[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] 15 (Atletismo) ou Destreza [[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] 15 (Acrobacia) para atingir primeiro a superfície com a cabeça ou os pés. Em caso de sucesso, qualquer dano resultante da queda é reduzido pela metade.
 
 ### Asfixia
 Uma criatura pode prender a respiração por um número de minutos igual a 1 mais seu modificador de Constituição (mínimo de 30 segundos) antes de começar a se asfixiar.
@@ -27,7 +27,7 @@ Uma criatura necessita de uma quantidade diária de água com base em seu tamanh
 | Médio     | 4 L    | Colossal | 240 L |
 
 ### Desnutrição
-Uma criatura necessita de uma quantidade de comida por dia com base em seu tamanho, conforme mostrado na tabela Necessidade de Comida por Dia. Uma criatura que consome menos da metade da comida necessária para um dia deve ser bem-sucedida em uma salvaguarda de Constituição CD 10 ou adquire 1 nível de [[8. Geral/Condições/Exaustão\|Exaustão]] ao final do dia. Uma criatura que não consome nada por 5 dias adquire automaticamente 1 nível de [[8. Geral/Condições/Exaustão\|Exaustão]] ao final do quinto dia, além de um nível adicional ao final de cada dia subsequente sem comida.
+Uma criatura necessita de uma quantidade de comida por dia com base em seu tamanho, conforme mostrado na tabela Necessidade de Comida por Dia. Uma criatura que consome menos da metade da comida necessária para um dia deve ser bem-sucedida em uma salvaguarda de Constituição [[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] 10 ou adquire 1 nível de [[8. Geral/Condições/Exaustão\|Exaustão]] ao final do dia. Uma criatura que não consome nada por 5 dias adquire automaticamente 1 nível de [[8. Geral/Condições/Exaustão\|Exaustão]] ao final do quinto dia, além de um nível adicional ao final de cada dia subsequente sem comida.
 
 A [[8. Geral/Condições/Exaustão\|Exaustão]] causada por desnutrição não pode ser removida até que a criatura consuma a quantidade total de comida necessária para um dia. 
 

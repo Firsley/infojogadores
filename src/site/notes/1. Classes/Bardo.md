@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-classes/bardo/","title":"Bardo"}
 ---
 
-
 **Traços Básicos de Bardo**
 
 | Característica               | Descrição                                                                                                                        |
@@ -29,7 +28,7 @@ A vida de um Bardo é passada viajando, coletando conhecimento, contando histór
 - Adquira as características de nível 1 de Bardo, apresentadas na tabela Características de Bardo.
 
 ## Como um Personagem Multiclasse
-- Adquira as seguintes características da tabela Traços Básicos de Bardo: Dado de Ponto de Vida, proficiência em uma perícia à sua escolha, proficiência com um Instrumento Musical à sua escolha e  treinamento com armadura Leve.
+- Adquira as seguintes características da tabela Traços Básicos de Bardo: Dado de Ponto de Vida, proficiência em uma perícia à sua escolha, proficiência com um [[6. Itens/Ferramentas/Instrumento Musical\|Instrumento Musical]] à sua escolha e treinamento com armadura Leve.
 - Adquira as características de nível 1 de Bardo, apresentadas na tabela Características de Bardo.
 
 **Características de Bardo**
@@ -63,7 +62,7 @@ Como Bardo, você recebe as seguintes características de classe ao alcançar os
 ## Nível 1: Inspiração de Bardo
 Você pode inspirar outros sobrenaturalmente por meio de palavras, música ou dança. Essa inspiração é representada pelo seu dado de Inspiração de Bardo, que é um d6.
 
-***Usando Inspiração de Bardo***. Como uma Ação Bônus, você pode inspirar outra criatura a até 18 m (60 ft.) de você que possa vê-lo ou ouvi-lo. Essa criatura recebe um de seus dados de Inspiração de Bardo. Uma criatura pode ter apenas um dado de Inspiração de Bardo de cada vez.
+***Usando Inspiração de Bardo***. Como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]], você pode inspirar outra criatura a até 18 m (60 ft.) de você que possa vê-lo ou ouvi-lo. Essa criatura recebe um de seus dados de Inspiração de Bardo. Uma criatura pode ter apenas um dado de Inspiração de Bardo de cada vez.
 
 Uma vez, dentro da próxima uma hora, após a criatura falhar em um Teste de d20, ela pode jogar o dado de Inspiração de Bardo e adicionar o resultado ao d20, transformando potencialmente a falha em sucesso. O dado de Inspiração de Bardo é gasto quando for jogado.
 
@@ -76,15 +75,15 @@ Você aprendeu a conjurar magias através de suas artes bárdicas. As informaç�
 
 ***Truques***. Você conhece dois truques à sua escolha da [[2. Magias/Listas de Magias/Lista de Magias de Bardo\|Lista de Magias de Bardo]]. [[2. Magias/Truques/Luzes Dançantes\|Luzes Dançantes]] e [[2. Magias/Truques/Zombaria Perversa\|Zombaria Perversa]] são recomendadas.
 
-Sempre que você alcança um nível de Bardo, pode substituir um dos seus truques por outro truque à sua escolha da lista de magias de Bardo.
+Sempre que você alcança um nível de Bardo, pode substituir um dos seus truques por outro truque à sua escolha da [[2. Magias/Listas de Magias/Lista de Magias de Bardo\|lista de magias de Bardo]].
 
-Ao atingir os níveis 4 e 10, você aprende mais um truque à sua escolha da lista de magias de Bardo, conforme mostrado na coluna Truques da tabela Características de Bardo.
+Ao atingir os níveis 4 e 10, você aprende mais um truque à sua escolha da [[2. Magias/Listas de Magias/Lista de Magias de Bardo\|lista de magias de Bardo]], conforme mostrado na coluna Truques da tabela Características de Bardo.
 
 ***Espaços de Magia***. A tabela Características de Bardo mostra quantos espaços de magia você tem para conjurar suas magias de 1° círculo ou superior. Você restaura todos os espaços gastos quando completa um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].
 
-***Magias Preparadas de 1° Círculo ou Superior***. Você prepara a lista de magias de 1° círculo ou superior que estão disponíveis para você conjurar com esta característica. Para começar, escolha quatro magias de 1° círculo da lista de magias de Bardo. [[2. Magias/1° Círculo/Enfeitiçar Pessoa\|Enfeitiçar Pessoa]], [[2. Magias/1° Círculo/Leque Cromático\|Leque Cromático]], [[2. Magias/1° Círculo/Palavra Curativa\|Palavra Curativa]] e [[2. Magias/1° Círculo/Sussurros Dissonantes\|Sussurros Dissonantes]] são recomendadas.
+***Magias Preparadas de 1° Círculo ou Superior***. Você prepara a lista de magias de 1° círculo ou superior que estão disponíveis para você conjurar com esta característica. Para começar, escolha quatro magias de 1° círculo da [[2. Magias/Listas de Magias/Lista de Magias de Bardo\|lista de magias de Bardo]]. [[2. Magias/1° Círculo/Enfeitiçar Pessoa\|Enfeitiçar Pessoa]], [[2. Magias/1° Círculo/Leque Cromático\|Leque Cromático]], [[2. Magias/1° Círculo/Palavra Curativa\|Palavra Curativa]] e [[2. Magias/1° Círculo/Sussurros Dissonantes\|Sussurros Dissonantes]] são recomendadas.
 
-O número de magias em sua lista aumenta à medida que você alcança níveis de Bardo, conforme mostrado na coluna Magias Preparadas da tabela Características de Bardo. Sempre que esse número aumentar, escolha magias adicionais da lista de magias de Bardo até que o número de magias em sua lista corresponda ao número da tabela. As magias escolhidas devem ser de um círculo para o qual você possui espaços de magia. Por exemplo, se você é um Bardo de nível 3, sua lista de magias preparadas pode incluir seis magias de 1° ou 2° círculo em qualquer combinação.
+O número de magias em sua lista aumenta à medida que você alcança níveis de Bardo, conforme mostrado na coluna Magias Preparadas da tabela Características de Bardo. Sempre que esse número aumentar, escolha magias adicionais da [[2. Magias/Listas de Magias/Lista de Magias de Bardo\|lista de magias de Bardo]] até que o número de magias em sua lista corresponda ao número da tabela. As magias escolhidas devem ser de um círculo para o qual você possui espaços de magia. Por exemplo, se você é um Bardo de nível 3, sua lista de magias preparadas pode incluir seis magias de 1° ou 2° círculo em qualquer combinação.
 
 Se outra característica de Bardo lhe der magias que você sempre tem preparadas, essas magias não contam para o número de magias que você pode preparar com esta característica, mas essas magias, de outra forma, contam como magias de Bardo para você.
 
@@ -92,16 +91,16 @@ Se outra característica de Bardo lhe der magias que você sempre tem preparadas
 
 ***Atributo de Conjuração***. Carisma é seu atributo de conjuração para suas magias de Bardo.
 
-- CD para evitar magia = 8 + seu modificador de Carisma + seu Bônus de Proficiência
+- [[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] para evitar magia = 8 + seu modificador de Carisma + seu Bônus de Proficiência
 
 - Modificador de ataque mágico = seu modificador de Carisma + seu Bônus de Proficiência
 
-***Foco de Conjuração***. Você pode usar um Instrumento Musical como Foco de Conjuração para suas magias de Bardo.
+***Foco de Conjuração***. Você pode usar um [[6. Itens/Ferramentas/Instrumento Musical\|Instrumento Musical]] como Foco de Conjuração para suas magias de Bardo.
 
 ## Nível 2: Especialista
 Você obtém [[8. Geral/Termos Diversos/Especialização\|Especialização]] em duas de suas perícias, à sua escolha, nas quais já seja proficiente. Atuação e Persuasão são recomendadas se você tiver proficiência nelas.
 
-No nível 9 de Bardo, você obtém Especialização em mais duas perícias nas quais já seja proficiente à sua escolha.
+No nível 9 de Bardo, você obtém [[8. Geral/Termos Diversos/Especialização\|Especialização]] em mais duas perícias nas quais já seja proficiente à sua escolha.
 
 ## Nível 2: Pau pra Toda Obra
 Você pode adicionar metade do seu Bônus de Proficiência (arredondado para baixo) a qualquer teste de atributo que realizar que use uma perícia à qual não possua proficiência e que não use seu Bônus de Proficiência.
@@ -111,20 +110,27 @@ Por exemplo, se você realizar um teste de Força (Atletismo) e não tiver profi
 ## Nível 3: Subclasse de Bardo
 Você adquire uma subclasse de Bardo à sua escolha. 
 
-As subclasses [[1. Classes/Subclasses/Bardo/Colégio da Bravura\|Colégio da Bravura]], [[1. Classes/Subclasses/Bardo/Colégio da Dança\|Colégio da Dança]], [[1. Classes/Subclasses/Bardo/Colégio do Conhecimento\|Colégio do Conhecimento]] e [[1. Classes/Subclasses/Bardo/Colégio do Glamour\|Colégio do Glamour]] estão detalhadas após a descrição desta classe. Uma subclasse é uma especialização que lhe concede características em determinados níveis de Bardo. 
+| Subclasse                                                                           | Fonte            |
+| ----------------------------------------------------------------------------------- | ---------------- |
+| [[1. Classes/Subclasses/Bardo/Colégio da Bravura\|Colégio da Bravura]]           | Livro do Jogador |
+| [[1. Classes/Subclasses/Bardo/Colégio da Dança\|Colégio da Dança]]               | Livro do Jogador |
+| [[1. Classes/Subclasses/Bardo/Colégio do Conhecimento\|Colégio do Conhecimento]] | Livro do Jogador |
+| [[1. Classes/Subclasses/Bardo/Colégio do Glamour\|Colégio do Glamour]]           | Livro do Jogador |
 
-Durante toda sua jornada, você adquire cada característica de sua subclasse que corresponda ao seu nível de Bardo ou inferior.
+{ .block-language-dataview}
+
+Uma subclasse é uma especialização que lhe concede características em determinados níveis de Bardo. Durante toda sua jornada, você adquire cada característica de sua subclasse que corresponda ao seu nível de Bardo ou inferior.
 
 ## Nível 4: Aumento no Valor de Atributo
-Você adquire o [[3. Talentos/Talento\|Talento]] [[3. Talentos/Talentos Gerais/Aumento no Valor de Atributo\|Aumento no Valor de Atributo]] ou outro talento à sua escolha para o qual atenda os pré-requisitos. Você adquire essa característica novamente nos níveis 8, 12 e 16 de Bardo.
+Você adquire o [[3. Talentos/Talento\|Talento]] [[3. Talentos/Talentos Gerais/Aumento no Valor de Atributo\|Aumento no Valor de Atributo]] ou outro [[3. Talentos/Talento\|talento]] à sua escolha para o qual atenda os pré-requisitos. Você adquire essa característica novamente nos níveis 8, 12 e 16 de Bardo.
 
 ## Nível 5: Fonte de Inspiração
 Você agora restaura todos os seus usos gastos de [[1. Classes/Bardo#Nível 1: Inspiração de Bardo\|Inspiração de Bardo]] quando completa um [[8. Geral/Descanso/Descanso Curto\|Descanso Curto]] ou [[8. Geral/Descanso/Descanso Longo\|Longo]].
 
-Além disso, você pode gastar um espaço de magia (nenhuma ação necessária) para recuperar um uso gasto de Inspiração de Bardo.
+Além disso, você pode gastar um espaço de magia (nenhuma ação necessária) para recuperar um uso gasto de [[1. Classes/Bardo#Nível 1: Inspiração de Bardo\|Inspiração de Bardo]].
 
 ## Nível 7: Contra-Encantamento
-Você pode usar notas musicais ou palavras de poder para interromper efeitos que influenciam a mente. Se você ou uma criatura a até 9 m (30 ft.) de você falhar em uma salvaguarda contra um efeito que aplica as condições [[8. Geral/Condições/Amedrontado\|Amedrontado]] ou [[8. Geral/Condições/Enfeitiçado\|Enfeitiçado]], você pode executar uma Reação para jogar novamente a salvaguarda, e a nova jogada tem Vantagem.
+Você pode usar notas musicais ou palavras de poder para interromper efeitos que influenciam a mente. Se você ou uma criatura a até 9 m (30 ft.) de você falhar em uma salvaguarda contra um efeito que aplica as condições [[8. Geral/Condições/Amedrontado\|Amedrontado]] ou [[8. Geral/Condições/Enfeitiçado\|Enfeitiçado]], você pode executar uma [[8. Geral/Combate/Reação\|Reação]] para jogar novamente a salvaguarda, e a nova jogada tem [[8. Geral/Termos Diversos/Vantagem\|Vantagem]].
 
 ## Nível 10: Segredos Mágicos
 Você aprendeu segredos de várias tradições mágicas. Sempre que você alcançar um nível de Bardo (incluindo este nível) e o número de Magias Preparadas na tabela Características de Bardo aumentar, você pode escolher qualquer uma das novas magias preparadas da [[2. Magias/Listas de Magias/Lista de Magias de Bardo\|Lista de Magias de Bardo]], [[2. Magias/Listas de Magias/Lista de Magias de Clérigo\|de Clérigo]], [[2. Magias/Listas de Magias/Lista de Magias de Druida\|de Druida]] e [[2. Magias/Listas de Magias/Lista de Magias de Mago\|de Mago]], e as magias escolhidas contam como magias de Bardo para você (veja a seção de cada classe para a respectiva lista de magias).
@@ -132,7 +138,7 @@ Você aprendeu segredos de várias tradições mágicas. Sempre que você alcan�
 Além disso, sempre que você substituir uma magia preparada para esta classe, pode trocá-la por uma magia dessas listas.
 
 ## Nível 18: Inspiração Superior
-Quando você jogar Iniciativa, recupera usos gastos de Inspiração de Bardo até ter dois, se tiver menos do que isso.
+Quando você jogar [[8. Geral/Combate/Iniciativa\|Iniciativa]], recupera usos gastos de [[1. Classes/Bardo#Nível 1: Inspiração de Bardo\|Inspiração de Bardo]] até ter dois, se tiver menos do que isso.
 
 ## Nível 19: Dádiva Épica
 Você adquire um talento [[3. Talentos/Dádivas Épicas/Talentos de Dádiva Épica\|Dádiva Épica]] ou outro [[3. Talentos/Talento\|Talento]] à sua escolha para o qual atenda os pré-requisitos. A [[3. Talentos/Dádivas Épicas/Dádiva da Recordação de Magia\|Dádiva da Recordação de Magia]] é recomendada.

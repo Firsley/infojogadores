@@ -10,4 +10,4 @@ Diferente das outras salvaguardas, esta não está vinculada a um valor de atrib
 
 ***Tirando 1 ou 20***. Um resultado de 1 no d20 para uma Salvaguarda contra Morte conta como duas falhas. Um 20 no d20 significa que você recupera 1 Ponto de Vida. 
 
-***Dano com 0 Pontos de Vida***. Ao sofrer dano com 0 Pontos de Vida, você falha em uma Salvaguarda Contra a Morte. Se o dano for oriundo de um Acerto Crítico, você recebe o dobro de dano. Se o dano for igual ou superior aos seus Pontos de Vida máximos, você morre.
+***Dano com 0 Pontos de Vida***. Ao sofrer dano com 0 Pontos de Vida, você falha em uma Salvaguarda Contra a Morte. Se o dano for oriundo de um [[8. Geral/Combate/Acerto Crítico\|Acerto Crítico]], você recebe o dobro de dano. Se o dano for igual ou superior aos seus Pontos de Vida máximos, você morre.

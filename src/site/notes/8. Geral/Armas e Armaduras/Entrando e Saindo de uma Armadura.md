@@ -3,10 +3,10 @@
 ---
 
 
-| Categoria       | Vestir           | Despir           |
-| --------------- | ---------------- | ---------------- |
-| Armadura Leve   | 1 minuto         | 1 minuto         |
-| Armadura Média  | 5 minutos        | 1 minuto         |
-| Armadura Pesada | 10 minutos       | 5 minutos        |
-| Escudo          | Ação Usar Objeto | Ação Usar Objeto |
+| Categoria       | Vestir               | Despir               |
+| --------------- | -------------------- | -------------------- |
+| Armadura Leve   | 1 minuto             | 1 minuto             |
+| Armadura Média  | 5 minutos            | 1 minuto             |
+| Armadura Pesada | 10 minutos           | 5 minutos            |
+| Escudo          | Ação [[8. Geral/Ações em Combate/Usar Objeto\|Usar Objeto]] | Ação [[8. Geral/Ações em Combate/Usar Objeto\|Usar Objeto]] |
 

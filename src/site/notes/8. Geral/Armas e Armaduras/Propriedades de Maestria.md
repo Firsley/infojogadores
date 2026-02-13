@@ -5,16 +5,16 @@
 Cada arma possui uma propriedade de maestria, que só pode ser utilizada por um personagem que tenha uma característica, como Maestria em Armas, que desbloqueie a propriedade para o personagem. As propriedades estão definidas abaixo.
 
 ### Afligir
-Se você atingir uma criatura com esta arma e causar dano a ela, você tem Vantagem em sua próxima jogada de ataque contra essa criatura antes do final do seu próximo turno.
+Se você atingir uma criatura com esta arma e causar dano a ela, você tem [[8. Geral/Termos Diversos/Vantagem\|Vantagem]] em sua próxima jogada de ataque contra essa criatura antes do final do seu próximo turno.
 
 ### Ágil
 Ao realizar o ataque adicional da propriedade [[8. Geral/Armas e Armaduras/Propriedades de Armas#Leve\|Leve]], você pode fazê-lo como parte da ação [[8. Geral/Ações em Combate/Atacar\|Atacar]], em vez de uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]]. Esse ataque adicional só pode ser realizado uma vez por turno.
 
 ### Derrubar
-Se você atingir uma criatura com esta arma, você pode forçar a criatura a realizar uma salvaguarda de Constituição (CD 8 mais o modificador de atributo usado para realizar a jogada de ataque e seu Bônus de Proficiência). Se falhar, a criatura tem a condição [[8. Geral/Condições/Caído\|Caído]].
+Se você atingir uma criatura com esta arma, você pode forçar a criatura a realizar uma salvaguarda de Constituição ([[8. Geral/Combate/Classe de Dificuldade (CD)\|CD]] 8 mais o modificador de atributo usado para realizar a jogada de ataque e seu Bônus de Proficiência). Se falhar, a criatura tem a condição [[8. Geral/Condições/Caído\|Caído]].
 
 ### Drenar
-Se você atingir uma criatura com esta arma, essa criatura tem Desvantagem na próxima jogada de ataque dela antes do início do seu próximo turno.
+Se você atingir uma criatura com esta arma, essa criatura tem [[8. Geral/Termos Diversos/Desvantagem\|Desvantagem]] na próxima jogada de ataque dela antes do início do seu próximo turno.
 
 ### Empurrar
 Se atingir uma criatura com esta arma, você pode empurrá-la até 3 m (10 ft.) para longe de você se a criatura for Grande ou menor.

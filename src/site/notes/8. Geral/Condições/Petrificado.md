@@ -14,4 +14,4 @@ Enquanto tem a condição Petrificado, você sofre os seguintes efeitos.
 
 - ***Salvaguardas Afetadas***. Você falha automaticamente em salvaguardas de Força e Destreza.
 
-- ***Resistência a Dano***. Você tem [[8. Geral/Condições/Resistência\|Resistência]] a todos os danos.
+- ***Resistência a Dano***. Você tem [[8. Geral/Cura, Dano e Morte/Resistência\|Resistência]] a todos os danos.

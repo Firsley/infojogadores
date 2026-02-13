@@ -26,7 +26,7 @@ Você pode estabelecer comunicação telepática com outras criaturas. Como uma 
 A conexão telepática dura um número de minutos igual ao seu nível de Feiticeiro. Ele encerra mais cedo se você usar essa habilidade para se conectar com uma criatura diferente.
 
 ### Nível 6: Defesas Psíquicas
-Você tem [[2. Magias/Truques/Resistência\|Resistência]] a dano Psíquico e Vantagem em salvaguardas para evitar ou encerrar as condições [[8. Geral/Condições/Amedrontado\|Amedrontado]] ou [[8. Geral/Condições/Enfeitiçado\|Enfeitiçado]].
+Você tem [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] a dano Psíquico e Vantagem em salvaguardas para evitar ou encerrar as condições [[8. Geral/Condições/Amedrontado\|Amedrontado]] ou [[8. Geral/Condições/Enfeitiçado\|Enfeitiçado]].
 
 ### Nível 6: Feitiçaria Psiônica
 Ao conjurar qualquer magia de 1° círculo ou superior com sua característica [[1. Classes/Subclasses/Feiticeiro/Feitiçaria Aberrante#Nível 3 Magias Psiônicas\|Magias Psiônicas]], você pode conjurá-la gastando um espaço de magia normal ou gastando um número de [[1. Classes/Feiticeiro#Nível 2 Fonte de Magia\|Pontos de Feitiçaria]] igual ao círculo da magia. Se você conjurar a magia usando [[1. Classes/Feiticeiro#Nível 2 Fonte de Magia\|Pontos de Feitiçaria]], ela não requer componentes Verbais ou Somáticos e não requer componentes Materiais, a menos que sejam consumidos pela magia ou tenham um custo detalhado nela.

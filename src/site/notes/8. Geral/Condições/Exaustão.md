@@ -10,6 +10,6 @@ Enquanto tem a condição Exaustão, você sofre os seguintes efeitos.
 
 - ***Deslocamento Reduzido***. Seu Deslocamento é reduzido por uma quantidade de metros igual a 1,5 vezes o seu nível de Exaustão.
 
-- ***Remoção de Níveis de Exaustão***. Completar um Descanso Longo remove 1 dos seus níveis de Exaustão. Quando seu nível de Exaustão chega a 0 a condição encerra.
+- ***Remoção de Níveis de Exaustão***. Completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]] remove 1 dos seus níveis de Exaustão. Quando seu nível de Exaustão chega a 0 a condição encerra.
 
 

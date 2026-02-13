@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/8-geral/cura-dano-e-morte/caindo-a-0-pv/"}
 ---
 
-Quando os Pontos de Vida de uma criatura são reduzidos a 0, ela morre definitivamente ou fica Inconsciente, conforme explicado a seguir.
+Quando os Pontos de Vida de uma criatura são reduzidos a 0, ela morre definitivamente ou fica [[8. Geral/Condições/Inconsciente\|Inconsciente]], conforme explicado a seguir.
 
 ### Morte Instantânea
 Aqui estão as principais formas de uma criatura morrer instantaneamente:

@@ -24,7 +24,7 @@ Quando você ativa sua [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]], pode as
 
 Enquanto estiver nesta forma, você adquire os benefícios a seguir.
 
-***Resistência***. Você tem [[2. Magias/Truques/Resistência\|Resistência]] a dano Necrótico, Psíquico e Radiante.
+***Resistência***. Você tem [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] a dano Necrótico, Psíquico e Radiante.
 
 ***Revivificação***. Quando uma criatura a até 9 m (60 ft.) de você atingir 0 Pontos de Vida, você pode executar uma [[8. Geral/Combate/Reação\|Reação]] para gastar um uso da sua [[1. Classes/Bárbaro#Nível 1: Fúria\|Fúria]] e, em vez disso, mudar os Pontos de Vida do alvo para um número igual ao seu nível de [[1. Classes/Bárbaro\|Bárbaro]].
 

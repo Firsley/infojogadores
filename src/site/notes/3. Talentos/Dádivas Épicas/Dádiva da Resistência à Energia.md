@@ -8,6 +8,6 @@ Você adquire os seguintes benefícios.
 
 ***Aumento no Valor de Atributo***. Aumente um valor de atributo à sua escolha em 1, até no máximo 30.
 
-***Resistências à Energia***. Você obtém [[2. Magias/Truques/Resistência\|Resistência]] a dois dos seguintes tipos de dano à sua escolha: Ácido, Elétrico, Gélido, Ígneo, Necrótico, Psíquico, Radiante, Trovejante ou Venenoso. Sempre que completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]], você pode mudar suas escolhas.
+***Resistências à Energia***. Você obtém [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] a dois dos seguintes tipos de dano à sua escolha: Ácido, Elétrico, Gélido, Ígneo, Necrótico, Psíquico, Radiante, Trovejante ou Venenoso. Sempre que completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]], você pode mudar suas escolhas.
 
 ***Redirecionamento de Energia***. Ao sofrer dano de um dos tipos escolhidos para o benefício *Resistências à Energia*, você pode executar uma [[8. Geral/Combate/Reação\|Reação]] para direcionar o dano do mesmo tipo para outra criatura à sua vista a até 18 m (60 ft.) de você que não esteja sob Cobertura Total. Se você fizer isso, essa criatura deve ser bem-sucedida em uma salvaguarda de Destreza (CD 8 mais seu modificador de Constituição e seu Bônus de Proficiência) ou sofre dano igual a 2d12 mais seu modificador de Constituição.

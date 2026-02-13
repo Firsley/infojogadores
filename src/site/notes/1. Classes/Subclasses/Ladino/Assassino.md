@@ -24,7 +24,7 @@ Você é especialista nas seguintes técnicas que auxiliam suas infiltrações.
 ***Mira Móvel***. Ao usar [[1. Classes/Ladino#Nível 3 Mira Firme\|Mira Firme]], seu Deslocamento não é reduzido a 0.
 
 ### Nível 13: Armas Venenosas
-Ao usar a opção *Envenenar* do seu [[1. Classes/Ladino#Nível 5 Golpe Astuto\|Golpe Astuto]], o alvo também sofre 2d6 pontos de dano Venenoso sempre que falhar na salvaguarda. Este dano ignora [[8. Geral/Condições/Resistência\|8. Geral/Condições/Resistência]] a dano Venenoso.
+Ao usar a opção *Envenenar* do seu [[1. Classes/Ladino#Nível 5 Golpe Astuto\|Golpe Astuto]], o alvo também sofre 2d6 pontos de dano Venenoso sempre que falhar na salvaguarda. Este dano ignora [[8. Geral/Cura, Dano e Morte/Resistência\|8. Geral/Cura, Dano e Morte/Resistência]] a dano Venenoso.
 
 ### Nível 17: Golpe Mortal
 Ao acertar com seu [[1. Classes/Ladino#Nível 1 Ataque Furtivo\|Ataque Furtivo]] na primeira rodada de um combate, o alvo deve ser bem-sucedido em uma salvaguarda de Constituição (CD 8 mais seu modificador de Destreza e seu Bônus de Proficiência) ou o dano do ataque é dobrado contra o alvo.

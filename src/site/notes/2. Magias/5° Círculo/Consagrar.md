@@ -35,10 +35,10 @@ Você toca um ponto e infunde uma área ao seu redor com poder sagrado ou profan
 
 **Medo**. Criaturas de qualquer tipo que você escolher tem a condição [[8. Geral/Condições/Amedrontado\|Amedrontado]] enquanto estiverem na área.
 
-**Resistência**. Criaturas de qualquer tipo que você escolher têm [[8. Geral/Condições/Resistência\|Resistência]] a um tipo de dano à sua escolha enquanto estiverem na área.
+**Resistência**. Criaturas de qualquer tipo que você escolher têm [[8. Geral/Cura, Dano e Morte/Resistência\|Resistência]] a um tipo de dano à sua escolha enquanto estiverem na área.
 
 **Silêncio**. Nenhum som pode emanar de dentro da área e nenhum som pode adentrá-la.
 
-**Vulnerabilidade**. Criaturas de qualquer tipo que você escolher têm [[8. Geral/Condições/Vulnerabilidade\|Vulnerabilidade]] a um tipo de dano à sua escolha enquanto estiverem na área.
+**Vulnerabilidade**. Criaturas de qualquer tipo que você escolher têm [[8. Geral/Cura, Dano e Morte/Vulnerabilidade\|Vulnerabilidade]] a um tipo de dano à sua escolha enquanto estiverem na área.
 
 Fonte: Livro do Jogador (PHB), p. 257

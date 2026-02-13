@@ -23,7 +23,7 @@ Você adquire um Dado de Superioridade adicional ao atingir os níveis 7 (cinco 
 ***Salvaguardas***. Se uma manobra exigir uma salvaguarda, a CD é igual a 8 mais seu modificador de Força ou Destreza (à sua escolha) e seu Bônus de Proficiência.
 
 ### Nível 7: Conheça Seu Inimigo
-Como uma Ação Bônus, você pode examinar certos pontos fortes e fracos de uma criatura à sua vista a até 9 m (30 ft.) de você; você sabe se essa criatura tem Imunidades, [[2. Magias/Truques/Resistência\|Resistências]] ou [[8. Geral/Condições/Vulnerabilidade\|Vulnerabilidades]], e se a criatura tiver alguma, você sabe quais são.
+Como uma Ação Bônus, você pode examinar certos pontos fortes e fracos de uma criatura à sua vista a até 9 m (30 ft.) de você; você sabe se essa criatura tem Imunidades, [[2. Magias/Truques/Resistência\|Resistências]] ou [[8. Geral/Cura, Dano e Morte/Vulnerabilidade\|Vulnerabilidades]], e se a criatura tiver alguma, você sabe quais são.
 
 Após usar essa característica, você não pode fazer isso novamente até completar um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]]. Você também pode recuperar um uso da característica gastando um [[1. Classes/Subclasses/Guerreiro/Mestre da Batalha#Nível 3 Superioridade em Combate\|Dado de Superioridade]] (nenhuma ação é necessária).
 

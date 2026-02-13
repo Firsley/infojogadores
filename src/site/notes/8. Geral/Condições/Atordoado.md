@@ -8,4 +8,4 @@ Enquanto tem a condição Atordoado, você sofre os seguintes efeitos.
 
 - ***Salvaguardas Afetadas***. Você falha automaticamente em salvaguardas de Força e Destreza.
 
-- ***Ataques Afetados***. Jogadas de ataque contra você têm Vantagem.
+- ***Ataques Afetados***. Jogadas de ataque contra você têm [[8. Geral/Termos Diversos/Vantagem\|Vantagem]].

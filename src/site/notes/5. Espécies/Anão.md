@@ -15,7 +15,7 @@ Em alguns mundos do multiverso, os primeiros povoados de anões foram erguidos e
 
 ***Visão no Escuro***. Você tem Visão no Escuro com um alcance de 36 m (120 ft.).
 
-***Resistência a Toxinas***. Você tem [[2. Magias/Truques/Resistência\|Resistência]] a Dano Venenoso. Você também tem Vantagem nas salvaguardas que realizar para evitar ou encerrar a condição [[8. Geral/Condições/Envenenado\|Envenenado]].
+***Resistência a Toxinas***. Você tem [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] a Dano Venenoso. Você também tem Vantagem nas salvaguardas que realizar para evitar ou encerrar a condição [[8. Geral/Condições/Envenenado\|Envenenado]].
 
 ***Tenacidade Anã***. Seus Pontos de Vida máximos aumentam em 1, e novamente em 1, sempre que você atinge um nível de personagem.
 

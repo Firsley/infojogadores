@@ -14,4 +14,4 @@ Ao conjurar [[2. Magias/1° Círculo/Convocar Familiar\|Convocar Familiar]], voc
 
 ***Dano Necrótico ou Radiante***. Sempre que o familiar causar dano Contundente, Cortante ou Perfurante, você pode substituir o dano por Necrótico ou Radiante.
 
-***Resistência***. Quando o familiar sofre dano, você pode executar uma [[8. Geral/Combate/Reação\|Reação]] para conceder [[2. Magias/Truques/Resistência\|Resistência]] contra esse dano.
+***Resistência***. Quando o familiar sofre dano, você pode executar uma [[8. Geral/Combate/Reação\|Reação]] para conceder [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] contra esse dano.

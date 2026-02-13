@@ -20,7 +20,7 @@ Nessa página, há informações essenciais sobre:
 
 7. Um pequeno Bestiário contendo monstros e criaturas mencionadas nas [[1. Classes/Classes\|Classes]];
 
-8. Termos específicos e suas explicações, como as ações em combate, todas as armas e armaduras comuns, atributos, regras sobre combate, condições possíveis, regras sobre descanso, descrição das escolas de magia e particularidades sobre movimento.
+8. Termos específicos e suas explicações, como as [[8. Geral/Ações em Combate/Ações em Combate\|ações em combate]], todas as armas e [[8. Geral/Armas e Armaduras/Armaduras\|armaduras]] comuns, [[8. Geral/Atributos/Os Seis Atributos\|atributos]], regras sobre combate, condições possíveis, regras sobre descansos, descrição das [[8. Geral/Escolas de Magia/Escolas de Magia\|escolas de magia]] e particularidades sobre [[8. Geral/Combate/Movimento\|movimento]].
 
 Todas as páginas possuem links internos para facilitar a navegação.
 

@@ -10,4 +10,4 @@ Você adquire os seguintes benefícios.
 
 ***Fundir-se com Sombras***. Enquanto estiver em Meia-luz ou Escuridão, você pode se conceder a condição [[8. Geral/Condições/Invisível\|Invisível]] como uma [[8. Geral/Combate/Ação Bônus\|Ação Bônus]]. A condição encerra imediatamente após você executar uma ação, uma [Ação Bônus] ou uma [[8. Geral/Combate/Reação\|Reação]].
 
-***Forma Sombria***. Enquanto estiver em Meia-luz ou Escuridão, você tem [[2. Magias/Truques/Resistência\|Resistência]] a todos os danos, exceto Psíquico e Radiante.
+***Forma Sombria***. Enquanto estiver em Meia-luz ou Escuridão, você tem [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] a todos os danos, exceto Psíquico e Radiante.

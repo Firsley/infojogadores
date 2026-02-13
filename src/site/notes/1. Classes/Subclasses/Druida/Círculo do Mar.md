@@ -33,7 +33,7 @@ Sua [[1. Classes/Subclasses/Druida/Círculo do Mar#Nível 3 Ira do Mar\|Ira do M
 
 ***Voo***. Você adquire um Deslocamento de Voo igual ao seu Deslocamento.
 
-***Resistência***. Você tem [[2. Magias/Truques/Resistência\|Resistência]] a dano Elétrico, Gélido e Trovejante.
+***Resistência***. Você tem [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] a dano Elétrico, Gélido e Trovejante.
 
 ### Nível 14: Manifestação Oceânica
 Em vez de manifestar a Emanação da [[1. Classes/Subclasses/Druida/Círculo do Mar#Nível 3 Ira do Mar\|Ira do Mar]] ao seu redor, você pode manifestá-la ao redor de uma criatura voluntária a até 18 m (60 ft.) de você. Essa criatura adquire todos os benefícios da Emanação, usando sua CD para evitar magia e seu modificador de Sabedoria.

@@ -27,7 +27,7 @@ Os draconatos parecem dragões bípedes sem asas — escamosos, de olhos brilhan
 
 Você pode usar esse Ataque de Sopro um número de vezes igual ao seu Bônus de Proficiência, e você restaura todos os usos gastos quando completa um [[8. Geral/Descanso/Descanso Longo\|Descanso Longo]].
 
-***Resistência a Dano***. Você tem [[2. Magias/Truques/Resistência\|Resistência]] ao tipo de dano determinado por seu traço *Herança Dracônica*.
+***Resistência a Dano***. Você tem [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] ao tipo de dano determinado por seu traço *Herança Dracônica*.
 
 ***Visão no Escuro***. Você tem Visão no Escuro com um alcance de 18 m (60 ft.).
 

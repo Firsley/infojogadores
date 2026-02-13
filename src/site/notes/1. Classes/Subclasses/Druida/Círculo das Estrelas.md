@@ -52,5 +52,5 @@ As constelações da sua [[1. Classes/Subclasses/Druida/Círculo das Estrelas#N�
 Além disso, no início de cada um dos seus turnos enquanto estiver na sua [[1. Classes/Subclasses/Druida/Círculo das Estrelas#Nível 3 Forma Estrelada\|Forma Estrelada]], você pode alterar qual constelação brilha em seu corpo.
 
 ### Nível 14: Repleto de Estrelas
-Enquanto estiver em sua [[1. Classes/Subclasses/Druida/Círculo das Estrelas#Nível 3 Forma Estrelada\|Forma Estrelada]], você se torna parcialmente incorpóreo e tem [[2. Magias/Truques/Resistência\|Resistência]] a dano Contundente, Cortante e Perfurante.
+Enquanto estiver em sua [[1. Classes/Subclasses/Druida/Círculo das Estrelas#Nível 3 Forma Estrelada\|Forma Estrelada]], você se torna parcialmente incorpóreo e tem [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] a dano Contundente, Cortante e Perfurante.
 

@@ -7,7 +7,7 @@
 Você persegue presas nos ermos e em outros lugares, usando suas habilidades como Caçador para proteger a natureza e as pessoas em todos os lugares de forças que as destruiriam.
 
 ### Nível 3: Conhecimento do Caçador
-Você pode recorrer às forças da natureza para revelar certos pontos fortes e fracos de sua presa. Enquanto uma criatura está marcada pela [[2. Magias/1° Círculo/Marca do Predador\|Marca do Predador]], você sabe se essa criatura tem Imunidades, [[2. Magias/Truques/Resistência\|Resistências]] ou [[8. Geral/Condições/Vulnerabilidade\|Vulnerabilidades]], e se a criatura tiver alguma, você sabe quais são.
+Você pode recorrer às forças da natureza para revelar certos pontos fortes e fracos de sua presa. Enquanto uma criatura está marcada pela [[2. Magias/1° Círculo/Marca do Predador\|Marca do Predador]], você sabe se essa criatura tem Imunidades, [[2. Magias/Truques/Resistência\|Resistências]] ou [[8. Geral/Cura, Dano e Morte/Vulnerabilidade\|Vulnerabilidades]], e se a criatura tiver alguma, você sabe quais são.
 
 ### Nível 3: Presa do Caçador
 Você recebe uma das seguintes opções de características à sua escolha. Ao completar um [[8. Geral/Descanso/Descanso Curto\|Descanso Curto]] ou [[8. Geral/Descanso/Descanso Longo\|Longo]], você pode substituir a opção escolhida pela outra.
@@ -27,4 +27,4 @@ Você recebe uma das seguintes opções de características à sua escolha. Ao c
 Uma vez por turno, ao causar dano a uma criatura marcada pela [[2. Magias/1° Círculo/Marca do Predador\|Marca do Predador]], você também pode causar dano adicional dessa magia a uma criatura diferente à sua vista e a até 9 m (30 ft.) da primeira criatura.
 
 ### Nível 15: Defesa do Caçador Superior
-Ao sofrer dano, você pode executar uma [[8. Geral/Combate/Reação\|Reação]] para conceder a si mesmo [[2. Magias/Truques/Resistência\|Resistência]] a esse dano e a qualquer outro dano do mesmo tipo até o final do turno atual.
+Ao sofrer dano, você pode executar uma [[8. Geral/Combate/Reação\|Reação]] para conceder a si mesmo [[2. Magias/Truques/Resistência\|2. Magias/Truques/Resistência]] a esse dano e a qualquer outro dano do mesmo tipo até o final do turno atual.
